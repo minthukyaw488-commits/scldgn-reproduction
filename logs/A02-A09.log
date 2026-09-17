@@ -1,0 +1,3438 @@
+Outputs will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/
+Data loading in progress
+fetch ssettins:  /Users/user/MotorImagery/scldgn_official_run/SCLDGN/../data/bci42a 0
+All the data you need is present! 
+Data loading finished
+Trainable Parameters in the network are: 874121
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub1
+	 	 Epoch 1
+Train loss = 1.160 Train Acc = 0.463 Val Acc = 0.441 Val loss = 1.194 Epoch Time = 78.973
+	 	 Epoch 2
+Train loss = 0.980 Train Acc = 0.722 Val Acc = 0.669 Val loss = 1.024 Epoch Time = 78.945
+	 	 Epoch 3
+Train loss = 0.870 Train Acc = 0.779 Val Acc = 0.722 Val loss = 0.921 Epoch Time = 80.137
+	 	 Epoch 4
+Train loss = 0.805 Train Acc = 0.803 Val Acc = 0.748 Val loss = 0.860 Epoch Time = 78.215
+	 	 Epoch 5
+Train loss = 0.761 Train Acc = 0.820 Val Acc = 0.757 Val loss = 0.819 Epoch Time = 79.281
+	 	 Epoch 6
+Train loss = 0.730 Train Acc = 0.830 Val Acc = 0.760 Val loss = 0.790 Epoch Time = 78.896
+	 	 Epoch 7
+Train loss = 0.706 Train Acc = 0.840 Val Acc = 0.765 Val loss = 0.769 Epoch Time = 78.391
+	 	 Epoch 8
+Train loss = 0.687 Train Acc = 0.847 Val Acc = 0.772 Val loss = 0.752 Epoch Time = 79.086
+	 	 Epoch 9
+Train loss = 0.672 Train Acc = 0.853 Val Acc = 0.780 Val loss = 0.739 Epoch Time = 78.544
+	 	 Epoch 10
+Train loss = 0.660 Train Acc = 0.856 Val Acc = 0.778 Val loss = 0.728 Epoch Time = 79.175
+	 	 Epoch 11
+Train loss = 0.650 Train Acc = 0.857 Val Acc = 0.780 Val loss = 0.719 Epoch Time = 77.507
+	 	 Epoch 12
+Train loss = 0.641 Train Acc = 0.860 Val Acc = 0.781 Val loss = 0.712 Epoch Time = 77.685
+	 	 Epoch 13
+Train loss = 0.634 Train Acc = 0.864 Val Acc = 0.779 Val loss = 0.706 Epoch Time = 77.658
+	 	 Epoch 14
+Train loss = 0.627 Train Acc = 0.865 Val Acc = 0.779 Val loss = 0.701 Epoch Time = 77.608
+	 	 Epoch 15
+Train loss = 0.622 Train Acc = 0.865 Val Acc = 0.782 Val loss = 0.696 Epoch Time = 78.040
+	 	 Epoch 16
+Train loss = 0.617 Train Acc = 0.865 Val Acc = 0.783 Val loss = 0.693 Epoch Time = 78.034
+	 	 Epoch 17
+Train loss = 0.612 Train Acc = 0.865 Val Acc = 0.784 Val loss = 0.689 Epoch Time = 77.128
+	 	 Epoch 18
+Train loss = 0.608 Train Acc = 0.867 Val Acc = 0.783 Val loss = 0.685 Epoch Time = 77.125
+	 	 Epoch 19
+Train loss = 0.604 Train Acc = 0.867 Val Acc = 0.784 Val loss = 0.682 Epoch Time = 77.763
+	 	 Epoch 20
+Train loss = 0.600 Train Acc = 0.868 Val Acc = 0.784 Val loss = 0.679 Epoch Time = 77.949
+	 	 Epoch 21
+Train loss = 0.596 Train Acc = 0.869 Val Acc = 0.783 Val loss = 0.676 Epoch Time = 78.634
+	 	 Epoch 22
+Train loss = 0.593 Train Acc = 0.870 Val Acc = 0.782 Val loss = 0.674 Epoch Time = 77.624
+	 	 Epoch 23
+Train loss = 0.590 Train Acc = 0.870 Val Acc = 0.785 Val loss = 0.671 Epoch Time = 78.146
+	 	 Epoch 24
+Train loss = 0.587 Train Acc = 0.871 Val Acc = 0.786 Val loss = 0.669 Epoch Time = 77.519
+	 	 Epoch 25
+Train loss = 0.584 Train Acc = 0.872 Val Acc = 0.787 Val loss = 0.666 Epoch Time = 77.473
+	 	 Epoch 26
+Train loss = 0.581 Train Acc = 0.873 Val Acc = 0.791 Val loss = 0.664 Epoch Time = 77.137
+	 	 Epoch 27
+Train loss = 0.579 Train Acc = 0.871 Val Acc = 0.792 Val loss = 0.662 Epoch Time = 77.167
+	 	 Epoch 28
+Train loss = 0.576 Train Acc = 0.871 Val Acc = 0.794 Val loss = 0.660 Epoch Time = 77.151
+	 	 Epoch 29
+Train loss = 0.574 Train Acc = 0.871 Val Acc = 0.793 Val loss = 0.659 Epoch Time = 77.453
+	 	 Epoch 30
+Train loss = 0.572 Train Acc = 0.872 Val Acc = 0.795 Val loss = 0.657 Epoch Time = 77.337
+	 	 Epoch 31
+Train loss = 0.571 Train Acc = 0.873 Val Acc = 0.796 Val loss = 0.656 Epoch Time = 78.301
+	 	 Epoch 32
+Train loss = 0.569 Train Acc = 0.874 Val Acc = 0.795 Val loss = 0.655 Epoch Time = 78.549
+	 	 Epoch 33
+Train loss = 0.568 Train Acc = 0.875 Val Acc = 0.795 Val loss = 0.654 Epoch Time = 78.366
+	 	 Epoch 34
+Train loss = 0.566 Train Acc = 0.874 Val Acc = 0.795 Val loss = 0.653 Epoch Time = 78.482
+	 	 Epoch 35
+Train loss = 0.565 Train Acc = 0.875 Val Acc = 0.793 Val loss = 0.652 Epoch Time = 77.153
+	 	 Epoch 36
+Train loss = 0.564 Train Acc = 0.876 Val Acc = 0.795 Val loss = 0.651 Epoch Time = 77.322
+	 	 Epoch 37
+Train loss = 0.563 Train Acc = 0.876 Val Acc = 0.795 Val loss = 0.650 Epoch Time = 78.564
+	 	 Epoch 38
+Train loss = 0.562 Train Acc = 0.878 Val Acc = 0.794 Val loss = 0.649 Epoch Time = 78.213
+	 	 Epoch 39
+Train loss = 0.561 Train Acc = 0.878 Val Acc = 0.795 Val loss = 0.649 Epoch Time = 80.096
+	 	 Epoch 40
+Train loss = 0.560 Train Acc = 0.879 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 79.442
+	 	 Epoch 41
+Train loss = 0.560 Train Acc = 0.879 Val Acc = 0.796 Val loss = 0.647 Epoch Time = 79.098
+	 	 Epoch 42
+Train loss = 0.559 Train Acc = 0.880 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 77.688
+	 	 Epoch 43
+Train loss = 0.558 Train Acc = 0.880 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 78.151
+	 	 Epoch 44
+Train loss = 0.558 Train Acc = 0.881 Val Acc = 0.797 Val loss = 0.645 Epoch Time = 77.547
+	 	 Epoch 45
+Train loss = 0.557 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.645 Epoch Time = 77.343
+	 	 Epoch 46
+Train loss = 0.557 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.644 Epoch Time = 77.571
+	 	 Epoch 47
+Train loss = 0.556 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.644 Epoch Time = 78.153
+	 	 Epoch 48
+Train loss = 0.556 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.643 Epoch Time = 78.299
+	 	 Epoch 49
+Train loss = 0.556 Train Acc = 0.884 Val Acc = 0.797 Val loss = 0.642 Epoch Time = 77.800
+	 	 Epoch 50
+Train loss = 0.555 Train Acc = 0.884 Val Acc = 0.798 Val loss = 0.642 Epoch Time = 78.581
+	 	 Epoch 51
+Train loss = 0.555 Train Acc = 0.884 Val Acc = 0.800 Val loss = 0.641 Epoch Time = 78.989
+	 	 Epoch 52
+Train loss = 0.554 Train Acc = 0.883 Val Acc = 0.801 Val loss = 0.641 Epoch Time = 78.534
+	 	 Epoch 53
+Train loss = 0.554 Train Acc = 0.883 Val Acc = 0.805 Val loss = 0.640 Epoch Time = 78.545
+	 	 Epoch 54
+Train loss = 0.554 Train Acc = 0.883 Val Acc = 0.805 Val loss = 0.640 Epoch Time = 78.684
+	 	 Epoch 55
+Train loss = 0.554 Train Acc = 0.884 Val Acc = 0.807 Val loss = 0.640 Epoch Time = 78.514
+	 	 Epoch 56
+Train loss = 0.553 Train Acc = 0.884 Val Acc = 0.808 Val loss = 0.639 Epoch Time = 78.728
+	 	 Epoch 57
+Train loss = 0.553 Train Acc = 0.886 Val Acc = 0.809 Val loss = 0.639 Epoch Time = 78.461
+	 	 Epoch 58
+Train loss = 0.553 Train Acc = 0.886 Val Acc = 0.808 Val loss = 0.638 Epoch Time = 78.952
+	 	 Epoch 59
+Train loss = 0.552 Train Acc = 0.887 Val Acc = 0.806 Val loss = 0.638 Epoch Time = 77.814
+	 	 Epoch 60
+Train loss = 0.552 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.637 Epoch Time = 77.643
+	 	 Epoch 61
+Train loss = 0.552 Train Acc = 0.886 Val Acc = 0.808 Val loss = 0.637 Epoch Time = 353.113
+	 	 Epoch 62
+Train loss = 0.551 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.637 Epoch Time = 131.749
+	 	 Epoch 63
+Train loss = 0.551 Train Acc = 0.887 Val Acc = 0.810 Val loss = 0.636 Epoch Time = 77.971
+	 	 Epoch 64
+Train loss = 0.551 Train Acc = 0.887 Val Acc = 0.810 Val loss = 0.636 Epoch Time = 77.010
+	 	 Epoch 65
+Train loss = 0.551 Train Acc = 0.886 Val Acc = 0.812 Val loss = 0.635 Epoch Time = 77.904
+	 	 Epoch 66
+Train loss = 0.550 Train Acc = 0.888 Val Acc = 0.809 Val loss = 0.635 Epoch Time = 77.777
+	 	 Epoch 67
+Train loss = 0.550 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.634 Epoch Time = 77.456
+	 	 Epoch 68
+Train loss = 0.549 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.634 Epoch Time = 77.210
+	 	 Epoch 69
+Train loss = 0.549 Train Acc = 0.887 Val Acc = 0.807 Val loss = 0.633 Epoch Time = 77.547
+	 	 Epoch 70
+Train loss = 0.549 Train Acc = 0.888 Val Acc = 0.806 Val loss = 0.633 Epoch Time = 77.188
+	 	 Epoch 71
+Train loss = 0.548 Train Acc = 0.889 Val Acc = 0.807 Val loss = 0.632 Epoch Time = 77.618
+	 	 Epoch 72
+Train loss = 0.548 Train Acc = 0.890 Val Acc = 0.808 Val loss = 0.632 Epoch Time = 185.229
+	 	 Epoch 73
+Train loss = 0.548 Train Acc = 0.891 Val Acc = 0.809 Val loss = 0.632 Epoch Time = 78.035
+	 	 Epoch 74
+Train loss = 0.547 Train Acc = 0.890 Val Acc = 0.809 Val loss = 0.631 Epoch Time = 78.183
+	 	 Epoch 75
+Train loss = 0.547 Train Acc = 0.890 Val Acc = 0.808 Val loss = 0.631 Epoch Time = 77.921
+	 	 Epoch 76
+Train loss = 0.547 Train Acc = 0.891 Val Acc = 0.808 Val loss = 0.630 Epoch Time = 77.863
+	 	 Epoch 77
+Train loss = 0.546 Train Acc = 0.891 Val Acc = 0.809 Val loss = 0.630 Epoch Time = 77.124
+	 	 Epoch 78
+Train loss = 0.546 Train Acc = 0.891 Val Acc = 0.810 Val loss = 0.629 Epoch Time = 77.111
+	 	 Epoch 79
+Train loss = 0.546 Train Acc = 0.891 Val Acc = 0.809 Val loss = 0.629 Epoch Time = 77.191
+	 	 Epoch 80
+Train loss = 0.545 Train Acc = 0.891 Val Acc = 0.810 Val loss = 0.629 Epoch Time = 77.626
+	 	 Epoch 81
+Train loss = 0.545 Train Acc = 0.891 Val Acc = 0.810 Val loss = 0.628 Epoch Time = 77.502
+	 	 Epoch 82
+Train loss = 0.544 Train Acc = 0.892 Val Acc = 0.810 Val loss = 0.628 Epoch Time = 78.226
+	 	 Epoch 83
+Train loss = 0.544 Train Acc = 0.892 Val Acc = 0.809 Val loss = 0.627 Epoch Time = 77.096
+	 	 Epoch 84
+Train loss = 0.544 Train Acc = 0.892 Val Acc = 0.809 Val loss = 0.627 Epoch Time = 77.471
+	 	 Epoch 85
+Train loss = 0.543 Train Acc = 0.892 Val Acc = 0.810 Val loss = 0.626 Epoch Time = 77.242
+	 	 Epoch 86
+Train loss = 0.543 Train Acc = 0.892 Val Acc = 0.811 Val loss = 0.626 Epoch Time = 76.985
+	 	 Epoch 87
+Train loss = 0.543 Train Acc = 0.892 Val Acc = 0.815 Val loss = 0.626 Epoch Time = 77.046
+	 	 Epoch 88
+Train loss = 0.542 Train Acc = 0.892 Val Acc = 0.814 Val loss = 0.625 Epoch Time = 77.042
+	 	 Epoch 89
+Train loss = 0.542 Train Acc = 0.892 Val Acc = 0.816 Val loss = 0.625 Epoch Time = 76.959
+	 	 Epoch 90
+Train loss = 0.542 Train Acc = 0.891 Val Acc = 0.816 Val loss = 0.625 Epoch Time = 77.641
+	 	 Epoch 91
+Train loss = 0.542 Train Acc = 0.891 Val Acc = 0.815 Val loss = 0.624 Epoch Time = 76.969
+	 	 Epoch 92
+Train loss = 0.541 Train Acc = 0.891 Val Acc = 0.814 Val loss = 0.624 Epoch Time = 76.918
+	 	 Epoch 93
+Train loss = 0.541 Train Acc = 0.891 Val Acc = 0.814 Val loss = 0.624 Epoch Time = 76.917
+	 	 Epoch 94
+Train loss = 0.541 Train Acc = 0.891 Val Acc = 0.815 Val loss = 0.623 Epoch Time = 76.916
+	 	 Epoch 95
+Train loss = 0.541 Train Acc = 0.890 Val Acc = 0.815 Val loss = 0.623 Epoch Time = 76.887
+	 	 Epoch 96
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.816 Val loss = 0.623 Epoch Time = 76.904
+	 	 Epoch 97
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.817 Val loss = 0.622 Epoch Time = 76.918
+	 	 Epoch 98
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.817 Val loss = 0.622 Epoch Time = 76.915
+	 	 Epoch 99
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.817 Val loss = 0.622 Epoch Time = 76.886
+	 	 Epoch 100
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.817 Val loss = 0.622 Epoch Time = 76.907
+	 	 Epoch 101
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.816 Val loss = 0.621 Epoch Time = 76.920
+	 	 Epoch 102
+Train loss = 0.538 Train Acc = 0.890 Val Acc = 0.817 Val loss = 0.621 Epoch Time = 76.927
+	 	 Epoch 103
+Train loss = 0.538 Train Acc = 0.891 Val Acc = 0.818 Val loss = 0.621 Epoch Time = 76.904
+	 	 Epoch 104
+Train loss = 0.538 Train Acc = 0.890 Val Acc = 0.818 Val loss = 0.620 Epoch Time = 76.924
+	 	 Epoch 105
+Train loss = 0.538 Train Acc = 0.890 Val Acc = 0.819 Val loss = 0.620 Epoch Time = 76.931
+	 	 Epoch 106
+Train loss = 0.537 Train Acc = 0.890 Val Acc = 0.820 Val loss = 0.620 Epoch Time = 76.886
+	 	 Epoch 107
+Train loss = 0.537 Train Acc = 0.890 Val Acc = 0.820 Val loss = 0.620 Epoch Time = 79.265
+	 	 Epoch 108
+Train loss = 0.537 Train Acc = 0.890 Val Acc = 0.820 Val loss = 0.619 Epoch Time = 77.105
+	 	 Epoch 109
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.820 Val loss = 0.619 Epoch Time = 77.055
+	 	 Epoch 110
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.823 Val loss = 0.619 Epoch Time = 78.463
+	 	 Epoch 111
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.823 Val loss = 0.619 Epoch Time = 79.967
+	 	 Epoch 112
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.618 Epoch Time = 78.034
+	 	 Epoch 113
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.618 Epoch Time = 77.081
+	 	 Epoch 114
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.618 Epoch Time = 79.275
+	 	 Epoch 115
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.618 Epoch Time = 77.018
+	 	 Epoch 116
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.823 Val loss = 0.617 Epoch Time = 77.060
+	 	 Epoch 117
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.617 Epoch Time = 77.025
+	 	 Epoch 118
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.824 Val loss = 0.617 Epoch Time = 77.633
+	 	 Epoch 119
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.824 Val loss = 0.617 Epoch Time = 77.090
+	 	 Epoch 120
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.824 Val loss = 0.617 Epoch Time = 77.100
+	 	 Epoch 121
+Train loss = 0.534 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.048
+	 	 Epoch 122
+Train loss = 0.534 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.069
+	 	 Epoch 123
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.722
+	 	 Epoch 124
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.426
+	 	 Epoch 125
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.108
+	 	 Epoch 126
+Train loss = 0.533 Train Acc = 0.892 Val Acc = 0.824 Val loss = 0.616 Epoch Time = 77.110
+	 	 Epoch 127
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.824 Val loss = 0.615 Epoch Time = 77.206
+	 	 Epoch 128
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.615 Epoch Time = 78.314
+	 	 Epoch 129
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.615 Epoch Time = 77.081
+	 	 Epoch 130
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.825 Val loss = 0.615 Epoch Time = 77.135
+	 	 Epoch 131
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.827 Val loss = 0.615 Epoch Time = 77.944
+	 	 Epoch 132
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.615 Epoch Time = 77.718
+	 	 Epoch 133
+Train loss = 0.532 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.614 Epoch Time = 77.570
+	 	 Epoch 134
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.614 Epoch Time = 77.429
+	 	 Epoch 135
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.614 Epoch Time = 77.406
+	 	 Epoch 136
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.614 Epoch Time = 78.299
+	 	 Epoch 137
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.826 Val loss = 0.614 Epoch Time = 77.096
+	 	 Epoch 138
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.614 Epoch Time = 77.046
+	 	 Epoch 139
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.829 Val loss = 0.614 Epoch Time = 77.193
+	 	 Epoch 140
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.614 Epoch Time = 77.083
+	 	 Epoch 141
+Train loss = 0.531 Train Acc = 0.891 Val Acc = 0.831 Val loss = 0.614 Epoch Time = 77.060
+	 	 Epoch 142
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.831 Val loss = 0.614 Epoch Time = 77.088
+	 	 Epoch 143
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.614 Epoch Time = 77.051
+	 	 Epoch 144
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.068
+	 	 Epoch 145
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.063
+	 	 Epoch 146
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.095
+	 	 Epoch 147
+Train loss = 0.530 Train Acc = 0.891 Val Acc = 0.831 Val loss = 0.613 Epoch Time = 77.036
+	 	 Epoch 148
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.395
+	 	 Epoch 149
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 78.097
+	 	 Epoch 150
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 78.231
+	 	 Epoch 151
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.746
+	 	 Epoch 152
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 78.491
+	 	 Epoch 153
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 79.642
+	 	 Epoch 154
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.015
+	 	 Epoch 155
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.830 Val loss = 0.613 Epoch Time = 77.146
+	 	 Epoch 156
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 78.824
+	 	 Epoch 157
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 77.254
+	 	 Epoch 158
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 77.284
+	 	 Epoch 159
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 76.970
+	 	 Epoch 160
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.828 Val loss = 0.613 Epoch Time = 77.056
+	 	 Epoch 161
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 77.822
+	 	 Epoch 162
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.829 Val loss = 0.613 Epoch Time = 77.165
+	 	 Epoch 163
+Train loss = 0.529 Train Acc = 0.891 Val Acc = 0.828 Val loss = 0.613 Epoch Time = 78.460
+	 	 Epoch 164
+Train loss = 0.529 Train Acc = 0.890 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.733
+	 	 Epoch 165
+Train loss = 0.529 Train Acc = 0.890 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.630
+	 	 Epoch 166
+Train loss = 0.529 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.453
+	 	 Epoch 167
+Train loss = 0.529 Train Acc = 0.889 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.943
+	 	 Epoch 168
+Train loss = 0.529 Train Acc = 0.890 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.822
+	 	 Epoch 169
+Train loss = 0.529 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 76.881
+	 	 Epoch 170
+Train loss = 0.529 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.872
+	 	 Epoch 171
+Train loss = 0.529 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.346
+	 	 Epoch 172
+Train loss = 0.528 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 78.134
+	 	 Epoch 173
+Train loss = 0.528 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.104
+	 	 Epoch 174
+Train loss = 0.528 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.481
+	 	 Epoch 175
+Train loss = 0.528 Train Acc = 0.889 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 77.000
+	 	 Epoch 176
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 76.890
+	 	 Epoch 177
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 76.856
+	 	 Epoch 178
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 76.875
+	 	 Epoch 179
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.827 Val loss = 0.613 Epoch Time = 76.890
+	 	 Epoch 180
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.886
+	 	 Epoch 181
+Train loss = 0.528 Train Acc = 0.887 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.917
+	 	 Epoch 182
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.861
+	 	 Epoch 183
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.900
+	 	 Epoch 184
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.826 Val loss = 0.613 Epoch Time = 76.906
+	 	 Epoch 185
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 76.894
+	 	 Epoch 186
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 76.921
+	 	 Epoch 187
+Train loss = 0.528 Train Acc = 0.885 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 76.923
+	 	 Epoch 188
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 693.597
+	 	 Epoch 189
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 3549.535
+	 	 Epoch 190
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 78.523
+	 	 Epoch 191
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.729
+	 	 Epoch 192
+Train loss = 0.528 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.177
+	 	 Epoch 193
+Train loss = 0.528 Train Acc = 0.887 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.074
+	 	 Epoch 194
+Train loss = 0.528 Train Acc = 0.887 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.060
+	 	 Epoch 195
+Train loss = 0.529 Train Acc = 0.887 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.075
+	 	 Epoch 196
+Train loss = 0.529 Train Acc = 0.887 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 77.060
+	 	 Epoch 197
+Train loss = 0.529 Train Acc = 0.886 Val Acc = 0.824 Val loss = 0.613 Epoch Time = 78.402
+	 	 Epoch 198
+Train loss = 0.529 Train Acc = 0.886 Val Acc = 0.823 Val loss = 0.613 Epoch Time = 78.138
+	 	 Epoch 199
+Train loss = 0.529 Train Acc = 0.886 Val Acc = 0.821 Val loss = 0.613 Epoch Time = 77.641
+	 	 Epoch 200
+Train loss = 0.529 Train Acc = 0.885 Val Acc = 0.819 Val loss = 0.613 Epoch Time = 77.151
+	 	 Epoch 201
+Train loss = 0.529 Train Acc = 0.886 Val Acc = 0.818 Val loss = 0.613 Epoch Time = 77.037
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8914, 'cm': array([[872,  25,  10,   5],
+       [ 29, 849,  20,  14],
+       [ 67,  61, 749,  35],
+       [ 48,  55,  27, 782]]), 'loss': 0.5305583351536801}
+
+ Validation Results: 
+{'acc': 0.8312, 'cm': array([[213,  16,   5,   6],
+       [ 15, 209,   7,   9],
+       [ 19,  23, 186,  12],
+       [ 14,  24,  12, 190]]), 'loss': 0.6136863072713216}
+
+ Test Results: 
+{'acc': 0.5764, 'cm': array([[98, 14, 24,  8],
+       [12, 96, 25, 11],
+       [40, 12, 78, 14],
+       [38, 34, 12, 60]]), 'loss': 1.0780390633477106}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub2
+	 	 Epoch 1
+Train loss = 1.203 Train Acc = 0.429 Val Acc = 0.410 Val loss = 1.239 Epoch Time = 77.149
+	 	 Epoch 2
+Train loss = 1.020 Train Acc = 0.704 Val Acc = 0.619 Val loss = 1.078 Epoch Time = 77.096
+	 	 Epoch 3
+Train loss = 0.911 Train Acc = 0.754 Val Acc = 0.661 Val loss = 0.985 Epoch Time = 77.108
+	 	 Epoch 4
+Train loss = 0.847 Train Acc = 0.777 Val Acc = 0.685 Val loss = 0.930 Epoch Time = 77.086
+	 	 Epoch 5
+Train loss = 0.805 Train Acc = 0.790 Val Acc = 0.694 Val loss = 0.895 Epoch Time = 77.096
+	 	 Epoch 6
+Train loss = 0.776 Train Acc = 0.800 Val Acc = 0.713 Val loss = 0.869 Epoch Time = 77.103
+	 	 Epoch 7
+Train loss = 0.754 Train Acc = 0.807 Val Acc = 0.719 Val loss = 0.851 Epoch Time = 77.967
+	 	 Epoch 8
+Train loss = 0.737 Train Acc = 0.813 Val Acc = 0.721 Val loss = 0.836 Epoch Time = 80.372
+	 	 Epoch 9
+Train loss = 0.723 Train Acc = 0.817 Val Acc = 0.723 Val loss = 0.825 Epoch Time = 77.951
+	 	 Epoch 10
+Train loss = 0.713 Train Acc = 0.820 Val Acc = 0.728 Val loss = 0.816 Epoch Time = 78.515
+	 	 Epoch 11
+Train loss = 0.704 Train Acc = 0.822 Val Acc = 0.729 Val loss = 0.808 Epoch Time = 80.273
+	 	 Epoch 12
+Train loss = 0.698 Train Acc = 0.824 Val Acc = 0.739 Val loss = 0.802 Epoch Time = 79.684
+	 	 Epoch 13
+Train loss = 0.692 Train Acc = 0.824 Val Acc = 0.740 Val loss = 0.798 Epoch Time = 78.106
+	 	 Epoch 14
+Train loss = 0.687 Train Acc = 0.826 Val Acc = 0.742 Val loss = 0.794 Epoch Time = 78.883
+	 	 Epoch 15
+Train loss = 0.683 Train Acc = 0.829 Val Acc = 0.743 Val loss = 0.790 Epoch Time = 77.314
+	 	 Epoch 16
+Train loss = 0.680 Train Acc = 0.830 Val Acc = 0.746 Val loss = 0.788 Epoch Time = 76.919
+	 	 Epoch 17
+Train loss = 0.677 Train Acc = 0.830 Val Acc = 0.749 Val loss = 0.785 Epoch Time = 76.825
+	 	 Epoch 18
+Train loss = 0.673 Train Acc = 0.830 Val Acc = 0.748 Val loss = 0.782 Epoch Time = 76.841
+	 	 Epoch 19
+Train loss = 0.671 Train Acc = 0.830 Val Acc = 0.748 Val loss = 0.780 Epoch Time = 76.782
+	 	 Epoch 20
+Train loss = 0.668 Train Acc = 0.831 Val Acc = 0.747 Val loss = 0.777 Epoch Time = 76.794
+	 	 Epoch 21
+Train loss = 0.665 Train Acc = 0.831 Val Acc = 0.747 Val loss = 0.774 Epoch Time = 78.006
+	 	 Epoch 22
+Train loss = 0.662 Train Acc = 0.832 Val Acc = 0.748 Val loss = 0.772 Epoch Time = 76.899
+	 	 Epoch 23
+Train loss = 0.659 Train Acc = 0.833 Val Acc = 0.748 Val loss = 0.770 Epoch Time = 76.861
+	 	 Epoch 24
+Train loss = 0.656 Train Acc = 0.835 Val Acc = 0.750 Val loss = 0.768 Epoch Time = 76.791
+	 	 Epoch 25
+Train loss = 0.653 Train Acc = 0.836 Val Acc = 0.752 Val loss = 0.765 Epoch Time = 77.258
+	 	 Epoch 26
+Train loss = 0.650 Train Acc = 0.839 Val Acc = 0.752 Val loss = 0.762 Epoch Time = 76.904
+	 	 Epoch 27
+Train loss = 0.648 Train Acc = 0.842 Val Acc = 0.752 Val loss = 0.760 Epoch Time = 76.808
+	 	 Epoch 28
+Train loss = 0.645 Train Acc = 0.842 Val Acc = 0.753 Val loss = 0.757 Epoch Time = 77.084
+	 	 Epoch 29
+Train loss = 0.642 Train Acc = 0.845 Val Acc = 0.755 Val loss = 0.755 Epoch Time = 76.893
+	 	 Epoch 30
+Train loss = 0.640 Train Acc = 0.845 Val Acc = 0.755 Val loss = 0.753 Epoch Time = 76.815
+	 	 Epoch 31
+Train loss = 0.637 Train Acc = 0.848 Val Acc = 0.754 Val loss = 0.751 Epoch Time = 76.775
+	 	 Epoch 32
+Train loss = 0.635 Train Acc = 0.849 Val Acc = 0.755 Val loss = 0.749 Epoch Time = 76.775
+	 	 Epoch 33
+Train loss = 0.633 Train Acc = 0.850 Val Acc = 0.755 Val loss = 0.747 Epoch Time = 76.782
+	 	 Epoch 34
+Train loss = 0.631 Train Acc = 0.851 Val Acc = 0.754 Val loss = 0.745 Epoch Time = 76.752
+	 	 Epoch 35
+Train loss = 0.629 Train Acc = 0.852 Val Acc = 0.756 Val loss = 0.743 Epoch Time = 76.757
+	 	 Epoch 36
+Train loss = 0.627 Train Acc = 0.852 Val Acc = 0.755 Val loss = 0.741 Epoch Time = 76.778
+	 	 Epoch 37
+Train loss = 0.625 Train Acc = 0.853 Val Acc = 0.755 Val loss = 0.740 Epoch Time = 76.776
+	 	 Epoch 38
+Train loss = 0.623 Train Acc = 0.855 Val Acc = 0.756 Val loss = 0.738 Epoch Time = 76.777
+	 	 Epoch 39
+Train loss = 0.622 Train Acc = 0.856 Val Acc = 0.757 Val loss = 0.736 Epoch Time = 76.773
+	 	 Epoch 40
+Train loss = 0.620 Train Acc = 0.858 Val Acc = 0.757 Val loss = 0.735 Epoch Time = 76.784
+	 	 Epoch 41
+Train loss = 0.619 Train Acc = 0.859 Val Acc = 0.756 Val loss = 0.733 Epoch Time = 76.786
+	 	 Epoch 42
+Train loss = 0.617 Train Acc = 0.860 Val Acc = 0.755 Val loss = 0.732 Epoch Time = 76.751
+	 	 Epoch 43
+Train loss = 0.616 Train Acc = 0.861 Val Acc = 0.755 Val loss = 0.731 Epoch Time = 78.909
+	 	 Epoch 44
+Train loss = 0.615 Train Acc = 0.861 Val Acc = 0.758 Val loss = 0.730 Epoch Time = 77.578
+	 	 Epoch 45
+Train loss = 0.614 Train Acc = 0.862 Val Acc = 0.760 Val loss = 0.729 Epoch Time = 77.117
+	 	 Epoch 46
+Train loss = 0.612 Train Acc = 0.863 Val Acc = 0.759 Val loss = 0.727 Epoch Time = 77.002
+	 	 Epoch 47
+Train loss = 0.611 Train Acc = 0.863 Val Acc = 0.759 Val loss = 0.726 Epoch Time = 76.981
+	 	 Epoch 48
+Train loss = 0.610 Train Acc = 0.864 Val Acc = 0.760 Val loss = 0.726 Epoch Time = 76.993
+	 	 Epoch 49
+Train loss = 0.610 Train Acc = 0.865 Val Acc = 0.762 Val loss = 0.725 Epoch Time = 77.241
+	 	 Epoch 50
+Train loss = 0.609 Train Acc = 0.867 Val Acc = 0.762 Val loss = 0.724 Epoch Time = 77.511
+	 	 Epoch 51
+Train loss = 0.608 Train Acc = 0.867 Val Acc = 0.765 Val loss = 0.723 Epoch Time = 77.636
+	 	 Epoch 52
+Train loss = 0.607 Train Acc = 0.868 Val Acc = 0.763 Val loss = 0.722 Epoch Time = 77.308
+	 	 Epoch 53
+Train loss = 0.606 Train Acc = 0.868 Val Acc = 0.766 Val loss = 0.721 Epoch Time = 77.016
+	 	 Epoch 54
+Train loss = 0.605 Train Acc = 0.868 Val Acc = 0.766 Val loss = 0.720 Epoch Time = 76.991
+	 	 Epoch 55
+Train loss = 0.605 Train Acc = 0.870 Val Acc = 0.768 Val loss = 0.720 Epoch Time = 76.986
+	 	 Epoch 56
+Train loss = 0.604 Train Acc = 0.870 Val Acc = 0.768 Val loss = 0.719 Epoch Time = 77.014
+	 	 Epoch 57
+Train loss = 0.603 Train Acc = 0.870 Val Acc = 0.768 Val loss = 0.718 Epoch Time = 77.009
+	 	 Epoch 58
+Train loss = 0.602 Train Acc = 0.870 Val Acc = 0.771 Val loss = 0.717 Epoch Time = 76.967
+	 	 Epoch 59
+Train loss = 0.602 Train Acc = 0.871 Val Acc = 0.774 Val loss = 0.717 Epoch Time = 78.150
+	 	 Epoch 60
+Train loss = 0.601 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.716 Epoch Time = 76.967
+	 	 Epoch 61
+Train loss = 0.601 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.715 Epoch Time = 78.024
+	 	 Epoch 62
+Train loss = 0.600 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.715 Epoch Time = 75.841
+	 	 Epoch 63
+Train loss = 0.599 Train Acc = 0.872 Val Acc = 0.777 Val loss = 0.714 Epoch Time = 77.739
+	 	 Epoch 64
+Train loss = 0.599 Train Acc = 0.873 Val Acc = 0.778 Val loss = 0.714 Epoch Time = 77.651
+	 	 Epoch 65
+Train loss = 0.598 Train Acc = 0.873 Val Acc = 0.778 Val loss = 0.713 Epoch Time = 78.180
+	 	 Epoch 66
+Train loss = 0.598 Train Acc = 0.873 Val Acc = 0.776 Val loss = 0.712 Epoch Time = 77.954
+	 	 Epoch 67
+Train loss = 0.597 Train Acc = 0.875 Val Acc = 0.777 Val loss = 0.712 Epoch Time = 77.677
+	 	 Epoch 68
+Train loss = 0.597 Train Acc = 0.875 Val Acc = 0.778 Val loss = 0.711 Epoch Time = 77.693
+	 	 Epoch 69
+Train loss = 0.596 Train Acc = 0.875 Val Acc = 0.778 Val loss = 0.711 Epoch Time = 77.676
+	 	 Epoch 70
+Train loss = 0.596 Train Acc = 0.875 Val Acc = 0.777 Val loss = 0.710 Epoch Time = 77.770
+	 	 Epoch 71
+Train loss = 0.595 Train Acc = 0.876 Val Acc = 0.777 Val loss = 0.710 Epoch Time = 77.664
+	 	 Epoch 72
+Train loss = 0.595 Train Acc = 0.876 Val Acc = 0.778 Val loss = 0.710 Epoch Time = 77.538
+	 	 Epoch 73
+Train loss = 0.595 Train Acc = 0.876 Val Acc = 0.778 Val loss = 0.709 Epoch Time = 77.560
+	 	 Epoch 74
+Train loss = 0.594 Train Acc = 0.876 Val Acc = 0.778 Val loss = 0.709 Epoch Time = 77.549
+	 	 Epoch 75
+Train loss = 0.594 Train Acc = 0.877 Val Acc = 0.779 Val loss = 0.708 Epoch Time = 77.872
+	 	 Epoch 76
+Train loss = 0.593 Train Acc = 0.876 Val Acc = 0.779 Val loss = 0.708 Epoch Time = 77.738
+	 	 Epoch 77
+Train loss = 0.593 Train Acc = 0.876 Val Acc = 0.778 Val loss = 0.707 Epoch Time = 79.883
+	 	 Epoch 78
+Train loss = 0.592 Train Acc = 0.877 Val Acc = 0.776 Val loss = 0.707 Epoch Time = 80.629
+	 	 Epoch 79
+Train loss = 0.592 Train Acc = 0.877 Val Acc = 0.777 Val loss = 0.706 Epoch Time = 80.552
+	 	 Epoch 80
+Train loss = 0.592 Train Acc = 0.878 Val Acc = 0.777 Val loss = 0.706 Epoch Time = 79.651
+	 	 Epoch 81
+Train loss = 0.591 Train Acc = 0.878 Val Acc = 0.776 Val loss = 0.706 Epoch Time = 77.582
+	 	 Epoch 82
+Train loss = 0.591 Train Acc = 0.878 Val Acc = 0.776 Val loss = 0.705 Epoch Time = 77.605
+	 	 Epoch 83
+Train loss = 0.590 Train Acc = 0.878 Val Acc = 0.776 Val loss = 0.705 Epoch Time = 77.594
+	 	 Epoch 84
+Train loss = 0.590 Train Acc = 0.878 Val Acc = 0.776 Val loss = 0.704 Epoch Time = 78.177
+	 	 Epoch 85
+Train loss = 0.590 Train Acc = 0.879 Val Acc = 0.776 Val loss = 0.704 Epoch Time = 79.770
+	 	 Epoch 86
+Train loss = 0.589 Train Acc = 0.879 Val Acc = 0.777 Val loss = 0.704 Epoch Time = 80.799
+	 	 Epoch 87
+Train loss = 0.589 Train Acc = 0.879 Val Acc = 0.776 Val loss = 0.703 Epoch Time = 80.634
+	 	 Epoch 88
+Train loss = 0.588 Train Acc = 0.879 Val Acc = 0.777 Val loss = 0.703 Epoch Time = 78.876
+	 	 Epoch 89
+Train loss = 0.588 Train Acc = 0.879 Val Acc = 0.778 Val loss = 0.703 Epoch Time = 77.632
+	 	 Epoch 90
+Train loss = 0.588 Train Acc = 0.880 Val Acc = 0.778 Val loss = 0.702 Epoch Time = 77.578
+	 	 Epoch 91
+Train loss = 0.587 Train Acc = 0.880 Val Acc = 0.778 Val loss = 0.702 Epoch Time = 77.578
+	 	 Epoch 92
+Train loss = 0.587 Train Acc = 0.880 Val Acc = 0.777 Val loss = 0.702 Epoch Time = 77.089
+	 	 Epoch 93
+Train loss = 0.586 Train Acc = 0.881 Val Acc = 0.778 Val loss = 0.701 Epoch Time = 76.956
+	 	 Epoch 94
+Train loss = 0.586 Train Acc = 0.881 Val Acc = 0.776 Val loss = 0.701 Epoch Time = 76.992
+	 	 Epoch 95
+Train loss = 0.586 Train Acc = 0.881 Val Acc = 0.777 Val loss = 0.701 Epoch Time = 77.467
+	 	 Epoch 96
+Train loss = 0.585 Train Acc = 0.881 Val Acc = 0.777 Val loss = 0.700 Epoch Time = 77.626
+	 	 Epoch 97
+Train loss = 0.585 Train Acc = 0.882 Val Acc = 0.778 Val loss = 0.700 Epoch Time = 77.116
+	 	 Epoch 98
+Train loss = 0.585 Train Acc = 0.882 Val Acc = 0.778 Val loss = 0.700 Epoch Time = 77.281
+	 	 Epoch 99
+Train loss = 0.584 Train Acc = 0.882 Val Acc = 0.777 Val loss = 0.699 Epoch Time = 77.005
+	 	 Epoch 100
+Train loss = 0.584 Train Acc = 0.883 Val Acc = 0.778 Val loss = 0.699 Epoch Time = 76.994
+	 	 Epoch 101
+Train loss = 0.584 Train Acc = 0.883 Val Acc = 0.778 Val loss = 0.699 Epoch Time = 76.982
+	 	 Epoch 102
+Train loss = 0.583 Train Acc = 0.883 Val Acc = 0.779 Val loss = 0.698 Epoch Time = 76.981
+	 	 Epoch 103
+Train loss = 0.583 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.698 Epoch Time = 77.004
+	 	 Epoch 104
+Train loss = 0.583 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.698 Epoch Time = 77.266
+	 	 Epoch 105
+Train loss = 0.582 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.698 Epoch Time = 77.010
+	 	 Epoch 106
+Train loss = 0.582 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.697 Epoch Time = 76.984
+	 	 Epoch 107
+Train loss = 0.582 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.697 Epoch Time = 78.652
+	 	 Epoch 108
+Train loss = 0.581 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.697 Epoch Time = 78.177
+	 	 Epoch 109
+Train loss = 0.581 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.696 Epoch Time = 77.651
+	 	 Epoch 110
+Train loss = 0.581 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.696 Epoch Time = 77.630
+	 	 Epoch 111
+Train loss = 0.580 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.696 Epoch Time = 77.695
+	 	 Epoch 112
+Train loss = 0.580 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.696 Epoch Time = 77.657
+	 	 Epoch 113
+Train loss = 0.580 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.695 Epoch Time = 77.642
+	 	 Epoch 114
+Train loss = 0.579 Train Acc = 0.886 Val Acc = 0.783 Val loss = 0.695 Epoch Time = 77.664
+	 	 Epoch 115
+Train loss = 0.579 Train Acc = 0.886 Val Acc = 0.783 Val loss = 0.695 Epoch Time = 77.667
+	 	 Epoch 116
+Train loss = 0.579 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.695 Epoch Time = 77.674
+	 	 Epoch 117
+Train loss = 0.578 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.694 Epoch Time = 77.659
+	 	 Epoch 118
+Train loss = 0.578 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.694 Epoch Time = 77.644
+	 	 Epoch 119
+Train loss = 0.578 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.694 Epoch Time = 77.650
+	 	 Epoch 120
+Train loss = 0.578 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.694 Epoch Time = 77.663
+	 	 Epoch 121
+Train loss = 0.577 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.693 Epoch Time = 77.691
+	 	 Epoch 122
+Train loss = 0.577 Train Acc = 0.886 Val Acc = 0.781 Val loss = 0.693 Epoch Time = 77.757
+	 	 Epoch 123
+Train loss = 0.577 Train Acc = 0.886 Val Acc = 0.782 Val loss = 0.693 Epoch Time = 77.658
+	 	 Epoch 124
+Train loss = 0.576 Train Acc = 0.886 Val Acc = 0.783 Val loss = 0.693 Epoch Time = 77.658
+	 	 Epoch 125
+Train loss = 0.576 Train Acc = 0.886 Val Acc = 0.783 Val loss = 0.693 Epoch Time = 77.662
+	 	 Epoch 126
+Train loss = 0.576 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.692 Epoch Time = 77.672
+	 	 Epoch 127
+Train loss = 0.576 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.692 Epoch Time = 79.818
+	 	 Epoch 128
+Train loss = 0.575 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.692 Epoch Time = 77.682
+	 	 Epoch 129
+Train loss = 0.575 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.692 Epoch Time = 77.674
+	 	 Epoch 130
+Train loss = 0.575 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.691 Epoch Time = 77.653
+	 	 Epoch 131
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.691 Epoch Time = 77.653
+	 	 Epoch 132
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.691 Epoch Time = 78.348
+	 	 Epoch 133
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.787 Val loss = 0.691 Epoch Time = 78.909
+	 	 Epoch 134
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.691 Epoch Time = 78.938
+	 	 Epoch 135
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.690 Epoch Time = 78.968
+	 	 Epoch 136
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.690 Epoch Time = 78.946
+	 	 Epoch 137
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.690 Epoch Time = 78.966
+	 	 Epoch 138
+Train loss = 0.573 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.690 Epoch Time = 78.905
+	 	 Epoch 139
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.787 Val loss = 0.690 Epoch Time = 78.921
+	 	 Epoch 140
+Train loss = 0.572 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.689 Epoch Time = 78.965
+	 	 Epoch 141
+Train loss = 0.572 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.689 Epoch Time = 78.970
+	 	 Epoch 142
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.689 Epoch Time = 78.958
+	 	 Epoch 143
+Train loss = 0.571 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.689 Epoch Time = 78.965
+	 	 Epoch 144
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.689 Epoch Time = 78.900
+	 	 Epoch 145
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.689 Epoch Time = 78.899
+	 	 Epoch 146
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.688 Epoch Time = 79.024
+	 	 Epoch 147
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.786 Val loss = 0.688 Epoch Time = 78.945
+	 	 Epoch 148
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.786 Val loss = 0.688 Epoch Time = 78.986
+	 	 Epoch 149
+Train loss = 0.570 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.688 Epoch Time = 79.009
+	 	 Epoch 150
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.786 Val loss = 0.688 Epoch Time = 78.972
+	 	 Epoch 151
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.787 Val loss = 0.688 Epoch Time = 78.936
+	 	 Epoch 152
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.787 Val loss = 0.688 Epoch Time = 79.100
+	 	 Epoch 153
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.687 Epoch Time = 78.924
+	 	 Epoch 154
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.687 Epoch Time = 78.934
+	 	 Epoch 155
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 78.958
+	 	 Epoch 156
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 78.929
+	 	 Epoch 157
+Train loss = 0.568 Train Acc = 0.889 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 78.943
+	 	 Epoch 158
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.790 Val loss = 0.687 Epoch Time = 78.932
+	 	 Epoch 159
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.790 Val loss = 0.687 Epoch Time = 78.910
+	 	 Epoch 160
+Train loss = 0.568 Train Acc = 0.889 Val Acc = 0.788 Val loss = 0.687 Epoch Time = 78.909
+	 	 Epoch 161
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 78.944
+	 	 Epoch 162
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 78.961
+	 	 Epoch 163
+Train loss = 0.567 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 78.950
+	 	 Epoch 164
+Train loss = 0.567 Train Acc = 0.888 Val Acc = 0.787 Val loss = 0.686 Epoch Time = 78.846
+	 	 Epoch 165
+Train loss = 0.567 Train Acc = 0.888 Val Acc = 0.787 Val loss = 0.686 Epoch Time = 78.452
+	 	 Epoch 166
+Train loss = 0.567 Train Acc = 0.889 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 76.917
+	 	 Epoch 167
+Train loss = 0.567 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 76.939
+	 	 Epoch 168
+Train loss = 0.567 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 76.905
+	 	 Epoch 169
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 78.151
+	 	 Epoch 170
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.685 Epoch Time = 79.020
+	 	 Epoch 171
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.685 Epoch Time = 78.872
+	 	 Epoch 172
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.787 Val loss = 0.685 Epoch Time = 78.884
+	 	 Epoch 173
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.938
+	 	 Epoch 174
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.919
+	 	 Epoch 175
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.872
+	 	 Epoch 176
+Train loss = 0.566 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 79.294
+	 	 Epoch 177
+Train loss = 0.565 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.967
+	 	 Epoch 178
+Train loss = 0.565 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.685 Epoch Time = 80.859
+	 	 Epoch 179
+Train loss = 0.565 Train Acc = 0.887 Val Acc = 0.784 Val loss = 0.685 Epoch Time = 82.044
+	 	 Epoch 180
+Train loss = 0.565 Train Acc = 0.886 Val Acc = 0.784 Val loss = 0.685 Epoch Time = 80.095
+	 	 Epoch 181
+Train loss = 0.565 Train Acc = 0.886 Val Acc = 0.784 Val loss = 0.685 Epoch Time = 79.220
+	 	 Epoch 182
+Train loss = 0.565 Train Acc = 0.886 Val Acc = 0.783 Val loss = 0.685 Epoch Time = 78.828
+	 	 Epoch 183
+Train loss = 0.565 Train Acc = 0.885 Val Acc = 0.783 Val loss = 0.685 Epoch Time = 78.303
+	 	 Epoch 184
+Train loss = 0.565 Train Acc = 0.885 Val Acc = 0.781 Val loss = 0.685 Epoch Time = 78.359
+	 	 Epoch 185
+Train loss = 0.565 Train Acc = 0.885 Val Acc = 0.781 Val loss = 0.685 Epoch Time = 78.278
+	 	 Epoch 186
+Train loss = 0.565 Train Acc = 0.885 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 78.309
+	 	 Epoch 187
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.878
+	 	 Epoch 188
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.642
+	 	 Epoch 189
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 78.451
+	 	 Epoch 190
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.577
+	 	 Epoch 191
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 75.859
+	 	 Epoch 192
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 78.103
+	 	 Epoch 193
+Train loss = 0.564 Train Acc = 0.883 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 77.678
+	 	 Epoch 194
+Train loss = 0.564 Train Acc = 0.883 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 77.572
+	 	 Epoch 195
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.777 Val loss = 0.684 Epoch Time = 77.867
+	 	 Epoch 196
+Train loss = 0.564 Train Acc = 0.884 Val Acc = 0.777 Val loss = 0.684 Epoch Time = 77.539
+	 	 Epoch 197
+Train loss = 0.563 Train Acc = 0.884 Val Acc = 0.777 Val loss = 0.684 Epoch Time = 77.972
+	 	 Epoch 198
+Train loss = 0.563 Train Acc = 0.883 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 79.614
+	 	 Epoch 199
+Train loss = 0.563 Train Acc = 0.883 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 78.510
+	 	 Epoch 200
+Train loss = 0.563 Train Acc = 0.883 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 77.673
+	 	 Epoch 201
+Train loss = 0.563 Train Acc = 0.883 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 77.632
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8882, 'cm': array([[848,  25,  27,  12],
+       [ 32, 823,  28,  29],
+       [ 58,  48, 754,  52],
+       [ 39,  40,  18, 815]]), 'loss': 0.5687684176260965}
+
+ Validation Results: 
+{'acc': 0.7906, 'cm': array([[198,  17,  16,   9],
+       [ 23, 188,  10,  19],
+       [ 18,  21, 176,  25],
+       [ 13,  21,   9, 197]]), 'loss': 0.6870990753173828}
+
+ Test Results: 
+{'acc': 0.8264, 'cm': array([[ 98,  11,  30,   5],
+       [  5, 108,  26,   5],
+       [  0,   1, 141,   2],
+       [  2,   3,  10, 129]]), 'loss': 0.6202584372626411}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub3
+	 	 Epoch 1
+Train loss = 1.157 Train Acc = 0.469 Val Acc = 0.455 Val loss = 1.193 Epoch Time = 77.668
+	 	 Epoch 2
+Train loss = 0.960 Train Acc = 0.735 Val Acc = 0.658 Val loss = 1.012 Epoch Time = 77.838
+	 	 Epoch 3
+Train loss = 0.851 Train Acc = 0.782 Val Acc = 0.700 Val loss = 0.914 Epoch Time = 77.574
+	 	 Epoch 4
+Train loss = 0.788 Train Acc = 0.806 Val Acc = 0.714 Val loss = 0.859 Epoch Time = 77.622
+	 	 Epoch 5
+Train loss = 0.747 Train Acc = 0.826 Val Acc = 0.727 Val loss = 0.822 Epoch Time = 77.598
+	 	 Epoch 6
+Train loss = 0.719 Train Acc = 0.833 Val Acc = 0.731 Val loss = 0.796 Epoch Time = 77.209
+	 	 Epoch 7
+Train loss = 0.697 Train Acc = 0.837 Val Acc = 0.734 Val loss = 0.777 Epoch Time = 76.819
+	 	 Epoch 8
+Train loss = 0.680 Train Acc = 0.842 Val Acc = 0.742 Val loss = 0.761 Epoch Time = 76.793
+	 	 Epoch 9
+Train loss = 0.667 Train Acc = 0.848 Val Acc = 0.748 Val loss = 0.749 Epoch Time = 76.797
+	 	 Epoch 10
+Train loss = 0.656 Train Acc = 0.850 Val Acc = 0.753 Val loss = 0.739 Epoch Time = 76.840
+	 	 Epoch 11
+Train loss = 0.647 Train Acc = 0.851 Val Acc = 0.754 Val loss = 0.730 Epoch Time = 76.814
+	 	 Epoch 12
+Train loss = 0.640 Train Acc = 0.853 Val Acc = 0.760 Val loss = 0.724 Epoch Time = 76.809
+	 	 Epoch 13
+Train loss = 0.634 Train Acc = 0.854 Val Acc = 0.760 Val loss = 0.718 Epoch Time = 76.755
+	 	 Epoch 14
+Train loss = 0.629 Train Acc = 0.857 Val Acc = 0.760 Val loss = 0.714 Epoch Time = 76.804
+	 	 Epoch 15
+Train loss = 0.624 Train Acc = 0.859 Val Acc = 0.761 Val loss = 0.710 Epoch Time = 76.816
+	 	 Epoch 16
+Train loss = 0.620 Train Acc = 0.860 Val Acc = 0.762 Val loss = 0.706 Epoch Time = 76.848
+	 	 Epoch 17
+Train loss = 0.617 Train Acc = 0.861 Val Acc = 0.763 Val loss = 0.703 Epoch Time = 76.841
+	 	 Epoch 18
+Train loss = 0.614 Train Acc = 0.862 Val Acc = 0.762 Val loss = 0.700 Epoch Time = 76.788
+	 	 Epoch 19
+Train loss = 0.611 Train Acc = 0.863 Val Acc = 0.763 Val loss = 0.698 Epoch Time = 76.796
+	 	 Epoch 20
+Train loss = 0.608 Train Acc = 0.863 Val Acc = 0.767 Val loss = 0.695 Epoch Time = 76.775
+	 	 Epoch 21
+Train loss = 0.605 Train Acc = 0.864 Val Acc = 0.768 Val loss = 0.692 Epoch Time = 76.831
+	 	 Epoch 22
+Train loss = 0.602 Train Acc = 0.864 Val Acc = 0.768 Val loss = 0.690 Epoch Time = 76.882
+	 	 Epoch 23
+Train loss = 0.600 Train Acc = 0.864 Val Acc = 0.769 Val loss = 0.687 Epoch Time = 76.821
+	 	 Epoch 24
+Train loss = 0.597 Train Acc = 0.864 Val Acc = 0.768 Val loss = 0.685 Epoch Time = 76.792
+	 	 Epoch 25
+Train loss = 0.594 Train Acc = 0.867 Val Acc = 0.768 Val loss = 0.683 Epoch Time = 76.820
+	 	 Epoch 26
+Train loss = 0.592 Train Acc = 0.867 Val Acc = 0.770 Val loss = 0.680 Epoch Time = 76.818
+	 	 Epoch 27
+Train loss = 0.590 Train Acc = 0.867 Val Acc = 0.771 Val loss = 0.678 Epoch Time = 78.811
+	 	 Epoch 28
+Train loss = 0.587 Train Acc = 0.867 Val Acc = 0.773 Val loss = 0.676 Epoch Time = 76.798
+	 	 Epoch 29
+Train loss = 0.586 Train Acc = 0.867 Val Acc = 0.772 Val loss = 0.675 Epoch Time = 76.796
+	 	 Epoch 30
+Train loss = 0.583 Train Acc = 0.868 Val Acc = 0.775 Val loss = 0.673 Epoch Time = 76.800
+	 	 Epoch 31
+Train loss = 0.582 Train Acc = 0.869 Val Acc = 0.778 Val loss = 0.671 Epoch Time = 76.825
+	 	 Epoch 32
+Train loss = 0.580 Train Acc = 0.870 Val Acc = 0.781 Val loss = 0.669 Epoch Time = 76.812
+	 	 Epoch 33
+Train loss = 0.578 Train Acc = 0.871 Val Acc = 0.782 Val loss = 0.668 Epoch Time = 76.798
+	 	 Epoch 34
+Train loss = 0.576 Train Acc = 0.871 Val Acc = 0.780 Val loss = 0.666 Epoch Time = 76.813
+	 	 Epoch 35
+Train loss = 0.575 Train Acc = 0.872 Val Acc = 0.781 Val loss = 0.665 Epoch Time = 76.852
+	 	 Epoch 36
+Train loss = 0.573 Train Acc = 0.872 Val Acc = 0.780 Val loss = 0.663 Epoch Time = 76.805
+	 	 Epoch 37
+Train loss = 0.572 Train Acc = 0.872 Val Acc = 0.780 Val loss = 0.662 Epoch Time = 76.805
+	 	 Epoch 38
+Train loss = 0.570 Train Acc = 0.873 Val Acc = 0.781 Val loss = 0.660 Epoch Time = 76.833
+	 	 Epoch 39
+Train loss = 0.569 Train Acc = 0.874 Val Acc = 0.785 Val loss = 0.659 Epoch Time = 76.816
+	 	 Epoch 40
+Train loss = 0.567 Train Acc = 0.874 Val Acc = 0.785 Val loss = 0.658 Epoch Time = 76.693
+	 	 Epoch 41
+Train loss = 0.566 Train Acc = 0.875 Val Acc = 0.786 Val loss = 0.657 Epoch Time = 76.791
+	 	 Epoch 42
+Train loss = 0.565 Train Acc = 0.875 Val Acc = 0.786 Val loss = 0.656 Epoch Time = 76.803
+	 	 Epoch 43
+Train loss = 0.564 Train Acc = 0.876 Val Acc = 0.786 Val loss = 0.655 Epoch Time = 76.844
+	 	 Epoch 44
+Train loss = 0.563 Train Acc = 0.878 Val Acc = 0.787 Val loss = 0.654 Epoch Time = 76.813
+	 	 Epoch 45
+Train loss = 0.562 Train Acc = 0.879 Val Acc = 0.787 Val loss = 0.653 Epoch Time = 76.838
+	 	 Epoch 46
+Train loss = 0.561 Train Acc = 0.878 Val Acc = 0.787 Val loss = 0.652 Epoch Time = 77.102
+	 	 Epoch 47
+Train loss = 0.560 Train Acc = 0.878 Val Acc = 0.787 Val loss = 0.651 Epoch Time = 76.644
+	 	 Epoch 48
+Train loss = 0.559 Train Acc = 0.878 Val Acc = 0.787 Val loss = 0.650 Epoch Time = 76.595
+	 	 Epoch 49
+Train loss = 0.558 Train Acc = 0.878 Val Acc = 0.787 Val loss = 0.649 Epoch Time = 76.598
+	 	 Epoch 50
+Train loss = 0.557 Train Acc = 0.880 Val Acc = 0.790 Val loss = 0.649 Epoch Time = 76.610
+	 	 Epoch 51
+Train loss = 0.557 Train Acc = 0.880 Val Acc = 0.791 Val loss = 0.648 Epoch Time = 76.629
+	 	 Epoch 52
+Train loss = 0.556 Train Acc = 0.880 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.611
+	 	 Epoch 53
+Train loss = 0.555 Train Acc = 0.880 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.638
+	 	 Epoch 54
+Train loss = 0.554 Train Acc = 0.882 Val Acc = 0.798 Val loss = 0.646 Epoch Time = 76.625
+	 	 Epoch 55
+Train loss = 0.554 Train Acc = 0.882 Val Acc = 0.797 Val loss = 0.646 Epoch Time = 76.622
+	 	 Epoch 56
+Train loss = 0.553 Train Acc = 0.882 Val Acc = 0.800 Val loss = 0.645 Epoch Time = 76.606
+	 	 Epoch 57
+Train loss = 0.552 Train Acc = 0.883 Val Acc = 0.801 Val loss = 0.644 Epoch Time = 76.616
+	 	 Epoch 58
+Train loss = 0.552 Train Acc = 0.883 Val Acc = 0.803 Val loss = 0.644 Epoch Time = 76.635
+	 	 Epoch 59
+Train loss = 0.551 Train Acc = 0.883 Val Acc = 0.804 Val loss = 0.643 Epoch Time = 76.622
+	 	 Epoch 60
+Train loss = 0.551 Train Acc = 0.884 Val Acc = 0.806 Val loss = 0.643 Epoch Time = 76.601
+	 	 Epoch 61
+Train loss = 0.550 Train Acc = 0.884 Val Acc = 0.805 Val loss = 0.642 Epoch Time = 76.605
+	 	 Epoch 62
+Train loss = 0.549 Train Acc = 0.885 Val Acc = 0.805 Val loss = 0.642 Epoch Time = 76.635
+	 	 Epoch 63
+Train loss = 0.549 Train Acc = 0.886 Val Acc = 0.806 Val loss = 0.641 Epoch Time = 76.578
+	 	 Epoch 64
+Train loss = 0.548 Train Acc = 0.886 Val Acc = 0.807 Val loss = 0.641 Epoch Time = 76.605
+	 	 Epoch 65
+Train loss = 0.548 Train Acc = 0.886 Val Acc = 0.808 Val loss = 0.640 Epoch Time = 76.645
+	 	 Epoch 66
+Train loss = 0.547 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.640 Epoch Time = 76.637
+	 	 Epoch 67
+Train loss = 0.547 Train Acc = 0.887 Val Acc = 0.810 Val loss = 0.640 Epoch Time = 76.614
+	 	 Epoch 68
+Train loss = 0.546 Train Acc = 0.888 Val Acc = 0.810 Val loss = 0.639 Epoch Time = 76.617
+	 	 Epoch 69
+Train loss = 0.545 Train Acc = 0.888 Val Acc = 0.810 Val loss = 0.639 Epoch Time = 76.613
+	 	 Epoch 70
+Train loss = 0.545 Train Acc = 0.888 Val Acc = 0.811 Val loss = 0.638 Epoch Time = 76.622
+	 	 Epoch 71
+Train loss = 0.544 Train Acc = 0.888 Val Acc = 0.811 Val loss = 0.638 Epoch Time = 76.641
+	 	 Epoch 72
+Train loss = 0.544 Train Acc = 0.888 Val Acc = 0.810 Val loss = 0.637 Epoch Time = 76.617
+	 	 Epoch 73
+Train loss = 0.543 Train Acc = 0.888 Val Acc = 0.811 Val loss = 0.637 Epoch Time = 76.601
+	 	 Epoch 74
+Train loss = 0.543 Train Acc = 0.888 Val Acc = 0.812 Val loss = 0.636 Epoch Time = 76.608
+	 	 Epoch 75
+Train loss = 0.542 Train Acc = 0.888 Val Acc = 0.814 Val loss = 0.636 Epoch Time = 76.626
+	 	 Epoch 76
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.814 Val loss = 0.636 Epoch Time = 76.599
+	 	 Epoch 77
+Train loss = 0.541 Train Acc = 0.889 Val Acc = 0.814 Val loss = 0.635 Epoch Time = 76.608
+	 	 Epoch 78
+Train loss = 0.541 Train Acc = 0.890 Val Acc = 0.814 Val loss = 0.635 Epoch Time = 76.616
+	 	 Epoch 79
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.815 Val loss = 0.634 Epoch Time = 76.639
+	 	 Epoch 80
+Train loss = 0.540 Train Acc = 0.891 Val Acc = 0.815 Val loss = 0.634 Epoch Time = 76.612
+	 	 Epoch 81
+Train loss = 0.539 Train Acc = 0.891 Val Acc = 0.812 Val loss = 0.634 Epoch Time = 76.606
+	 	 Epoch 82
+Train loss = 0.539 Train Acc = 0.891 Val Acc = 0.812 Val loss = 0.633 Epoch Time = 76.627
+	 	 Epoch 83
+Train loss = 0.539 Train Acc = 0.892 Val Acc = 0.811 Val loss = 0.633 Epoch Time = 76.643
+	 	 Epoch 84
+Train loss = 0.538 Train Acc = 0.892 Val Acc = 0.811 Val loss = 0.633 Epoch Time = 76.613
+	 	 Epoch 85
+Train loss = 0.538 Train Acc = 0.892 Val Acc = 0.810 Val loss = 0.632 Epoch Time = 76.609
+	 	 Epoch 86
+Train loss = 0.537 Train Acc = 0.892 Val Acc = 0.810 Val loss = 0.632 Epoch Time = 76.609
+	 	 Epoch 87
+Train loss = 0.537 Train Acc = 0.893 Val Acc = 0.810 Val loss = 0.632 Epoch Time = 76.623
+	 	 Epoch 88
+Train loss = 0.536 Train Acc = 0.893 Val Acc = 0.810 Val loss = 0.631 Epoch Time = 76.604
+	 	 Epoch 89
+Train loss = 0.536 Train Acc = 0.892 Val Acc = 0.811 Val loss = 0.631 Epoch Time = 76.619
+	 	 Epoch 90
+Train loss = 0.536 Train Acc = 0.892 Val Acc = 0.812 Val loss = 0.631 Epoch Time = 76.630
+	 	 Epoch 91
+Train loss = 0.535 Train Acc = 0.892 Val Acc = 0.812 Val loss = 0.630 Epoch Time = 76.636
+	 	 Epoch 92
+Train loss = 0.535 Train Acc = 0.892 Val Acc = 0.812 Val loss = 0.630 Epoch Time = 76.612
+	 	 Epoch 93
+Train loss = 0.535 Train Acc = 0.892 Val Acc = 0.812 Val loss = 0.630 Epoch Time = 76.621
+	 	 Epoch 94
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.815 Val loss = 0.629 Epoch Time = 76.620
+	 	 Epoch 95
+Train loss = 0.534 Train Acc = 0.893 Val Acc = 0.815 Val loss = 0.629 Epoch Time = 76.615
+	 	 Epoch 96
+Train loss = 0.534 Train Acc = 0.894 Val Acc = 0.815 Val loss = 0.629 Epoch Time = 76.626
+	 	 Epoch 97
+Train loss = 0.533 Train Acc = 0.894 Val Acc = 0.815 Val loss = 0.629 Epoch Time = 76.620
+	 	 Epoch 98
+Train loss = 0.533 Train Acc = 0.894 Val Acc = 0.816 Val loss = 0.629 Epoch Time = 76.625
+	 	 Epoch 99
+Train loss = 0.533 Train Acc = 0.894 Val Acc = 0.816 Val loss = 0.628 Epoch Time = 76.622
+	 	 Epoch 100
+Train loss = 0.532 Train Acc = 0.894 Val Acc = 0.816 Val loss = 0.628 Epoch Time = 76.644
+	 	 Epoch 101
+Train loss = 0.532 Train Acc = 0.893 Val Acc = 0.816 Val loss = 0.628 Epoch Time = 76.617
+	 	 Epoch 102
+Train loss = 0.532 Train Acc = 0.894 Val Acc = 0.816 Val loss = 0.628 Epoch Time = 76.608
+	 	 Epoch 103
+Train loss = 0.532 Train Acc = 0.895 Val Acc = 0.817 Val loss = 0.627 Epoch Time = 76.711
+	 	 Epoch 104
+Train loss = 0.531 Train Acc = 0.895 Val Acc = 0.817 Val loss = 0.627 Epoch Time = 76.638
+	 	 Epoch 105
+Train loss = 0.531 Train Acc = 0.895 Val Acc = 0.817 Val loss = 0.627 Epoch Time = 76.614
+	 	 Epoch 106
+Train loss = 0.531 Train Acc = 0.895 Val Acc = 0.817 Val loss = 0.627 Epoch Time = 76.617
+	 	 Epoch 107
+Train loss = 0.531 Train Acc = 0.896 Val Acc = 0.817 Val loss = 0.627 Epoch Time = 76.621
+	 	 Epoch 108
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.817 Val loss = 0.626 Epoch Time = 76.623
+	 	 Epoch 109
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.817 Val loss = 0.626 Epoch Time = 76.607
+	 	 Epoch 110
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.817 Val loss = 0.626 Epoch Time = 76.594
+	 	 Epoch 111
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.818 Val loss = 0.626 Epoch Time = 76.642
+	 	 Epoch 112
+Train loss = 0.529 Train Acc = 0.896 Val Acc = 0.819 Val loss = 0.626 Epoch Time = 76.618
+	 	 Epoch 113
+Train loss = 0.529 Train Acc = 0.896 Val Acc = 0.819 Val loss = 0.626 Epoch Time = 76.611
+	 	 Epoch 114
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.818 Val loss = 0.626 Epoch Time = 76.614
+	 	 Epoch 115
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.819 Val loss = 0.625 Epoch Time = 76.655
+	 	 Epoch 116
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.625 Epoch Time = 76.637
+	 	 Epoch 117
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.625 Epoch Time = 76.616
+	 	 Epoch 118
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.625 Epoch Time = 76.630
+	 	 Epoch 119
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.625 Epoch Time = 76.652
+	 	 Epoch 120
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.625 Epoch Time = 76.607
+	 	 Epoch 121
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.821 Val loss = 0.625 Epoch Time = 76.626
+	 	 Epoch 122
+Train loss = 0.528 Train Acc = 0.897 Val Acc = 0.821 Val loss = 0.625 Epoch Time = 76.646
+	 	 Epoch 123
+Train loss = 0.527 Train Acc = 0.897 Val Acc = 0.821 Val loss = 0.624 Epoch Time = 76.634
+	 	 Epoch 124
+Train loss = 0.527 Train Acc = 0.897 Val Acc = 0.821 Val loss = 0.624 Epoch Time = 76.617
+	 	 Epoch 125
+Train loss = 0.527 Train Acc = 0.897 Val Acc = 0.820 Val loss = 0.624 Epoch Time = 76.606
+	 	 Epoch 126
+Train loss = 0.527 Train Acc = 0.897 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.627
+	 	 Epoch 127
+Train loss = 0.527 Train Acc = 0.897 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.644
+	 	 Epoch 128
+Train loss = 0.527 Train Acc = 0.898 Val Acc = 0.820 Val loss = 0.624 Epoch Time = 76.614
+	 	 Epoch 129
+Train loss = 0.527 Train Acc = 0.898 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.610
+	 	 Epoch 130
+Train loss = 0.526 Train Acc = 0.898 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.587
+	 	 Epoch 131
+Train loss = 0.526 Train Acc = 0.899 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.612
+	 	 Epoch 132
+Train loss = 0.526 Train Acc = 0.899 Val Acc = 0.819 Val loss = 0.624 Epoch Time = 76.605
+	 	 Epoch 133
+Train loss = 0.526 Train Acc = 0.899 Val Acc = 0.820 Val loss = 0.624 Epoch Time = 76.633
+	 	 Epoch 134
+Train loss = 0.526 Train Acc = 0.899 Val Acc = 0.820 Val loss = 0.624 Epoch Time = 76.605
+	 	 Epoch 135
+Train loss = 0.526 Train Acc = 0.899 Val Acc = 0.820 Val loss = 0.624 Epoch Time = 76.638
+	 	 Epoch 136
+Train loss = 0.526 Train Acc = 0.900 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.636
+	 	 Epoch 137
+Train loss = 0.525 Train Acc = 0.900 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.612
+	 	 Epoch 138
+Train loss = 0.525 Train Acc = 0.900 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.631
+	 	 Epoch 139
+Train loss = 0.525 Train Acc = 0.900 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.639
+	 	 Epoch 140
+Train loss = 0.525 Train Acc = 0.900 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.632
+	 	 Epoch 141
+Train loss = 0.525 Train Acc = 0.900 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.606
+	 	 Epoch 142
+Train loss = 0.525 Train Acc = 0.901 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.612
+	 	 Epoch 143
+Train loss = 0.525 Train Acc = 0.901 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.611
+	 	 Epoch 144
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.608
+	 	 Epoch 145
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.610
+	 	 Epoch 146
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.606
+	 	 Epoch 147
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.825 Val loss = 0.623 Epoch Time = 76.657
+	 	 Epoch 148
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.825 Val loss = 0.623 Epoch Time = 76.635
+	 	 Epoch 149
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.622
+	 	 Epoch 150
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.616
+	 	 Epoch 151
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.655
+	 	 Epoch 152
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.620
+	 	 Epoch 153
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.626
+	 	 Epoch 154
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.624
+	 	 Epoch 155
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.656
+	 	 Epoch 156
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.622
+	 	 Epoch 157
+Train loss = 0.524 Train Acc = 0.904 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.604
+	 	 Epoch 158
+Train loss = 0.524 Train Acc = 0.904 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.604
+	 	 Epoch 159
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.635
+	 	 Epoch 160
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.609
+	 	 Epoch 161
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.824 Val loss = 0.623 Epoch Time = 76.613
+	 	 Epoch 162
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.627
+	 	 Epoch 163
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 76.628
+	 	 Epoch 164
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.604
+	 	 Epoch 165
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.621
+	 	 Epoch 166
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.613
+	 	 Epoch 167
+Train loss = 0.523 Train Acc = 0.904 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.647
+	 	 Epoch 168
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.619
+	 	 Epoch 169
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 91.194
+	 	 Epoch 170
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 79.057
+	 	 Epoch 171
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 78.322
+	 	 Epoch 172
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 79.215
+	 	 Epoch 173
+Train loss = 0.523 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 80.391
+	 	 Epoch 174
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 78.408
+	 	 Epoch 175
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 79.921
+	 	 Epoch 176
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 80.270
+	 	 Epoch 177
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.823 Val loss = 0.623 Epoch Time = 78.475
+	 	 Epoch 178
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 77.656
+	 	 Epoch 179
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 77.014
+	 	 Epoch 180
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 77.039
+	 	 Epoch 181
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 77.025
+	 	 Epoch 182
+Train loss = 0.522 Train Acc = 0.905 Val Acc = 0.822 Val loss = 0.623 Epoch Time = 76.928
+	 	 Epoch 183
+Train loss = 0.522 Train Acc = 0.906 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.964
+	 	 Epoch 184
+Train loss = 0.522 Train Acc = 0.906 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.936
+	 	 Epoch 185
+Train loss = 0.522 Train Acc = 0.906 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.952
+	 	 Epoch 186
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.975
+	 	 Epoch 187
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.923
+	 	 Epoch 188
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.818 Val loss = 0.623 Epoch Time = 76.919
+	 	 Epoch 189
+Train loss = 0.522 Train Acc = 0.908 Val Acc = 0.819 Val loss = 0.623 Epoch Time = 76.982
+	 	 Epoch 190
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.819 Val loss = 0.623 Epoch Time = 76.944
+	 	 Epoch 191
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.819 Val loss = 0.623 Epoch Time = 76.934
+	 	 Epoch 192
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.819 Val loss = 0.623 Epoch Time = 76.940
+	 	 Epoch 193
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.956
+	 	 Epoch 194
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 78.583
+	 	 Epoch 195
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 77.005
+	 	 Epoch 196
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.941
+	 	 Epoch 197
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.931
+	 	 Epoch 198
+Train loss = 0.522 Train Acc = 0.908 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 74.911
+	 	 Epoch 199
+Train loss = 0.522 Train Acc = 0.908 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.918
+	 	 Epoch 200
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.820 Val loss = 0.623 Epoch Time = 76.900
+	 	 Epoch 201
+Train loss = 0.522 Train Acc = 0.907 Val Acc = 0.821 Val loss = 0.623 Epoch Time = 76.905
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.9024, 'cm': array([[851,  28,  20,  13],
+       [ 21, 847,  23,  21],
+       [ 41,  46, 782,  43],
+       [ 34,  47,  19, 812]]), 'loss': 0.5244193495365611}
+
+ Validation Results: 
+{'acc': 0.825, 'cm': array([[204,  17,  10,   9],
+       [ 15, 199,   9,  17],
+       [ 15,  14, 194,  17],
+       [ 12,  24,   9, 195]]), 'loss': 0.622969118754069}
+
+ Test Results: 
+{'acc': 0.5608, 'cm': array([[66, 10, 66,  2],
+       [ 9, 84, 48,  3],
+       [11, 26, 99,  8],
+       [11, 26, 33, 74]]), 'loss': 0.9906693564520942}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub4
+	 	 Epoch 1
+Train loss = 1.157 Train Acc = 0.462 Val Acc = 0.432 Val loss = 1.195 Epoch Time = 76.931
+	 	 Epoch 2
+Train loss = 0.987 Train Acc = 0.728 Val Acc = 0.649 Val loss = 1.044 Epoch Time = 76.907
+	 	 Epoch 3
+Train loss = 0.883 Train Acc = 0.782 Val Acc = 0.684 Val loss = 0.953 Epoch Time = 76.915
+	 	 Epoch 4
+Train loss = 0.819 Train Acc = 0.805 Val Acc = 0.725 Val loss = 0.896 Epoch Time = 76.891
+	 	 Epoch 5
+Train loss = 0.776 Train Acc = 0.817 Val Acc = 0.734 Val loss = 0.858 Epoch Time = 76.959
+	 	 Epoch 6
+Train loss = 0.745 Train Acc = 0.828 Val Acc = 0.739 Val loss = 0.831 Epoch Time = 76.888
+	 	 Epoch 7
+Train loss = 0.721 Train Acc = 0.834 Val Acc = 0.749 Val loss = 0.811 Epoch Time = 76.869
+	 	 Epoch 8
+Train loss = 0.703 Train Acc = 0.836 Val Acc = 0.750 Val loss = 0.795 Epoch Time = 76.897
+	 	 Epoch 9
+Train loss = 0.690 Train Acc = 0.842 Val Acc = 0.750 Val loss = 0.783 Epoch Time = 76.993
+	 	 Epoch 10
+Train loss = 0.679 Train Acc = 0.843 Val Acc = 0.755 Val loss = 0.774 Epoch Time = 76.913
+	 	 Epoch 11
+Train loss = 0.670 Train Acc = 0.844 Val Acc = 0.760 Val loss = 0.766 Epoch Time = 76.914
+	 	 Epoch 12
+Train loss = 0.663 Train Acc = 0.846 Val Acc = 0.760 Val loss = 0.760 Epoch Time = 76.890
+	 	 Epoch 13
+Train loss = 0.657 Train Acc = 0.845 Val Acc = 0.762 Val loss = 0.755 Epoch Time = 76.904
+	 	 Epoch 14
+Train loss = 0.652 Train Acc = 0.845 Val Acc = 0.763 Val loss = 0.751 Epoch Time = 76.955
+	 	 Epoch 15
+Train loss = 0.647 Train Acc = 0.844 Val Acc = 0.761 Val loss = 0.747 Epoch Time = 76.938
+	 	 Epoch 16
+Train loss = 0.644 Train Acc = 0.842 Val Acc = 0.765 Val loss = 0.745 Epoch Time = 76.981
+	 	 Epoch 17
+Train loss = 0.642 Train Acc = 0.844 Val Acc = 0.762 Val loss = 0.742 Epoch Time = 76.926
+	 	 Epoch 18
+Train loss = 0.638 Train Acc = 0.844 Val Acc = 0.759 Val loss = 0.740 Epoch Time = 76.898
+	 	 Epoch 19
+Train loss = 0.635 Train Acc = 0.845 Val Acc = 0.758 Val loss = 0.737 Epoch Time = 76.909
+	 	 Epoch 20
+Train loss = 0.632 Train Acc = 0.847 Val Acc = 0.761 Val loss = 0.735 Epoch Time = 76.877
+	 	 Epoch 21
+Train loss = 0.629 Train Acc = 0.847 Val Acc = 0.765 Val loss = 0.732 Epoch Time = 76.896
+	 	 Epoch 22
+Train loss = 0.627 Train Acc = 0.848 Val Acc = 0.765 Val loss = 0.730 Epoch Time = 78.901
+	 	 Epoch 23
+Train loss = 0.624 Train Acc = 0.848 Val Acc = 0.767 Val loss = 0.728 Epoch Time = 76.909
+	 	 Epoch 24
+Train loss = 0.621 Train Acc = 0.849 Val Acc = 0.768 Val loss = 0.725 Epoch Time = 76.913
+	 	 Epoch 25
+Train loss = 0.617 Train Acc = 0.850 Val Acc = 0.768 Val loss = 0.722 Epoch Time = 76.931
+	 	 Epoch 26
+Train loss = 0.614 Train Acc = 0.851 Val Acc = 0.767 Val loss = 0.719 Epoch Time = 76.895
+	 	 Epoch 27
+Train loss = 0.611 Train Acc = 0.851 Val Acc = 0.768 Val loss = 0.717 Epoch Time = 76.921
+	 	 Epoch 28
+Train loss = 0.608 Train Acc = 0.853 Val Acc = 0.770 Val loss = 0.714 Epoch Time = 76.928
+	 	 Epoch 29
+Train loss = 0.606 Train Acc = 0.853 Val Acc = 0.768 Val loss = 0.711 Epoch Time = 76.907
+	 	 Epoch 30
+Train loss = 0.603 Train Acc = 0.853 Val Acc = 0.769 Val loss = 0.709 Epoch Time = 76.947
+	 	 Epoch 31
+Train loss = 0.600 Train Acc = 0.854 Val Acc = 0.768 Val loss = 0.706 Epoch Time = 76.905
+	 	 Epoch 32
+Train loss = 0.598 Train Acc = 0.856 Val Acc = 0.768 Val loss = 0.704 Epoch Time = 76.915
+	 	 Epoch 33
+Train loss = 0.595 Train Acc = 0.858 Val Acc = 0.773 Val loss = 0.702 Epoch Time = 76.908
+	 	 Epoch 34
+Train loss = 0.593 Train Acc = 0.859 Val Acc = 0.775 Val loss = 0.699 Epoch Time = 76.920
+	 	 Epoch 35
+Train loss = 0.591 Train Acc = 0.860 Val Acc = 0.779 Val loss = 0.697 Epoch Time = 76.929
+	 	 Epoch 36
+Train loss = 0.589 Train Acc = 0.860 Val Acc = 0.780 Val loss = 0.695 Epoch Time = 76.922
+	 	 Epoch 37
+Train loss = 0.587 Train Acc = 0.860 Val Acc = 0.782 Val loss = 0.693 Epoch Time = 76.902
+	 	 Epoch 38
+Train loss = 0.585 Train Acc = 0.861 Val Acc = 0.782 Val loss = 0.691 Epoch Time = 76.915
+	 	 Epoch 39
+Train loss = 0.583 Train Acc = 0.862 Val Acc = 0.782 Val loss = 0.689 Epoch Time = 76.927
+	 	 Epoch 40
+Train loss = 0.582 Train Acc = 0.862 Val Acc = 0.783 Val loss = 0.688 Epoch Time = 76.938
+	 	 Epoch 41
+Train loss = 0.580 Train Acc = 0.863 Val Acc = 0.785 Val loss = 0.686 Epoch Time = 76.913
+	 	 Epoch 42
+Train loss = 0.578 Train Acc = 0.864 Val Acc = 0.787 Val loss = 0.684 Epoch Time = 76.907
+	 	 Epoch 43
+Train loss = 0.577 Train Acc = 0.864 Val Acc = 0.790 Val loss = 0.683 Epoch Time = 76.900
+	 	 Epoch 44
+Train loss = 0.575 Train Acc = 0.866 Val Acc = 0.790 Val loss = 0.681 Epoch Time = 76.912
+	 	 Epoch 45
+Train loss = 0.574 Train Acc = 0.866 Val Acc = 0.790 Val loss = 0.680 Epoch Time = 77.015
+	 	 Epoch 46
+Train loss = 0.573 Train Acc = 0.867 Val Acc = 0.791 Val loss = 0.678 Epoch Time = 76.901
+	 	 Epoch 47
+Train loss = 0.572 Train Acc = 0.868 Val Acc = 0.793 Val loss = 0.677 Epoch Time = 76.903
+	 	 Epoch 48
+Train loss = 0.570 Train Acc = 0.868 Val Acc = 0.792 Val loss = 0.676 Epoch Time = 76.904
+	 	 Epoch 49
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.793 Val loss = 0.675 Epoch Time = 76.921
+	 	 Epoch 50
+Train loss = 0.568 Train Acc = 0.870 Val Acc = 0.790 Val loss = 0.673 Epoch Time = 76.896
+	 	 Epoch 51
+Train loss = 0.567 Train Acc = 0.870 Val Acc = 0.791 Val loss = 0.672 Epoch Time = 76.915
+	 	 Epoch 52
+Train loss = 0.566 Train Acc = 0.871 Val Acc = 0.793 Val loss = 0.671 Epoch Time = 76.929
+	 	 Epoch 53
+Train loss = 0.565 Train Acc = 0.872 Val Acc = 0.793 Val loss = 0.670 Epoch Time = 76.913
+	 	 Epoch 54
+Train loss = 0.564 Train Acc = 0.873 Val Acc = 0.794 Val loss = 0.669 Epoch Time = 76.896
+	 	 Epoch 55
+Train loss = 0.563 Train Acc = 0.873 Val Acc = 0.798 Val loss = 0.668 Epoch Time = 76.930
+	 	 Epoch 56
+Train loss = 0.562 Train Acc = 0.873 Val Acc = 0.798 Val loss = 0.667 Epoch Time = 76.919
+	 	 Epoch 57
+Train loss = 0.561 Train Acc = 0.873 Val Acc = 0.798 Val loss = 0.666 Epoch Time = 76.923
+	 	 Epoch 58
+Train loss = 0.560 Train Acc = 0.874 Val Acc = 0.798 Val loss = 0.665 Epoch Time = 76.922
+	 	 Epoch 59
+Train loss = 0.559 Train Acc = 0.874 Val Acc = 0.799 Val loss = 0.664 Epoch Time = 76.926
+	 	 Epoch 60
+Train loss = 0.558 Train Acc = 0.875 Val Acc = 0.799 Val loss = 0.663 Epoch Time = 76.916
+	 	 Epoch 61
+Train loss = 0.557 Train Acc = 0.876 Val Acc = 0.799 Val loss = 0.662 Epoch Time = 77.027
+	 	 Epoch 62
+Train loss = 0.556 Train Acc = 0.876 Val Acc = 0.798 Val loss = 0.661 Epoch Time = 76.966
+	 	 Epoch 63
+Train loss = 0.555 Train Acc = 0.876 Val Acc = 0.798 Val loss = 0.660 Epoch Time = 76.916
+	 	 Epoch 64
+Train loss = 0.554 Train Acc = 0.877 Val Acc = 0.798 Val loss = 0.659 Epoch Time = 76.925
+	 	 Epoch 65
+Train loss = 0.553 Train Acc = 0.877 Val Acc = 0.799 Val loss = 0.659 Epoch Time = 76.925
+	 	 Epoch 66
+Train loss = 0.552 Train Acc = 0.877 Val Acc = 0.800 Val loss = 0.658 Epoch Time = 76.939
+	 	 Epoch 67
+Train loss = 0.552 Train Acc = 0.877 Val Acc = 0.800 Val loss = 0.657 Epoch Time = 76.935
+	 	 Epoch 68
+Train loss = 0.551 Train Acc = 0.876 Val Acc = 0.800 Val loss = 0.656 Epoch Time = 76.918
+	 	 Epoch 69
+Train loss = 0.550 Train Acc = 0.877 Val Acc = 0.799 Val loss = 0.655 Epoch Time = 76.917
+	 	 Epoch 70
+Train loss = 0.549 Train Acc = 0.878 Val Acc = 0.800 Val loss = 0.654 Epoch Time = 76.921
+	 	 Epoch 71
+Train loss = 0.548 Train Acc = 0.879 Val Acc = 0.800 Val loss = 0.654 Epoch Time = 76.931
+	 	 Epoch 72
+Train loss = 0.548 Train Acc = 0.879 Val Acc = 0.799 Val loss = 0.653 Epoch Time = 76.920
+	 	 Epoch 73
+Train loss = 0.547 Train Acc = 0.881 Val Acc = 0.799 Val loss = 0.652 Epoch Time = 76.926
+	 	 Epoch 74
+Train loss = 0.546 Train Acc = 0.880 Val Acc = 0.801 Val loss = 0.651 Epoch Time = 76.914
+	 	 Epoch 75
+Train loss = 0.545 Train Acc = 0.881 Val Acc = 0.801 Val loss = 0.651 Epoch Time = 76.944
+	 	 Epoch 76
+Train loss = 0.544 Train Acc = 0.882 Val Acc = 0.801 Val loss = 0.650 Epoch Time = 76.925
+	 	 Epoch 77
+Train loss = 0.544 Train Acc = 0.882 Val Acc = 0.800 Val loss = 0.649 Epoch Time = 76.906
+	 	 Epoch 78
+Train loss = 0.543 Train Acc = 0.882 Val Acc = 0.800 Val loss = 0.649 Epoch Time = 76.905
+	 	 Epoch 79
+Train loss = 0.542 Train Acc = 0.883 Val Acc = 0.800 Val loss = 0.648 Epoch Time = 76.963
+	 	 Epoch 80
+Train loss = 0.542 Train Acc = 0.884 Val Acc = 0.800 Val loss = 0.647 Epoch Time = 76.928
+	 	 Epoch 81
+Train loss = 0.541 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.647 Epoch Time = 76.923
+	 	 Epoch 82
+Train loss = 0.540 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.646 Epoch Time = 76.955
+	 	 Epoch 83
+Train loss = 0.540 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.645 Epoch Time = 76.924
+	 	 Epoch 84
+Train loss = 0.539 Train Acc = 0.887 Val Acc = 0.800 Val loss = 0.645 Epoch Time = 76.930
+	 	 Epoch 85
+Train loss = 0.538 Train Acc = 0.887 Val Acc = 0.799 Val loss = 0.644 Epoch Time = 76.950
+	 	 Epoch 86
+Train loss = 0.538 Train Acc = 0.887 Val Acc = 0.799 Val loss = 0.644 Epoch Time = 76.932
+	 	 Epoch 87
+Train loss = 0.537 Train Acc = 0.887 Val Acc = 0.800 Val loss = 0.643 Epoch Time = 76.907
+	 	 Epoch 88
+Train loss = 0.536 Train Acc = 0.887 Val Acc = 0.802 Val loss = 0.643 Epoch Time = 76.931
+	 	 Epoch 89
+Train loss = 0.536 Train Acc = 0.887 Val Acc = 0.802 Val loss = 0.642 Epoch Time = 76.928
+	 	 Epoch 90
+Train loss = 0.535 Train Acc = 0.886 Val Acc = 0.803 Val loss = 0.642 Epoch Time = 76.918
+	 	 Epoch 91
+Train loss = 0.535 Train Acc = 0.885 Val Acc = 0.803 Val loss = 0.641 Epoch Time = 76.932
+	 	 Epoch 92
+Train loss = 0.534 Train Acc = 0.885 Val Acc = 0.803 Val loss = 0.641 Epoch Time = 76.914
+	 	 Epoch 93
+Train loss = 0.534 Train Acc = 0.886 Val Acc = 0.802 Val loss = 0.640 Epoch Time = 76.918
+	 	 Epoch 94
+Train loss = 0.533 Train Acc = 0.886 Val Acc = 0.803 Val loss = 0.640 Epoch Time = 76.930
+	 	 Epoch 95
+Train loss = 0.533 Train Acc = 0.886 Val Acc = 0.803 Val loss = 0.639 Epoch Time = 76.937
+	 	 Epoch 96
+Train loss = 0.532 Train Acc = 0.887 Val Acc = 0.804 Val loss = 0.639 Epoch Time = 76.924
+	 	 Epoch 97
+Train loss = 0.532 Train Acc = 0.888 Val Acc = 0.804 Val loss = 0.638 Epoch Time = 76.922
+	 	 Epoch 98
+Train loss = 0.531 Train Acc = 0.887 Val Acc = 0.806 Val loss = 0.638 Epoch Time = 76.943
+	 	 Epoch 99
+Train loss = 0.530 Train Acc = 0.887 Val Acc = 0.806 Val loss = 0.638 Epoch Time = 76.914
+	 	 Epoch 100
+Train loss = 0.530 Train Acc = 0.887 Val Acc = 0.806 Val loss = 0.637 Epoch Time = 76.967
+	 	 Epoch 101
+Train loss = 0.529 Train Acc = 0.887 Val Acc = 0.808 Val loss = 0.637 Epoch Time = 76.937
+	 	 Epoch 102
+Train loss = 0.529 Train Acc = 0.888 Val Acc = 0.808 Val loss = 0.636 Epoch Time = 76.934
+	 	 Epoch 103
+Train loss = 0.529 Train Acc = 0.888 Val Acc = 0.808 Val loss = 0.636 Epoch Time = 76.934
+	 	 Epoch 104
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.809 Val loss = 0.636 Epoch Time = 76.919
+	 	 Epoch 105
+Train loss = 0.528 Train Acc = 0.888 Val Acc = 0.810 Val loss = 0.635 Epoch Time = 76.932
+	 	 Epoch 106
+Train loss = 0.527 Train Acc = 0.889 Val Acc = 0.810 Val loss = 0.635 Epoch Time = 76.924
+	 	 Epoch 107
+Train loss = 0.527 Train Acc = 0.889 Val Acc = 0.811 Val loss = 0.634 Epoch Time = 76.939
+	 	 Epoch 108
+Train loss = 0.526 Train Acc = 0.889 Val Acc = 0.810 Val loss = 0.634 Epoch Time = 77.282
+	 	 Epoch 109
+Train loss = 0.526 Train Acc = 0.889 Val Acc = 0.811 Val loss = 0.634 Epoch Time = 76.963
+	 	 Epoch 110
+Train loss = 0.525 Train Acc = 0.889 Val Acc = 0.812 Val loss = 0.633 Epoch Time = 76.917
+	 	 Epoch 111
+Train loss = 0.525 Train Acc = 0.889 Val Acc = 0.812 Val loss = 0.633 Epoch Time = 76.897
+	 	 Epoch 112
+Train loss = 0.524 Train Acc = 0.890 Val Acc = 0.811 Val loss = 0.633 Epoch Time = 76.865
+	 	 Epoch 113
+Train loss = 0.524 Train Acc = 0.890 Val Acc = 0.810 Val loss = 0.632 Epoch Time = 76.919
+	 	 Epoch 114
+Train loss = 0.523 Train Acc = 0.890 Val Acc = 0.810 Val loss = 0.632 Epoch Time = 76.947
+	 	 Epoch 115
+Train loss = 0.523 Train Acc = 0.891 Val Acc = 0.811 Val loss = 0.632 Epoch Time = 76.930
+	 	 Epoch 116
+Train loss = 0.523 Train Acc = 0.891 Val Acc = 0.809 Val loss = 0.631 Epoch Time = 76.920
+	 	 Epoch 117
+Train loss = 0.522 Train Acc = 0.890 Val Acc = 0.809 Val loss = 0.631 Epoch Time = 76.911
+	 	 Epoch 118
+Train loss = 0.522 Train Acc = 0.890 Val Acc = 0.809 Val loss = 0.631 Epoch Time = 76.921
+	 	 Epoch 119
+Train loss = 0.521 Train Acc = 0.890 Val Acc = 0.808 Val loss = 0.630 Epoch Time = 76.907
+	 	 Epoch 120
+Train loss = 0.521 Train Acc = 0.890 Val Acc = 0.809 Val loss = 0.630 Epoch Time = 76.890
+	 	 Epoch 121
+Train loss = 0.521 Train Acc = 0.890 Val Acc = 0.809 Val loss = 0.630 Epoch Time = 76.890
+	 	 Epoch 122
+Train loss = 0.520 Train Acc = 0.890 Val Acc = 0.808 Val loss = 0.630 Epoch Time = 76.903
+	 	 Epoch 123
+Train loss = 0.520 Train Acc = 0.891 Val Acc = 0.808 Val loss = 0.629 Epoch Time = 76.898
+	 	 Epoch 124
+Train loss = 0.520 Train Acc = 0.891 Val Acc = 0.808 Val loss = 0.629 Epoch Time = 76.911
+	 	 Epoch 125
+Train loss = 0.519 Train Acc = 0.892 Val Acc = 0.808 Val loss = 0.629 Epoch Time = 76.905
+	 	 Epoch 126
+Train loss = 0.519 Train Acc = 0.892 Val Acc = 0.808 Val loss = 0.628 Epoch Time = 76.913
+	 	 Epoch 127
+Train loss = 0.518 Train Acc = 0.892 Val Acc = 0.809 Val loss = 0.628 Epoch Time = 76.853
+	 	 Epoch 128
+Train loss = 0.518 Train Acc = 0.893 Val Acc = 0.809 Val loss = 0.628 Epoch Time = 76.927
+	 	 Epoch 129
+Train loss = 0.518 Train Acc = 0.893 Val Acc = 0.809 Val loss = 0.628 Epoch Time = 76.907
+	 	 Epoch 130
+Train loss = 0.517 Train Acc = 0.894 Val Acc = 0.810 Val loss = 0.627 Epoch Time = 76.932
+	 	 Epoch 131
+Train loss = 0.517 Train Acc = 0.895 Val Acc = 0.810 Val loss = 0.627 Epoch Time = 76.912
+	 	 Epoch 132
+Train loss = 0.517 Train Acc = 0.896 Val Acc = 0.810 Val loss = 0.627 Epoch Time = 76.924
+	 	 Epoch 133
+Train loss = 0.516 Train Acc = 0.896 Val Acc = 0.809 Val loss = 0.627 Epoch Time = 76.924
+	 	 Epoch 134
+Train loss = 0.516 Train Acc = 0.896 Val Acc = 0.809 Val loss = 0.626 Epoch Time = 76.938
+	 	 Epoch 135
+Train loss = 0.516 Train Acc = 0.896 Val Acc = 0.809 Val loss = 0.626 Epoch Time = 76.921
+	 	 Epoch 136
+Train loss = 0.515 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.626 Epoch Time = 76.913
+	 	 Epoch 137
+Train loss = 0.515 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.626 Epoch Time = 76.918
+	 	 Epoch 138
+Train loss = 0.515 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.626 Epoch Time = 76.912
+	 	 Epoch 139
+Train loss = 0.515 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.625 Epoch Time = 76.912
+	 	 Epoch 140
+Train loss = 0.514 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.625 Epoch Time = 76.962
+	 	 Epoch 141
+Train loss = 0.514 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.625 Epoch Time = 76.890
+	 	 Epoch 142
+Train loss = 0.514 Train Acc = 0.897 Val Acc = 0.807 Val loss = 0.625 Epoch Time = 76.923
+	 	 Epoch 143
+Train loss = 0.513 Train Acc = 0.898 Val Acc = 0.807 Val loss = 0.625 Epoch Time = 76.913
+	 	 Epoch 144
+Train loss = 0.513 Train Acc = 0.898 Val Acc = 0.807 Val loss = 0.624 Epoch Time = 76.919
+	 	 Epoch 145
+Train loss = 0.513 Train Acc = 0.898 Val Acc = 0.808 Val loss = 0.624 Epoch Time = 76.920
+	 	 Epoch 146
+Train loss = 0.513 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.624 Epoch Time = 77.145
+	 	 Epoch 147
+Train loss = 0.512 Train Acc = 0.898 Val Acc = 0.809 Val loss = 0.624 Epoch Time = 76.937
+	 	 Epoch 148
+Train loss = 0.512 Train Acc = 0.898 Val Acc = 0.809 Val loss = 0.624 Epoch Time = 76.913
+	 	 Epoch 149
+Train loss = 0.512 Train Acc = 0.898 Val Acc = 0.810 Val loss = 0.623 Epoch Time = 76.956
+	 	 Epoch 150
+Train loss = 0.512 Train Acc = 0.897 Val Acc = 0.810 Val loss = 0.623 Epoch Time = 76.926
+	 	 Epoch 151
+Train loss = 0.511 Train Acc = 0.897 Val Acc = 0.810 Val loss = 0.623 Epoch Time = 76.947
+	 	 Epoch 152
+Train loss = 0.511 Train Acc = 0.897 Val Acc = 0.810 Val loss = 0.623 Epoch Time = 76.923
+	 	 Epoch 153
+Train loss = 0.511 Train Acc = 0.897 Val Acc = 0.810 Val loss = 0.623 Epoch Time = 76.925
+	 	 Epoch 154
+Train loss = 0.510 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.622 Epoch Time = 76.947
+	 	 Epoch 155
+Train loss = 0.510 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.622 Epoch Time = 77.001
+	 	 Epoch 156
+Train loss = 0.510 Train Acc = 0.897 Val Acc = 0.810 Val loss = 0.622 Epoch Time = 76.918
+	 	 Epoch 157
+Train loss = 0.510 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.622 Epoch Time = 76.933
+	 	 Epoch 158
+Train loss = 0.510 Train Acc = 0.897 Val Acc = 0.809 Val loss = 0.622 Epoch Time = 76.938
+	 	 Epoch 159
+Train loss = 0.509 Train Acc = 0.897 Val Acc = 0.807 Val loss = 0.622 Epoch Time = 76.922
+	 	 Epoch 160
+Train loss = 0.509 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.622 Epoch Time = 76.924
+	 	 Epoch 161
+Train loss = 0.509 Train Acc = 0.898 Val Acc = 0.808 Val loss = 0.621 Epoch Time = 76.906
+	 	 Epoch 162
+Train loss = 0.509 Train Acc = 0.897 Val Acc = 0.808 Val loss = 0.621 Epoch Time = 76.928
+	 	 Epoch 163
+Train loss = 0.508 Train Acc = 0.898 Val Acc = 0.808 Val loss = 0.621 Epoch Time = 76.909
+	 	 Epoch 164
+Train loss = 0.508 Train Acc = 0.898 Val Acc = 0.807 Val loss = 0.621 Epoch Time = 76.935
+	 	 Epoch 165
+Train loss = 0.508 Train Acc = 0.898 Val Acc = 0.807 Val loss = 0.621 Epoch Time = 76.906
+	 	 Epoch 166
+Train loss = 0.508 Train Acc = 0.898 Val Acc = 0.807 Val loss = 0.621 Epoch Time = 76.898
+	 	 Epoch 167
+Train loss = 0.508 Train Acc = 0.898 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.932
+	 	 Epoch 168
+Train loss = 0.507 Train Acc = 0.898 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 77.021
+	 	 Epoch 169
+Train loss = 0.507 Train Acc = 0.899 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.949
+	 	 Epoch 170
+Train loss = 0.507 Train Acc = 0.898 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.937
+	 	 Epoch 171
+Train loss = 0.507 Train Acc = 0.899 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.926
+	 	 Epoch 172
+Train loss = 0.507 Train Acc = 0.899 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.924
+	 	 Epoch 173
+Train loss = 0.507 Train Acc = 0.899 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.932
+	 	 Epoch 174
+Train loss = 0.507 Train Acc = 0.899 Val Acc = 0.806 Val loss = 0.620 Epoch Time = 76.901
+	 	 Epoch 175
+Train loss = 0.506 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.620 Epoch Time = 76.919
+	 	 Epoch 176
+Train loss = 0.506 Train Acc = 0.899 Val Acc = 0.808 Val loss = 0.620 Epoch Time = 76.974
+	 	 Epoch 177
+Train loss = 0.506 Train Acc = 0.900 Val Acc = 0.808 Val loss = 0.619 Epoch Time = 76.918
+	 	 Epoch 178
+Train loss = 0.506 Train Acc = 0.900 Val Acc = 0.808 Val loss = 0.619 Epoch Time = 76.934
+	 	 Epoch 179
+Train loss = 0.506 Train Acc = 0.899 Val Acc = 0.808 Val loss = 0.619 Epoch Time = 76.997
+	 	 Epoch 180
+Train loss = 0.506 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 76.949
+	 	 Epoch 181
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 76.914
+	 	 Epoch 182
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.808 Val loss = 0.619 Epoch Time = 76.936
+	 	 Epoch 183
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.808 Val loss = 0.619 Epoch Time = 76.930
+	 	 Epoch 184
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 76.928
+	 	 Epoch 185
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 76.939
+	 	 Epoch 186
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 77.020
+	 	 Epoch 187
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.619 Epoch Time = 76.924
+	 	 Epoch 188
+Train loss = 0.505 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.618 Epoch Time = 76.951
+	 	 Epoch 189
+Train loss = 0.504 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.618 Epoch Time = 76.914
+	 	 Epoch 190
+Train loss = 0.504 Train Acc = 0.900 Val Acc = 0.807 Val loss = 0.618 Epoch Time = 76.937
+	 	 Epoch 191
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.807 Val loss = 0.618 Epoch Time = 76.928
+	 	 Epoch 192
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.808 Val loss = 0.618 Epoch Time = 76.923
+	 	 Epoch 193
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.808 Val loss = 0.618 Epoch Time = 76.897
+	 	 Epoch 194
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.808 Val loss = 0.618 Epoch Time = 76.936
+	 	 Epoch 195
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.808 Val loss = 0.618 Epoch Time = 77.194
+	 	 Epoch 196
+Train loss = 0.504 Train Acc = 0.901 Val Acc = 0.810 Val loss = 0.618 Epoch Time = 76.932
+	 	 Epoch 197
+Train loss = 0.503 Train Acc = 0.901 Val Acc = 0.810 Val loss = 0.618 Epoch Time = 76.869
+	 	 Epoch 198
+Train loss = 0.503 Train Acc = 0.901 Val Acc = 0.809 Val loss = 0.618 Epoch Time = 76.916
+	 	 Epoch 199
+Train loss = 0.503 Train Acc = 0.901 Val Acc = 0.809 Val loss = 0.618 Epoch Time = 76.960
+	 	 Epoch 200
+Train loss = 0.503 Train Acc = 0.901 Val Acc = 0.809 Val loss = 0.618 Epoch Time = 76.910
+	 	 Epoch 201
+Train loss = 0.503 Train Acc = 0.901 Val Acc = 0.809 Val loss = 0.618 Epoch Time = 76.963
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8893, 'cm': array([[811,  45,  45,  11],
+       [ 21, 835,  34,  22],
+       [ 33,  49, 790,  40],
+       [ 22,  50,  32, 808]]), 'loss': 0.5252318465918825}
+
+ Validation Results: 
+{'acc': 0.8125, 'cm': array([[193,  19,  18,  10],
+       [ 10, 204,  11,  15],
+       [ 11,  20, 190,  19],
+       [ 10,  18,  19, 193]]), 'loss': 0.6333712895711263}
+
+ Test Results: 
+{'acc': 0.625, 'cm': array([[135,   9,   0,   0],
+       [  9, 134,   1,   0],
+       [ 21,  42,  80,   1],
+       [ 41,  86,   6,  11]]), 'loss': 0.9590290917290581}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub5
+	 	 Epoch 1
+Train loss = 1.138 Train Acc = 0.493 Val Acc = 0.474 Val loss = 1.173 Epoch Time = 77.023
+	 	 Epoch 2
+Train loss = 0.948 Train Acc = 0.740 Val Acc = 0.671 Val loss = 1.001 Epoch Time = 76.919
+	 	 Epoch 3
+Train loss = 0.849 Train Acc = 0.780 Val Acc = 0.705 Val loss = 0.913 Epoch Time = 76.886
+	 	 Epoch 4
+Train loss = 0.791 Train Acc = 0.799 Val Acc = 0.727 Val loss = 0.862 Epoch Time = 76.885
+	 	 Epoch 5
+Train loss = 0.753 Train Acc = 0.813 Val Acc = 0.738 Val loss = 0.828 Epoch Time = 76.886
+	 	 Epoch 6
+Train loss = 0.726 Train Acc = 0.821 Val Acc = 0.738 Val loss = 0.804 Epoch Time = 76.891
+	 	 Epoch 7
+Train loss = 0.706 Train Acc = 0.826 Val Acc = 0.743 Val loss = 0.788 Epoch Time = 76.898
+	 	 Epoch 8
+Train loss = 0.691 Train Acc = 0.834 Val Acc = 0.743 Val loss = 0.774 Epoch Time = 76.888
+	 	 Epoch 9
+Train loss = 0.680 Train Acc = 0.837 Val Acc = 0.750 Val loss = 0.765 Epoch Time = 76.880
+	 	 Epoch 10
+Train loss = 0.671 Train Acc = 0.839 Val Acc = 0.754 Val loss = 0.757 Epoch Time = 76.884
+	 	 Epoch 11
+Train loss = 0.663 Train Acc = 0.838 Val Acc = 0.754 Val loss = 0.750 Epoch Time = 76.913
+	 	 Epoch 12
+Train loss = 0.656 Train Acc = 0.839 Val Acc = 0.755 Val loss = 0.744 Epoch Time = 76.911
+	 	 Epoch 13
+Train loss = 0.650 Train Acc = 0.842 Val Acc = 0.758 Val loss = 0.739 Epoch Time = 76.880
+	 	 Epoch 14
+Train loss = 0.644 Train Acc = 0.842 Val Acc = 0.760 Val loss = 0.734 Epoch Time = 76.883
+	 	 Epoch 15
+Train loss = 0.639 Train Acc = 0.844 Val Acc = 0.767 Val loss = 0.730 Epoch Time = 76.976
+	 	 Epoch 16
+Train loss = 0.635 Train Acc = 0.844 Val Acc = 0.768 Val loss = 0.726 Epoch Time = 76.945
+	 	 Epoch 17
+Train loss = 0.630 Train Acc = 0.846 Val Acc = 0.769 Val loss = 0.723 Epoch Time = 76.964
+	 	 Epoch 18
+Train loss = 0.626 Train Acc = 0.846 Val Acc = 0.770 Val loss = 0.719 Epoch Time = 76.915
+	 	 Epoch 19
+Train loss = 0.623 Train Acc = 0.847 Val Acc = 0.774 Val loss = 0.717 Epoch Time = 76.938
+	 	 Epoch 20
+Train loss = 0.620 Train Acc = 0.849 Val Acc = 0.777 Val loss = 0.714 Epoch Time = 76.887
+	 	 Epoch 21
+Train loss = 0.617 Train Acc = 0.849 Val Acc = 0.781 Val loss = 0.712 Epoch Time = 76.886
+	 	 Epoch 22
+Train loss = 0.614 Train Acc = 0.851 Val Acc = 0.779 Val loss = 0.710 Epoch Time = 76.908
+	 	 Epoch 23
+Train loss = 0.612 Train Acc = 0.852 Val Acc = 0.777 Val loss = 0.707 Epoch Time = 76.889
+	 	 Epoch 24
+Train loss = 0.609 Train Acc = 0.853 Val Acc = 0.779 Val loss = 0.705 Epoch Time = 76.918
+	 	 Epoch 25
+Train loss = 0.607 Train Acc = 0.855 Val Acc = 0.781 Val loss = 0.703 Epoch Time = 76.929
+	 	 Epoch 26
+Train loss = 0.604 Train Acc = 0.855 Val Acc = 0.781 Val loss = 0.701 Epoch Time = 76.877
+	 	 Epoch 27
+Train loss = 0.602 Train Acc = 0.856 Val Acc = 0.779 Val loss = 0.699 Epoch Time = 76.885
+	 	 Epoch 28
+Train loss = 0.600 Train Acc = 0.856 Val Acc = 0.778 Val loss = 0.697 Epoch Time = 76.888
+	 	 Epoch 29
+Train loss = 0.598 Train Acc = 0.857 Val Acc = 0.780 Val loss = 0.695 Epoch Time = 76.882
+	 	 Epoch 30
+Train loss = 0.595 Train Acc = 0.859 Val Acc = 0.781 Val loss = 0.693 Epoch Time = 76.883
+	 	 Epoch 31
+Train loss = 0.593 Train Acc = 0.861 Val Acc = 0.781 Val loss = 0.691 Epoch Time = 76.920
+	 	 Epoch 32
+Train loss = 0.592 Train Acc = 0.863 Val Acc = 0.782 Val loss = 0.690 Epoch Time = 76.919
+	 	 Epoch 33
+Train loss = 0.590 Train Acc = 0.864 Val Acc = 0.782 Val loss = 0.688 Epoch Time = 76.901
+	 	 Epoch 34
+Train loss = 0.588 Train Acc = 0.864 Val Acc = 0.783 Val loss = 0.686 Epoch Time = 76.898
+	 	 Epoch 35
+Train loss = 0.586 Train Acc = 0.865 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 76.918
+	 	 Epoch 36
+Train loss = 0.584 Train Acc = 0.865 Val Acc = 0.786 Val loss = 0.683 Epoch Time = 76.906
+	 	 Epoch 37
+Train loss = 0.582 Train Acc = 0.866 Val Acc = 0.787 Val loss = 0.681 Epoch Time = 76.884
+	 	 Epoch 38
+Train loss = 0.581 Train Acc = 0.866 Val Acc = 0.787 Val loss = 0.680 Epoch Time = 76.914
+	 	 Epoch 39
+Train loss = 0.579 Train Acc = 0.867 Val Acc = 0.788 Val loss = 0.678 Epoch Time = 76.959
+	 	 Epoch 40
+Train loss = 0.577 Train Acc = 0.868 Val Acc = 0.788 Val loss = 0.677 Epoch Time = 76.889
+	 	 Epoch 41
+Train loss = 0.576 Train Acc = 0.870 Val Acc = 0.793 Val loss = 0.675 Epoch Time = 76.883
+	 	 Epoch 42
+Train loss = 0.574 Train Acc = 0.870 Val Acc = 0.792 Val loss = 0.674 Epoch Time = 76.898
+	 	 Epoch 43
+Train loss = 0.573 Train Acc = 0.871 Val Acc = 0.793 Val loss = 0.673 Epoch Time = 76.911
+	 	 Epoch 44
+Train loss = 0.571 Train Acc = 0.873 Val Acc = 0.794 Val loss = 0.671 Epoch Time = 76.910
+	 	 Epoch 45
+Train loss = 0.570 Train Acc = 0.873 Val Acc = 0.795 Val loss = 0.670 Epoch Time = 76.899
+	 	 Epoch 46
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.795 Val loss = 0.669 Epoch Time = 76.907
+	 	 Epoch 47
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.796 Val loss = 0.668 Epoch Time = 76.969
+	 	 Epoch 48
+Train loss = 0.566 Train Acc = 0.876 Val Acc = 0.796 Val loss = 0.667 Epoch Time = 76.901
+	 	 Epoch 49
+Train loss = 0.565 Train Acc = 0.877 Val Acc = 0.795 Val loss = 0.666 Epoch Time = 76.891
+	 	 Epoch 50
+Train loss = 0.564 Train Acc = 0.879 Val Acc = 0.796 Val loss = 0.665 Epoch Time = 76.899
+	 	 Epoch 51
+Train loss = 0.562 Train Acc = 0.880 Val Acc = 0.796 Val loss = 0.664 Epoch Time = 76.906
+	 	 Epoch 52
+Train loss = 0.561 Train Acc = 0.881 Val Acc = 0.798 Val loss = 0.663 Epoch Time = 76.902
+	 	 Epoch 53
+Train loss = 0.560 Train Acc = 0.881 Val Acc = 0.797 Val loss = 0.662 Epoch Time = 76.946
+	 	 Epoch 54
+Train loss = 0.559 Train Acc = 0.882 Val Acc = 0.795 Val loss = 0.661 Epoch Time = 76.921
+	 	 Epoch 55
+Train loss = 0.558 Train Acc = 0.882 Val Acc = 0.797 Val loss = 0.660 Epoch Time = 76.898
+	 	 Epoch 56
+Train loss = 0.558 Train Acc = 0.882 Val Acc = 0.797 Val loss = 0.660 Epoch Time = 76.942
+	 	 Epoch 57
+Train loss = 0.557 Train Acc = 0.882 Val Acc = 0.796 Val loss = 0.659 Epoch Time = 76.933
+	 	 Epoch 58
+Train loss = 0.556 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.658 Epoch Time = 76.907
+	 	 Epoch 59
+Train loss = 0.555 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.657 Epoch Time = 76.892
+	 	 Epoch 60
+Train loss = 0.554 Train Acc = 0.885 Val Acc = 0.796 Val loss = 0.657 Epoch Time = 76.904
+	 	 Epoch 61
+Train loss = 0.553 Train Acc = 0.885 Val Acc = 0.796 Val loss = 0.656 Epoch Time = 76.899
+	 	 Epoch 62
+Train loss = 0.553 Train Acc = 0.885 Val Acc = 0.798 Val loss = 0.656 Epoch Time = 77.332
+	 	 Epoch 63
+Train loss = 0.552 Train Acc = 0.885 Val Acc = 0.798 Val loss = 0.655 Epoch Time = 76.917
+	 	 Epoch 64
+Train loss = 0.551 Train Acc = 0.885 Val Acc = 0.800 Val loss = 0.654 Epoch Time = 76.911
+	 	 Epoch 65
+Train loss = 0.550 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.654 Epoch Time = 77.043
+	 	 Epoch 66
+Train loss = 0.550 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.653 Epoch Time = 76.921
+	 	 Epoch 67
+Train loss = 0.549 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.653 Epoch Time = 76.904
+	 	 Epoch 68
+Train loss = 0.548 Train Acc = 0.886 Val Acc = 0.801 Val loss = 0.652 Epoch Time = 76.910
+	 	 Epoch 69
+Train loss = 0.548 Train Acc = 0.886 Val Acc = 0.801 Val loss = 0.652 Epoch Time = 76.919
+	 	 Epoch 70
+Train loss = 0.547 Train Acc = 0.886 Val Acc = 0.800 Val loss = 0.651 Epoch Time = 76.927
+	 	 Epoch 71
+Train loss = 0.546 Train Acc = 0.887 Val Acc = 0.800 Val loss = 0.651 Epoch Time = 76.914
+	 	 Epoch 72
+Train loss = 0.546 Train Acc = 0.886 Val Acc = 0.801 Val loss = 0.650 Epoch Time = 77.078
+	 	 Epoch 73
+Train loss = 0.545 Train Acc = 0.887 Val Acc = 0.800 Val loss = 0.650 Epoch Time = 76.919
+	 	 Epoch 74
+Train loss = 0.545 Train Acc = 0.888 Val Acc = 0.802 Val loss = 0.649 Epoch Time = 76.896
+	 	 Epoch 75
+Train loss = 0.544 Train Acc = 0.887 Val Acc = 0.804 Val loss = 0.649 Epoch Time = 76.929
+	 	 Epoch 76
+Train loss = 0.543 Train Acc = 0.888 Val Acc = 0.805 Val loss = 0.648 Epoch Time = 76.895
+	 	 Epoch 77
+Train loss = 0.543 Train Acc = 0.888 Val Acc = 0.805 Val loss = 0.648 Epoch Time = 76.909
+	 	 Epoch 78
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.805 Val loss = 0.648 Epoch Time = 76.889
+	 	 Epoch 79
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.806 Val loss = 0.647 Epoch Time = 76.918
+	 	 Epoch 80
+Train loss = 0.541 Train Acc = 0.889 Val Acc = 0.805 Val loss = 0.647 Epoch Time = 76.915
+	 	 Epoch 81
+Train loss = 0.541 Train Acc = 0.889 Val Acc = 0.805 Val loss = 0.646 Epoch Time = 76.902
+	 	 Epoch 82
+Train loss = 0.540 Train Acc = 0.889 Val Acc = 0.805 Val loss = 0.646 Epoch Time = 76.930
+	 	 Epoch 83
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.805 Val loss = 0.646 Epoch Time = 76.898
+	 	 Epoch 84
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.804 Val loss = 0.646 Epoch Time = 76.885
+	 	 Epoch 85
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.804 Val loss = 0.645 Epoch Time = 76.909
+	 	 Epoch 86
+Train loss = 0.538 Train Acc = 0.891 Val Acc = 0.805 Val loss = 0.645 Epoch Time = 76.920
+	 	 Epoch 87
+Train loss = 0.538 Train Acc = 0.891 Val Acc = 0.806 Val loss = 0.645 Epoch Time = 78.370
+	 	 Epoch 88
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.807 Val loss = 0.644 Epoch Time = 77.339
+	 	 Epoch 89
+Train loss = 0.537 Train Acc = 0.892 Val Acc = 0.807 Val loss = 0.644 Epoch Time = 77.018
+	 	 Epoch 90
+Train loss = 0.537 Train Acc = 0.892 Val Acc = 0.805 Val loss = 0.644 Epoch Time = 76.998
+	 	 Epoch 91
+Train loss = 0.536 Train Acc = 0.892 Val Acc = 0.805 Val loss = 0.644 Epoch Time = 77.007
+	 	 Epoch 92
+Train loss = 0.536 Train Acc = 0.894 Val Acc = 0.805 Val loss = 0.643 Epoch Time = 77.027
+	 	 Epoch 93
+Train loss = 0.535 Train Acc = 0.894 Val Acc = 0.805 Val loss = 0.643 Epoch Time = 76.992
+	 	 Epoch 94
+Train loss = 0.535 Train Acc = 0.894 Val Acc = 0.805 Val loss = 0.643 Epoch Time = 77.029
+	 	 Epoch 95
+Train loss = 0.535 Train Acc = 0.894 Val Acc = 0.804 Val loss = 0.643 Epoch Time = 77.004
+	 	 Epoch 96
+Train loss = 0.534 Train Acc = 0.894 Val Acc = 0.804 Val loss = 0.642 Epoch Time = 77.018
+	 	 Epoch 97
+Train loss = 0.534 Train Acc = 0.895 Val Acc = 0.806 Val loss = 0.642 Epoch Time = 77.014
+	 	 Epoch 98
+Train loss = 0.534 Train Acc = 0.895 Val Acc = 0.806 Val loss = 0.642 Epoch Time = 77.008
+	 	 Epoch 99
+Train loss = 0.533 Train Acc = 0.895 Val Acc = 0.806 Val loss = 0.642 Epoch Time = 77.324
+	 	 Epoch 100
+Train loss = 0.533 Train Acc = 0.895 Val Acc = 0.806 Val loss = 0.642 Epoch Time = 77.147
+	 	 Epoch 101
+Train loss = 0.533 Train Acc = 0.895 Val Acc = 0.805 Val loss = 0.642 Epoch Time = 77.155
+	 	 Epoch 102
+Train loss = 0.532 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.641 Epoch Time = 77.174
+	 	 Epoch 103
+Train loss = 0.532 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.641 Epoch Time = 77.179
+	 	 Epoch 104
+Train loss = 0.532 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.641 Epoch Time = 77.226
+	 	 Epoch 105
+Train loss = 0.532 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.641 Epoch Time = 77.195
+	 	 Epoch 106
+Train loss = 0.531 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.641 Epoch Time = 77.227
+	 	 Epoch 107
+Train loss = 0.531 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.640 Epoch Time = 77.237
+	 	 Epoch 108
+Train loss = 0.531 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.640 Epoch Time = 77.090
+	 	 Epoch 109
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.805 Val loss = 0.640 Epoch Time = 77.080
+	 	 Epoch 110
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.802 Val loss = 0.640 Epoch Time = 77.158
+	 	 Epoch 111
+Train loss = 0.530 Train Acc = 0.896 Val Acc = 0.802 Val loss = 0.640 Epoch Time = 77.169
+	 	 Epoch 112
+Train loss = 0.530 Train Acc = 0.897 Val Acc = 0.802 Val loss = 0.640 Epoch Time = 2637.659
+	 	 Epoch 113
+Train loss = 0.530 Train Acc = 0.897 Val Acc = 0.802 Val loss = 0.640 Epoch Time = 77.816
+	 	 Epoch 114
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 77.232
+	 	 Epoch 115
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 77.982
+	 	 Epoch 116
+Train loss = 0.529 Train Acc = 0.897 Val Acc = 0.803 Val loss = 0.639 Epoch Time = 78.881
+	 	 Epoch 117
+Train loss = 0.529 Train Acc = 0.898 Val Acc = 0.804 Val loss = 0.639 Epoch Time = 79.828
+	 	 Epoch 118
+Train loss = 0.529 Train Acc = 0.898 Val Acc = 0.803 Val loss = 0.639 Epoch Time = 78.299
+	 	 Epoch 119
+Train loss = 0.528 Train Acc = 0.898 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 79.703
+	 	 Epoch 120
+Train loss = 0.528 Train Acc = 0.898 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 77.564
+	 	 Epoch 121
+Train loss = 0.528 Train Acc = 0.898 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 82.343
+	 	 Epoch 122
+Train loss = 0.528 Train Acc = 0.899 Val Acc = 0.802 Val loss = 0.639 Epoch Time = 80.103
+	 	 Epoch 123
+Train loss = 0.528 Train Acc = 0.899 Val Acc = 0.801 Val loss = 0.639 Epoch Time = 78.343
+	 	 Epoch 124
+Train loss = 0.528 Train Acc = 0.900 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 79.113
+	 	 Epoch 125
+Train loss = 0.527 Train Acc = 0.900 Val Acc = 0.799 Val loss = 0.638 Epoch Time = 78.570
+	 	 Epoch 126
+Train loss = 0.527 Train Acc = 0.900 Val Acc = 0.799 Val loss = 0.638 Epoch Time = 77.451
+	 	 Epoch 127
+Train loss = 0.527 Train Acc = 0.900 Val Acc = 0.799 Val loss = 0.638 Epoch Time = 79.601
+	 	 Epoch 128
+Train loss = 0.527 Train Acc = 0.900 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 77.836
+	 	 Epoch 129
+Train loss = 0.527 Train Acc = 0.900 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 78.714
+	 	 Epoch 130
+Train loss = 0.527 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 80.926
+	 	 Epoch 131
+Train loss = 0.527 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 79.564
+	 	 Epoch 132
+Train loss = 0.527 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 79.187
+	 	 Epoch 133
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 77.873
+	 	 Epoch 134
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 77.742
+	 	 Epoch 135
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 78.831
+	 	 Epoch 136
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 78.886
+	 	 Epoch 137
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.638 Epoch Time = 78.736
+	 	 Epoch 138
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 78.927
+	 	 Epoch 139
+Train loss = 0.526 Train Acc = 0.903 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 78.704
+	 	 Epoch 140
+Train loss = 0.526 Train Acc = 0.903 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 76.904
+	 	 Epoch 141
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 79.105
+	 	 Epoch 142
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.803 Val loss = 0.637 Epoch Time = 78.808
+	 	 Epoch 143
+Train loss = 0.526 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 77.988
+	 	 Epoch 144
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 78.854
+	 	 Epoch 145
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 79.455
+	 	 Epoch 146
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.637 Epoch Time = 78.835
+	 	 Epoch 147
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 78.347
+	 	 Epoch 148
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 654.739
+	 	 Epoch 149
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 78.995
+	 	 Epoch 150
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 77.030
+	 	 Epoch 151
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 77.017
+	 	 Epoch 152
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 77.084
+	 	 Epoch 153
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.027
+	 	 Epoch 154
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.003
+	 	 Epoch 155
+Train loss = 0.525 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.109
+	 	 Epoch 156
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.050
+	 	 Epoch 157
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.008
+	 	 Epoch 158
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.800 Val loss = 0.637 Epoch Time = 77.050
+	 	 Epoch 159
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.799 Val loss = 0.637 Epoch Time = 77.038
+	 	 Epoch 160
+Train loss = 0.524 Train Acc = 0.903 Val Acc = 0.799 Val loss = 0.637 Epoch Time = 77.037
+	 	 Epoch 161
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.637 Epoch Time = 79.083
+	 	 Epoch 162
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.072
+	 	 Epoch 163
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.013
+	 	 Epoch 164
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 77.015
+	 	 Epoch 165
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 76.997
+	 	 Epoch 166
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.036
+	 	 Epoch 167
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.056
+	 	 Epoch 168
+Train loss = 0.524 Train Acc = 0.902 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.034
+	 	 Epoch 169
+Train loss = 0.524 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.091
+	 	 Epoch 170
+Train loss = 0.524 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.062
+	 	 Epoch 171
+Train loss = 0.524 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.134
+	 	 Epoch 172
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.804 Val loss = 0.636 Epoch Time = 77.062
+	 	 Epoch 173
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.034
+	 	 Epoch 174
+Train loss = 0.523 Train Acc = 0.900 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.029
+	 	 Epoch 175
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.049
+	 	 Epoch 176
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.803 Val loss = 0.636 Epoch Time = 77.083
+	 	 Epoch 177
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 77.056
+	 	 Epoch 178
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 77.090
+	 	 Epoch 179
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 79.043
+	 	 Epoch 180
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.415
+	 	 Epoch 181
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.636 Epoch Time = 77.069
+	 	 Epoch 182
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.636 Epoch Time = 77.018
+	 	 Epoch 183
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.593
+	 	 Epoch 184
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.339
+	 	 Epoch 185
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.242
+	 	 Epoch 186
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.453
+	 	 Epoch 187
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.549
+	 	 Epoch 188
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.382
+	 	 Epoch 189
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.167
+	 	 Epoch 190
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.737
+	 	 Epoch 191
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 78.825
+	 	 Epoch 192
+Train loss = 0.523 Train Acc = 0.902 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 80.533
+	 	 Epoch 193
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.802 Val loss = 0.636 Epoch Time = 78.107
+	 	 Epoch 194
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 79.104
+	 	 Epoch 195
+Train loss = 0.523 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.885
+	 	 Epoch 196
+Train loss = 0.522 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 77.502
+	 	 Epoch 197
+Train loss = 0.522 Train Acc = 0.901 Val Acc = 0.801 Val loss = 0.636 Epoch Time = 79.026
+	 	 Epoch 198
+Train loss = 0.522 Train Acc = 0.901 Val Acc = 0.800 Val loss = 0.636 Epoch Time = 77.558
+	 	 Epoch 199
+Train loss = 0.522 Train Acc = 0.901 Val Acc = 0.799 Val loss = 0.636 Epoch Time = 77.118
+	 	 Epoch 200
+Train loss = 0.522 Train Acc = 0.902 Val Acc = 0.799 Val loss = 0.636 Epoch Time = 77.069
+	 	 Epoch 201
+Train loss = 0.522 Train Acc = 0.902 Val Acc = 0.799 Val loss = 0.636 Epoch Time = 77.081
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8914, 'cm': array([[818,  28,  55,  11],
+       [ 20, 826,  40,  26],
+       [ 33,  30, 812,  37],
+       [ 34,  45,  37, 796]]), 'loss': 0.5374611637048554}
+
+ Validation Results: 
+{'acc': 0.8073, 'cm': array([[198,  13,  22,   7],
+       [ 18, 196,  15,  11],
+       [ 12,  17, 192,  19],
+       [ 15,  19,  17, 189]]), 'loss': 0.6442858378092448}
+
+ Test Results: 
+{'acc': 0.6285, 'cm': array([[ 85,  12,  12,  35],
+       [  7,  69,  22,  46],
+       [ 10,  13,  93,  28],
+       [  9,  16,   4, 115]]), 'loss': 0.9635399712456597}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub6
+	 	 Epoch 1
+Train loss = 1.170 Train Acc = 0.471 Val Acc = 0.447 Val loss = 1.203 Epoch Time = 77.125
+	 	 Epoch 2
+Train loss = 1.003 Train Acc = 0.712 Val Acc = 0.628 Val loss = 1.060 Epoch Time = 77.071
+	 	 Epoch 3
+Train loss = 0.903 Train Acc = 0.764 Val Acc = 0.679 Val loss = 0.974 Epoch Time = 77.061
+	 	 Epoch 4
+Train loss = 0.842 Train Acc = 0.790 Val Acc = 0.699 Val loss = 0.920 Epoch Time = 77.035
+	 	 Epoch 5
+Train loss = 0.801 Train Acc = 0.806 Val Acc = 0.705 Val loss = 0.885 Epoch Time = 77.030
+	 	 Epoch 6
+Train loss = 0.771 Train Acc = 0.813 Val Acc = 0.717 Val loss = 0.858 Epoch Time = 77.027
+	 	 Epoch 7
+Train loss = 0.748 Train Acc = 0.822 Val Acc = 0.722 Val loss = 0.838 Epoch Time = 77.051
+	 	 Epoch 8
+Train loss = 0.729 Train Acc = 0.831 Val Acc = 0.723 Val loss = 0.822 Epoch Time = 77.029
+	 	 Epoch 9
+Train loss = 0.715 Train Acc = 0.834 Val Acc = 0.729 Val loss = 0.809 Epoch Time = 77.024
+	 	 Epoch 10
+Train loss = 0.703 Train Acc = 0.839 Val Acc = 0.730 Val loss = 0.800 Epoch Time = 77.013
+	 	 Epoch 11
+Train loss = 0.692 Train Acc = 0.842 Val Acc = 0.735 Val loss = 0.791 Epoch Time = 77.020
+	 	 Epoch 12
+Train loss = 0.684 Train Acc = 0.841 Val Acc = 0.739 Val loss = 0.784 Epoch Time = 77.044
+	 	 Epoch 13
+Train loss = 0.676 Train Acc = 0.844 Val Acc = 0.742 Val loss = 0.777 Epoch Time = 77.021
+	 	 Epoch 14
+Train loss = 0.669 Train Acc = 0.845 Val Acc = 0.741 Val loss = 0.772 Epoch Time = 77.069
+	 	 Epoch 15
+Train loss = 0.663 Train Acc = 0.844 Val Acc = 0.741 Val loss = 0.767 Epoch Time = 77.049
+	 	 Epoch 16
+Train loss = 0.658 Train Acc = 0.847 Val Acc = 0.739 Val loss = 0.763 Epoch Time = 77.034
+	 	 Epoch 17
+Train loss = 0.654 Train Acc = 0.848 Val Acc = 0.743 Val loss = 0.760 Epoch Time = 77.041
+	 	 Epoch 18
+Train loss = 0.650 Train Acc = 0.849 Val Acc = 0.745 Val loss = 0.756 Epoch Time = 77.032
+	 	 Epoch 19
+Train loss = 0.646 Train Acc = 0.849 Val Acc = 0.746 Val loss = 0.754 Epoch Time = 77.040
+	 	 Epoch 20
+Train loss = 0.643 Train Acc = 0.850 Val Acc = 0.748 Val loss = 0.751 Epoch Time = 77.026
+	 	 Epoch 21
+Train loss = 0.640 Train Acc = 0.851 Val Acc = 0.751 Val loss = 0.749 Epoch Time = 77.042
+	 	 Epoch 22
+Train loss = 0.638 Train Acc = 0.851 Val Acc = 0.752 Val loss = 0.747 Epoch Time = 77.046
+	 	 Epoch 23
+Train loss = 0.635 Train Acc = 0.852 Val Acc = 0.753 Val loss = 0.745 Epoch Time = 77.034
+	 	 Epoch 24
+Train loss = 0.633 Train Acc = 0.852 Val Acc = 0.752 Val loss = 0.744 Epoch Time = 77.035
+	 	 Epoch 25
+Train loss = 0.631 Train Acc = 0.853 Val Acc = 0.752 Val loss = 0.742 Epoch Time = 77.018
+	 	 Epoch 26
+Train loss = 0.629 Train Acc = 0.852 Val Acc = 0.755 Val loss = 0.741 Epoch Time = 77.056
+	 	 Epoch 27
+Train loss = 0.628 Train Acc = 0.853 Val Acc = 0.757 Val loss = 0.740 Epoch Time = 77.010
+	 	 Epoch 28
+Train loss = 0.626 Train Acc = 0.853 Val Acc = 0.757 Val loss = 0.739 Epoch Time = 77.082
+	 	 Epoch 29
+Train loss = 0.625 Train Acc = 0.852 Val Acc = 0.757 Val loss = 0.738 Epoch Time = 77.118
+	 	 Epoch 30
+Train loss = 0.623 Train Acc = 0.851 Val Acc = 0.756 Val loss = 0.737 Epoch Time = 77.034
+	 	 Epoch 31
+Train loss = 0.622 Train Acc = 0.852 Val Acc = 0.757 Val loss = 0.736 Epoch Time = 77.088
+	 	 Epoch 32
+Train loss = 0.621 Train Acc = 0.853 Val Acc = 0.758 Val loss = 0.735 Epoch Time = 77.029
+	 	 Epoch 33
+Train loss = 0.619 Train Acc = 0.852 Val Acc = 0.757 Val loss = 0.734 Epoch Time = 77.033
+	 	 Epoch 34
+Train loss = 0.618 Train Acc = 0.852 Val Acc = 0.758 Val loss = 0.733 Epoch Time = 77.017
+	 	 Epoch 35
+Train loss = 0.617 Train Acc = 0.853 Val Acc = 0.758 Val loss = 0.732 Epoch Time = 77.022
+	 	 Epoch 36
+Train loss = 0.616 Train Acc = 0.854 Val Acc = 0.757 Val loss = 0.731 Epoch Time = 77.046
+	 	 Epoch 37
+Train loss = 0.614 Train Acc = 0.855 Val Acc = 0.757 Val loss = 0.730 Epoch Time = 77.018
+	 	 Epoch 38
+Train loss = 0.613 Train Acc = 0.856 Val Acc = 0.759 Val loss = 0.729 Epoch Time = 77.058
+	 	 Epoch 39
+Train loss = 0.612 Train Acc = 0.857 Val Acc = 0.761 Val loss = 0.728 Epoch Time = 77.056
+	 	 Epoch 40
+Train loss = 0.611 Train Acc = 0.857 Val Acc = 0.762 Val loss = 0.727 Epoch Time = 77.070
+	 	 Epoch 41
+Train loss = 0.610 Train Acc = 0.857 Val Acc = 0.763 Val loss = 0.726 Epoch Time = 77.031
+	 	 Epoch 42
+Train loss = 0.609 Train Acc = 0.858 Val Acc = 0.763 Val loss = 0.725 Epoch Time = 77.034
+	 	 Epoch 43
+Train loss = 0.608 Train Acc = 0.859 Val Acc = 0.763 Val loss = 0.724 Epoch Time = 77.037
+	 	 Epoch 44
+Train loss = 0.608 Train Acc = 0.860 Val Acc = 0.763 Val loss = 0.724 Epoch Time = 77.033
+	 	 Epoch 45
+Train loss = 0.607 Train Acc = 0.860 Val Acc = 0.766 Val loss = 0.723 Epoch Time = 77.040
+	 	 Epoch 46
+Train loss = 0.606 Train Acc = 0.862 Val Acc = 0.768 Val loss = 0.722 Epoch Time = 77.026
+	 	 Epoch 47
+Train loss = 0.605 Train Acc = 0.863 Val Acc = 0.769 Val loss = 0.721 Epoch Time = 77.054
+	 	 Epoch 48
+Train loss = 0.605 Train Acc = 0.863 Val Acc = 0.771 Val loss = 0.720 Epoch Time = 77.049
+	 	 Epoch 49
+Train loss = 0.604 Train Acc = 0.865 Val Acc = 0.773 Val loss = 0.720 Epoch Time = 77.054
+	 	 Epoch 50
+Train loss = 0.603 Train Acc = 0.865 Val Acc = 0.774 Val loss = 0.719 Epoch Time = 77.074
+	 	 Epoch 51
+Train loss = 0.603 Train Acc = 0.867 Val Acc = 0.774 Val loss = 0.718 Epoch Time = 77.032
+	 	 Epoch 52
+Train loss = 0.602 Train Acc = 0.869 Val Acc = 0.773 Val loss = 0.717 Epoch Time = 77.018
+	 	 Epoch 53
+Train loss = 0.602 Train Acc = 0.868 Val Acc = 0.772 Val loss = 0.717 Epoch Time = 77.041
+	 	 Epoch 54
+Train loss = 0.601 Train Acc = 0.869 Val Acc = 0.773 Val loss = 0.716 Epoch Time = 77.073
+	 	 Epoch 55
+Train loss = 0.601 Train Acc = 0.870 Val Acc = 0.775 Val loss = 0.715 Epoch Time = 77.032
+	 	 Epoch 56
+Train loss = 0.600 Train Acc = 0.871 Val Acc = 0.775 Val loss = 0.715 Epoch Time = 77.058
+	 	 Epoch 57
+Train loss = 0.599 Train Acc = 0.871 Val Acc = 0.777 Val loss = 0.714 Epoch Time = 77.056
+	 	 Epoch 58
+Train loss = 0.599 Train Acc = 0.872 Val Acc = 0.775 Val loss = 0.713 Epoch Time = 77.042
+	 	 Epoch 59
+Train loss = 0.598 Train Acc = 0.873 Val Acc = 0.777 Val loss = 0.712 Epoch Time = 77.034
+	 	 Epoch 60
+Train loss = 0.598 Train Acc = 0.873 Val Acc = 0.777 Val loss = 0.712 Epoch Time = 77.051
+	 	 Epoch 61
+Train loss = 0.597 Train Acc = 0.874 Val Acc = 0.778 Val loss = 0.711 Epoch Time = 77.060
+	 	 Epoch 62
+Train loss = 0.596 Train Acc = 0.875 Val Acc = 0.778 Val loss = 0.710 Epoch Time = 77.051
+	 	 Epoch 63
+Train loss = 0.596 Train Acc = 0.875 Val Acc = 0.778 Val loss = 0.710 Epoch Time = 77.058
+	 	 Epoch 64
+Train loss = 0.595 Train Acc = 0.875 Val Acc = 0.778 Val loss = 0.709 Epoch Time = 77.045
+	 	 Epoch 65
+Train loss = 0.595 Train Acc = 0.875 Val Acc = 0.777 Val loss = 0.708 Epoch Time = 77.054
+	 	 Epoch 66
+Train loss = 0.594 Train Acc = 0.876 Val Acc = 0.778 Val loss = 0.708 Epoch Time = 77.040
+	 	 Epoch 67
+Train loss = 0.594 Train Acc = 0.876 Val Acc = 0.780 Val loss = 0.707 Epoch Time = 77.043
+	 	 Epoch 68
+Train loss = 0.593 Train Acc = 0.876 Val Acc = 0.779 Val loss = 0.706 Epoch Time = 77.069
+	 	 Epoch 69
+Train loss = 0.593 Train Acc = 0.876 Val Acc = 0.779 Val loss = 0.706 Epoch Time = 77.045
+	 	 Epoch 70
+Train loss = 0.592 Train Acc = 0.876 Val Acc = 0.779 Val loss = 0.705 Epoch Time = 77.051
+	 	 Epoch 71
+Train loss = 0.592 Train Acc = 0.877 Val Acc = 0.777 Val loss = 0.705 Epoch Time = 77.063
+	 	 Epoch 72
+Train loss = 0.591 Train Acc = 0.878 Val Acc = 0.778 Val loss = 0.704 Epoch Time = 77.062
+	 	 Epoch 73
+Train loss = 0.591 Train Acc = 0.877 Val Acc = 0.780 Val loss = 0.703 Epoch Time = 77.040
+	 	 Epoch 74
+Train loss = 0.590 Train Acc = 0.879 Val Acc = 0.780 Val loss = 0.703 Epoch Time = 77.050
+	 	 Epoch 75
+Train loss = 0.590 Train Acc = 0.879 Val Acc = 0.780 Val loss = 0.702 Epoch Time = 77.066
+	 	 Epoch 76
+Train loss = 0.590 Train Acc = 0.879 Val Acc = 0.782 Val loss = 0.702 Epoch Time = 77.064
+	 	 Epoch 77
+Train loss = 0.589 Train Acc = 0.879 Val Acc = 0.786 Val loss = 0.701 Epoch Time = 77.068
+	 	 Epoch 78
+Train loss = 0.589 Train Acc = 0.879 Val Acc = 0.784 Val loss = 0.701 Epoch Time = 77.062
+	 	 Epoch 79
+Train loss = 0.588 Train Acc = 0.879 Val Acc = 0.784 Val loss = 0.700 Epoch Time = 77.058
+	 	 Epoch 80
+Train loss = 0.588 Train Acc = 0.880 Val Acc = 0.784 Val loss = 0.700 Epoch Time = 77.030
+	 	 Epoch 81
+Train loss = 0.587 Train Acc = 0.880 Val Acc = 0.785 Val loss = 0.699 Epoch Time = 77.037
+	 	 Epoch 82
+Train loss = 0.587 Train Acc = 0.881 Val Acc = 0.784 Val loss = 0.699 Epoch Time = 77.029
+	 	 Epoch 83
+Train loss = 0.587 Train Acc = 0.881 Val Acc = 0.785 Val loss = 0.698 Epoch Time = 77.061
+	 	 Epoch 84
+Train loss = 0.586 Train Acc = 0.882 Val Acc = 0.787 Val loss = 0.698 Epoch Time = 77.292
+	 	 Epoch 85
+Train loss = 0.586 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.697 Epoch Time = 77.089
+	 	 Epoch 86
+Train loss = 0.586 Train Acc = 0.881 Val Acc = 0.786 Val loss = 0.697 Epoch Time = 77.039
+	 	 Epoch 87
+Train loss = 0.585 Train Acc = 0.881 Val Acc = 0.786 Val loss = 0.697 Epoch Time = 77.061
+	 	 Epoch 88
+Train loss = 0.585 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.696 Epoch Time = 77.090
+	 	 Epoch 89
+Train loss = 0.585 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.696 Epoch Time = 77.301
+	 	 Epoch 90
+Train loss = 0.584 Train Acc = 0.882 Val Acc = 0.788 Val loss = 0.696 Epoch Time = 77.108
+	 	 Epoch 91
+Train loss = 0.584 Train Acc = 0.882 Val Acc = 0.787 Val loss = 0.695 Epoch Time = 77.086
+	 	 Epoch 92
+Train loss = 0.584 Train Acc = 0.881 Val Acc = 0.788 Val loss = 0.695 Epoch Time = 77.071
+	 	 Epoch 93
+Train loss = 0.584 Train Acc = 0.881 Val Acc = 0.788 Val loss = 0.695 Epoch Time = 77.067
+	 	 Epoch 94
+Train loss = 0.583 Train Acc = 0.881 Val Acc = 0.790 Val loss = 0.694 Epoch Time = 77.069
+	 	 Epoch 95
+Train loss = 0.583 Train Acc = 0.881 Val Acc = 0.790 Val loss = 0.694 Epoch Time = 77.100
+	 	 Epoch 96
+Train loss = 0.583 Train Acc = 0.882 Val Acc = 0.791 Val loss = 0.694 Epoch Time = 77.037
+	 	 Epoch 97
+Train loss = 0.583 Train Acc = 0.882 Val Acc = 0.790 Val loss = 0.693 Epoch Time = 77.075
+	 	 Epoch 98
+Train loss = 0.582 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.693 Epoch Time = 77.079
+	 	 Epoch 99
+Train loss = 0.582 Train Acc = 0.883 Val Acc = 0.788 Val loss = 0.693 Epoch Time = 77.076
+	 	 Epoch 100
+Train loss = 0.582 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.693 Epoch Time = 77.048
+	 	 Epoch 101
+Train loss = 0.582 Train Acc = 0.883 Val Acc = 0.791 Val loss = 0.692 Epoch Time = 77.884
+	 	 Epoch 102
+Train loss = 0.582 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.692 Epoch Time = 77.089
+	 	 Epoch 103
+Train loss = 0.581 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.692 Epoch Time = 77.145
+	 	 Epoch 104
+Train loss = 0.581 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.692 Epoch Time = 77.082
+	 	 Epoch 105
+Train loss = 0.581 Train Acc = 0.882 Val Acc = 0.790 Val loss = 0.691 Epoch Time = 77.080
+	 	 Epoch 106
+Train loss = 0.581 Train Acc = 0.883 Val Acc = 0.787 Val loss = 0.691 Epoch Time = 77.186
+	 	 Epoch 107
+Train loss = 0.581 Train Acc = 0.883 Val Acc = 0.787 Val loss = 0.691 Epoch Time = 77.069
+	 	 Epoch 108
+Train loss = 0.581 Train Acc = 0.883 Val Acc = 0.788 Val loss = 0.691 Epoch Time = 77.040
+	 	 Epoch 109
+Train loss = 0.580 Train Acc = 0.883 Val Acc = 0.787 Val loss = 0.691 Epoch Time = 77.067
+	 	 Epoch 110
+Train loss = 0.580 Train Acc = 0.884 Val Acc = 0.787 Val loss = 0.690 Epoch Time = 77.038
+	 	 Epoch 111
+Train loss = 0.580 Train Acc = 0.883 Val Acc = 0.787 Val loss = 0.690 Epoch Time = 77.050
+	 	 Epoch 112
+Train loss = 0.580 Train Acc = 0.882 Val Acc = 0.790 Val loss = 0.690 Epoch Time = 77.052
+	 	 Epoch 113
+Train loss = 0.580 Train Acc = 0.883 Val Acc = 0.788 Val loss = 0.690 Epoch Time = 77.298
+	 	 Epoch 114
+Train loss = 0.580 Train Acc = 0.883 Val Acc = 0.791 Val loss = 0.690 Epoch Time = 77.068
+	 	 Epoch 115
+Train loss = 0.580 Train Acc = 0.883 Val Acc = 0.790 Val loss = 0.690 Epoch Time = 77.038
+	 	 Epoch 116
+Train loss = 0.579 Train Acc = 0.882 Val Acc = 0.790 Val loss = 0.689 Epoch Time = 77.072
+	 	 Epoch 117
+Train loss = 0.579 Train Acc = 0.882 Val Acc = 0.792 Val loss = 0.689 Epoch Time = 77.052
+	 	 Epoch 118
+Train loss = 0.579 Train Acc = 0.883 Val Acc = 0.792 Val loss = 0.689 Epoch Time = 77.059
+	 	 Epoch 119
+Train loss = 0.579 Train Acc = 0.883 Val Acc = 0.793 Val loss = 0.689 Epoch Time = 77.066
+	 	 Epoch 120
+Train loss = 0.579 Train Acc = 0.883 Val Acc = 0.794 Val loss = 0.689 Epoch Time = 77.059
+	 	 Epoch 121
+Train loss = 0.579 Train Acc = 0.884 Val Acc = 0.795 Val loss = 0.689 Epoch Time = 77.092
+	 	 Epoch 122
+Train loss = 0.579 Train Acc = 0.883 Val Acc = 0.796 Val loss = 0.689 Epoch Time = 77.062
+	 	 Epoch 123
+Train loss = 0.578 Train Acc = 0.884 Val Acc = 0.794 Val loss = 0.688 Epoch Time = 77.062
+	 	 Epoch 124
+Train loss = 0.578 Train Acc = 0.883 Val Acc = 0.794 Val loss = 0.688 Epoch Time = 77.061
+	 	 Epoch 125
+Train loss = 0.578 Train Acc = 0.883 Val Acc = 0.794 Val loss = 0.688 Epoch Time = 77.141
+	 	 Epoch 126
+Train loss = 0.578 Train Acc = 0.884 Val Acc = 0.793 Val loss = 0.688 Epoch Time = 77.059
+	 	 Epoch 127
+Train loss = 0.578 Train Acc = 0.884 Val Acc = 0.793 Val loss = 0.688 Epoch Time = 77.054
+	 	 Epoch 128
+Train loss = 0.578 Train Acc = 0.884 Val Acc = 0.794 Val loss = 0.688 Epoch Time = 77.052
+	 	 Epoch 129
+Train loss = 0.578 Train Acc = 0.884 Val Acc = 0.794 Val loss = 0.688 Epoch Time = 77.074
+	 	 Epoch 130
+Train loss = 0.578 Train Acc = 0.883 Val Acc = 0.793 Val loss = 0.687 Epoch Time = 77.050
+	 	 Epoch 131
+Train loss = 0.577 Train Acc = 0.884 Val Acc = 0.792 Val loss = 0.687 Epoch Time = 77.090
+	 	 Epoch 132
+Train loss = 0.577 Train Acc = 0.885 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 77.268
+	 	 Epoch 133
+Train loss = 0.577 Train Acc = 0.884 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 77.271
+	 	 Epoch 134
+Train loss = 0.577 Train Acc = 0.884 Val Acc = 0.791 Val loss = 0.687 Epoch Time = 77.305
+	 	 Epoch 135
+Train loss = 0.577 Train Acc = 0.885 Val Acc = 0.790 Val loss = 0.687 Epoch Time = 77.191
+	 	 Epoch 136
+Train loss = 0.577 Train Acc = 0.885 Val Acc = 0.790 Val loss = 0.687 Epoch Time = 115.882
+	 	 Epoch 137
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.790 Val loss = 0.686 Epoch Time = 2627.037
+	 	 Epoch 138
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.790 Val loss = 0.686 Epoch Time = 79.638
+	 	 Epoch 139
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 79.027
+	 	 Epoch 140
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.787 Val loss = 0.686 Epoch Time = 79.004
+	 	 Epoch 141
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.787 Val loss = 0.686 Epoch Time = 79.159
+	 	 Epoch 142
+Train loss = 0.576 Train Acc = 0.885 Val Acc = 0.788 Val loss = 0.686 Epoch Time = 79.351
+	 	 Epoch 143
+Train loss = 0.575 Train Acc = 0.885 Val Acc = 0.787 Val loss = 0.686 Epoch Time = 78.445
+	 	 Epoch 144
+Train loss = 0.575 Train Acc = 0.885 Val Acc = 0.787 Val loss = 0.685 Epoch Time = 78.105
+	 	 Epoch 145
+Train loss = 0.575 Train Acc = 0.886 Val Acc = 0.787 Val loss = 0.685 Epoch Time = 79.065
+	 	 Epoch 146
+Train loss = 0.575 Train Acc = 0.885 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.154
+	 	 Epoch 147
+Train loss = 0.575 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 78.538
+	 	 Epoch 148
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.685 Epoch Time = 77.695
+	 	 Epoch 149
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.685 Epoch Time = 77.993
+	 	 Epoch 150
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.685 Epoch Time = 78.175
+	 	 Epoch 151
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.784 Val loss = 0.684 Epoch Time = 85.535
+	 	 Epoch 152
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.684 Epoch Time = 84.296
+	 	 Epoch 153
+Train loss = 0.574 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.684 Epoch Time = 79.650
+	 	 Epoch 154
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.787 Val loss = 0.684 Epoch Time = 78.917
+	 	 Epoch 155
+Train loss = 0.573 Train Acc = 0.885 Val Acc = 0.787 Val loss = 0.684 Epoch Time = 81.166
+	 	 Epoch 156
+Train loss = 0.573 Train Acc = 0.885 Val Acc = 0.788 Val loss = 0.684 Epoch Time = 79.942
+	 	 Epoch 157
+Train loss = 0.573 Train Acc = 0.885 Val Acc = 0.790 Val loss = 0.684 Epoch Time = 79.743
+	 	 Epoch 158
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.684 Epoch Time = 79.638
+	 	 Epoch 159
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.684 Epoch Time = 79.996
+	 	 Epoch 160
+Train loss = 0.573 Train Acc = 0.886 Val Acc = 0.791 Val loss = 0.683 Epoch Time = 79.120
+	 	 Epoch 161
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.683 Epoch Time = 78.454
+	 	 Epoch 162
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.683 Epoch Time = 79.870
+	 	 Epoch 163
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.683 Epoch Time = 78.425
+	 	 Epoch 164
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.683 Epoch Time = 78.415
+	 	 Epoch 165
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.793 Val loss = 0.683 Epoch Time = 80.133
+	 	 Epoch 166
+Train loss = 0.572 Train Acc = 0.886 Val Acc = 0.793 Val loss = 0.683 Epoch Time = 79.936
+	 	 Epoch 167
+Train loss = 0.571 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.683 Epoch Time = 77.142
+	 	 Epoch 168
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 76.948
+	 	 Epoch 169
+Train loss = 0.571 Train Acc = 0.887 Val Acc = 0.791 Val loss = 0.682 Epoch Time = 76.980
+	 	 Epoch 170
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 76.994
+	 	 Epoch 171
+Train loss = 0.571 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 76.960
+	 	 Epoch 172
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 76.986
+	 	 Epoch 173
+Train loss = 0.570 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 76.953
+	 	 Epoch 174
+Train loss = 0.570 Train Acc = 0.886 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 80.524
+	 	 Epoch 175
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.682 Epoch Time = 80.149
+	 	 Epoch 176
+Train loss = 0.570 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 79.686
+	 	 Epoch 177
+Train loss = 0.569 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 78.885
+	 	 Epoch 178
+Train loss = 0.569 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 78.875
+	 	 Epoch 179
+Train loss = 0.569 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 78.874
+	 	 Epoch 180
+Train loss = 0.569 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 79.098
+	 	 Epoch 181
+Train loss = 0.569 Train Acc = 0.887 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 78.880
+	 	 Epoch 182
+Train loss = 0.569 Train Acc = 0.888 Val Acc = 0.792 Val loss = 0.681 Epoch Time = 78.827
+	 	 Epoch 183
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.793 Val loss = 0.681 Epoch Time = 78.787
+	 	 Epoch 184
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.793 Val loss = 0.681 Epoch Time = 78.731
+	 	 Epoch 185
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.793 Val loss = 0.680 Epoch Time = 78.246
+	 	 Epoch 186
+Train loss = 0.568 Train Acc = 0.888 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 77.004
+	 	 Epoch 187
+Train loss = 0.568 Train Acc = 0.889 Val Acc = 0.793 Val loss = 0.680 Epoch Time = 76.963
+	 	 Epoch 188
+Train loss = 0.568 Train Acc = 0.889 Val Acc = 0.793 Val loss = 0.680 Epoch Time = 76.964
+	 	 Epoch 189
+Train loss = 0.568 Train Acc = 0.889 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 76.967
+	 	 Epoch 190
+Train loss = 0.567 Train Acc = 0.889 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 77.054
+	 	 Epoch 191
+Train loss = 0.567 Train Acc = 0.889 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 76.949
+	 	 Epoch 192
+Train loss = 0.567 Train Acc = 0.890 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 76.949
+	 	 Epoch 193
+Train loss = 0.567 Train Acc = 0.890 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 77.427
+	 	 Epoch 194
+Train loss = 0.567 Train Acc = 0.890 Val Acc = 0.793 Val loss = 0.680 Epoch Time = 77.029
+	 	 Epoch 195
+Train loss = 0.567 Train Acc = 0.890 Val Acc = 0.794 Val loss = 0.680 Epoch Time = 76.903
+	 	 Epoch 196
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.794 Val loss = 0.679 Epoch Time = 77.122
+	 	 Epoch 197
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.679 Epoch Time = 76.962
+	 	 Epoch 198
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.679 Epoch Time = 76.989
+	 	 Epoch 199
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.679 Epoch Time = 76.951
+	 	 Epoch 200
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.679 Epoch Time = 76.915
+	 	 Epoch 201
+Train loss = 0.566 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.679 Epoch Time = 76.926
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8835, 'cm': array([[844,  39,  15,  14],
+       [ 28, 848,  17,  19],
+       [ 53,  69, 741,  49],
+       [ 45,  61,  16, 790]]), 'loss': 0.578588653029057}
+
+ Validation Results: 
+{'acc': 0.7958, 'cm': array([[200,  18,  13,   9],
+       [ 19, 201,   7,  13],
+       [ 18,  26, 176,  20],
+       [ 19,  26,   8, 187]]), 'loss': 0.6885632197062175}
+
+ Test Results: 
+{'acc': 0.7622, 'cm': array([[132,   7,   2,   3],
+       [  8, 132,   1,   3],
+       [ 42,  25,  70,   7],
+       [ 10,  29,   0, 105]]), 'loss': 0.7066968811882867}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub7
+	 	 Epoch 1
+Train loss = 1.170 Train Acc = 0.485 Val Acc = 0.452 Val loss = 1.209 Epoch Time = 77.085
+	 	 Epoch 2
+Train loss = 0.983 Train Acc = 0.731 Val Acc = 0.633 Val loss = 1.049 Epoch Time = 76.918
+	 	 Epoch 3
+Train loss = 0.876 Train Acc = 0.774 Val Acc = 0.668 Val loss = 0.957 Epoch Time = 76.976
+	 	 Epoch 4
+Train loss = 0.814 Train Acc = 0.794 Val Acc = 0.693 Val loss = 0.903 Epoch Time = 76.923
+	 	 Epoch 5
+Train loss = 0.774 Train Acc = 0.805 Val Acc = 0.700 Val loss = 0.869 Epoch Time = 76.875
+	 	 Epoch 6
+Train loss = 0.745 Train Acc = 0.814 Val Acc = 0.710 Val loss = 0.844 Epoch Time = 76.880
+	 	 Epoch 7
+Train loss = 0.724 Train Acc = 0.820 Val Acc = 0.710 Val loss = 0.826 Epoch Time = 76.913
+	 	 Epoch 8
+Train loss = 0.708 Train Acc = 0.825 Val Acc = 0.725 Val loss = 0.812 Epoch Time = 76.898
+	 	 Epoch 9
+Train loss = 0.695 Train Acc = 0.829 Val Acc = 0.722 Val loss = 0.802 Epoch Time = 76.920
+	 	 Epoch 10
+Train loss = 0.685 Train Acc = 0.832 Val Acc = 0.723 Val loss = 0.793 Epoch Time = 77.085
+	 	 Epoch 11
+Train loss = 0.677 Train Acc = 0.835 Val Acc = 0.723 Val loss = 0.786 Epoch Time = 76.898
+	 	 Epoch 12
+Train loss = 0.669 Train Acc = 0.836 Val Acc = 0.724 Val loss = 0.780 Epoch Time = 76.921
+	 	 Epoch 13
+Train loss = 0.663 Train Acc = 0.837 Val Acc = 0.723 Val loss = 0.775 Epoch Time = 76.912
+	 	 Epoch 14
+Train loss = 0.658 Train Acc = 0.836 Val Acc = 0.725 Val loss = 0.770 Epoch Time = 76.930
+	 	 Epoch 15
+Train loss = 0.653 Train Acc = 0.837 Val Acc = 0.726 Val loss = 0.766 Epoch Time = 76.999
+	 	 Epoch 16
+Train loss = 0.649 Train Acc = 0.838 Val Acc = 0.728 Val loss = 0.763 Epoch Time = 76.932
+	 	 Epoch 17
+Train loss = 0.645 Train Acc = 0.840 Val Acc = 0.730 Val loss = 0.759 Epoch Time = 76.935
+	 	 Epoch 18
+Train loss = 0.641 Train Acc = 0.842 Val Acc = 0.731 Val loss = 0.755 Epoch Time = 76.907
+	 	 Epoch 19
+Train loss = 0.638 Train Acc = 0.842 Val Acc = 0.734 Val loss = 0.753 Epoch Time = 76.953
+	 	 Epoch 20
+Train loss = 0.634 Train Acc = 0.845 Val Acc = 0.735 Val loss = 0.749 Epoch Time = 76.998
+	 	 Epoch 21
+Train loss = 0.631 Train Acc = 0.846 Val Acc = 0.737 Val loss = 0.747 Epoch Time = 76.912
+	 	 Epoch 22
+Train loss = 0.629 Train Acc = 0.847 Val Acc = 0.737 Val loss = 0.744 Epoch Time = 76.912
+	 	 Epoch 23
+Train loss = 0.626 Train Acc = 0.847 Val Acc = 0.737 Val loss = 0.742 Epoch Time = 76.889
+	 	 Epoch 24
+Train loss = 0.623 Train Acc = 0.847 Val Acc = 0.737 Val loss = 0.739 Epoch Time = 76.928
+	 	 Epoch 25
+Train loss = 0.621 Train Acc = 0.847 Val Acc = 0.740 Val loss = 0.737 Epoch Time = 76.895
+	 	 Epoch 26
+Train loss = 0.618 Train Acc = 0.848 Val Acc = 0.737 Val loss = 0.735 Epoch Time = 76.954
+	 	 Epoch 27
+Train loss = 0.617 Train Acc = 0.850 Val Acc = 0.740 Val loss = 0.733 Epoch Time = 76.977
+	 	 Epoch 28
+Train loss = 0.615 Train Acc = 0.849 Val Acc = 0.740 Val loss = 0.731 Epoch Time = 77.606
+	 	 Epoch 29
+Train loss = 0.613 Train Acc = 0.850 Val Acc = 0.739 Val loss = 0.729 Epoch Time = 77.005
+	 	 Epoch 30
+Train loss = 0.611 Train Acc = 0.852 Val Acc = 0.741 Val loss = 0.727 Epoch Time = 76.946
+	 	 Epoch 31
+Train loss = 0.610 Train Acc = 0.853 Val Acc = 0.741 Val loss = 0.726 Epoch Time = 76.968
+	 	 Epoch 32
+Train loss = 0.608 Train Acc = 0.853 Val Acc = 0.744 Val loss = 0.724 Epoch Time = 76.960
+	 	 Epoch 33
+Train loss = 0.607 Train Acc = 0.854 Val Acc = 0.744 Val loss = 0.723 Epoch Time = 77.200
+	 	 Epoch 34
+Train loss = 0.605 Train Acc = 0.855 Val Acc = 0.747 Val loss = 0.721 Epoch Time = 77.014
+	 	 Epoch 35
+Train loss = 0.604 Train Acc = 0.856 Val Acc = 0.747 Val loss = 0.720 Epoch Time = 77.083
+	 	 Epoch 36
+Train loss = 0.602 Train Acc = 0.858 Val Acc = 0.746 Val loss = 0.719 Epoch Time = 77.019
+	 	 Epoch 37
+Train loss = 0.601 Train Acc = 0.858 Val Acc = 0.747 Val loss = 0.717 Epoch Time = 77.092
+	 	 Epoch 38
+Train loss = 0.600 Train Acc = 0.860 Val Acc = 0.747 Val loss = 0.716 Epoch Time = 76.951
+	 	 Epoch 39
+Train loss = 0.599 Train Acc = 0.861 Val Acc = 0.748 Val loss = 0.715 Epoch Time = 77.120
+	 	 Epoch 40
+Train loss = 0.597 Train Acc = 0.861 Val Acc = 0.751 Val loss = 0.713 Epoch Time = 77.250
+	 	 Epoch 41
+Train loss = 0.596 Train Acc = 0.862 Val Acc = 0.751 Val loss = 0.712 Epoch Time = 77.254
+	 	 Epoch 42
+Train loss = 0.595 Train Acc = 0.862 Val Acc = 0.752 Val loss = 0.711 Epoch Time = 77.249
+	 	 Epoch 43
+Train loss = 0.594 Train Acc = 0.863 Val Acc = 0.753 Val loss = 0.710 Epoch Time = 77.292
+	 	 Epoch 44
+Train loss = 0.593 Train Acc = 0.863 Val Acc = 0.756 Val loss = 0.709 Epoch Time = 77.086
+	 	 Epoch 45
+Train loss = 0.592 Train Acc = 0.863 Val Acc = 0.759 Val loss = 0.707 Epoch Time = 77.326
+	 	 Epoch 46
+Train loss = 0.591 Train Acc = 0.864 Val Acc = 0.761 Val loss = 0.706 Epoch Time = 77.080
+	 	 Epoch 47
+Train loss = 0.590 Train Acc = 0.864 Val Acc = 0.761 Val loss = 0.705 Epoch Time = 77.325
+	 	 Epoch 48
+Train loss = 0.589 Train Acc = 0.865 Val Acc = 0.763 Val loss = 0.704 Epoch Time = 76.986
+	 	 Epoch 49
+Train loss = 0.588 Train Acc = 0.864 Val Acc = 0.765 Val loss = 0.703 Epoch Time = 78.864
+	 	 Epoch 50
+Train loss = 0.587 Train Acc = 0.865 Val Acc = 0.768 Val loss = 0.702 Epoch Time = 77.109
+	 	 Epoch 51
+Train loss = 0.586 Train Acc = 0.864 Val Acc = 0.768 Val loss = 0.701 Epoch Time = 77.116
+	 	 Epoch 52
+Train loss = 0.585 Train Acc = 0.866 Val Acc = 0.769 Val loss = 0.700 Epoch Time = 77.043
+	 	 Epoch 53
+Train loss = 0.584 Train Acc = 0.867 Val Acc = 0.772 Val loss = 0.699 Epoch Time = 77.049
+	 	 Epoch 54
+Train loss = 0.584 Train Acc = 0.868 Val Acc = 0.773 Val loss = 0.698 Epoch Time = 77.031
+	 	 Epoch 55
+Train loss = 0.583 Train Acc = 0.868 Val Acc = 0.774 Val loss = 0.697 Epoch Time = 77.032
+	 	 Epoch 56
+Train loss = 0.582 Train Acc = 0.868 Val Acc = 0.774 Val loss = 0.696 Epoch Time = 77.058
+	 	 Epoch 57
+Train loss = 0.581 Train Acc = 0.867 Val Acc = 0.774 Val loss = 0.695 Epoch Time = 77.052
+	 	 Epoch 58
+Train loss = 0.580 Train Acc = 0.867 Val Acc = 0.775 Val loss = 0.694 Epoch Time = 77.101
+	 	 Epoch 59
+Train loss = 0.580 Train Acc = 0.867 Val Acc = 0.775 Val loss = 0.694 Epoch Time = 77.063
+	 	 Epoch 60
+Train loss = 0.579 Train Acc = 0.868 Val Acc = 0.775 Val loss = 0.693 Epoch Time = 77.041
+	 	 Epoch 61
+Train loss = 0.578 Train Acc = 0.868 Val Acc = 0.775 Val loss = 0.692 Epoch Time = 77.041
+	 	 Epoch 62
+Train loss = 0.577 Train Acc = 0.870 Val Acc = 0.775 Val loss = 0.691 Epoch Time = 77.038
+	 	 Epoch 63
+Train loss = 0.577 Train Acc = 0.871 Val Acc = 0.775 Val loss = 0.690 Epoch Time = 77.363
+	 	 Epoch 64
+Train loss = 0.576 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.689 Epoch Time = 77.008
+	 	 Epoch 65
+Train loss = 0.575 Train Acc = 0.872 Val Acc = 0.777 Val loss = 0.689 Epoch Time = 77.003
+	 	 Epoch 66
+Train loss = 0.574 Train Acc = 0.873 Val Acc = 0.778 Val loss = 0.688 Epoch Time = 76.921
+	 	 Epoch 67
+Train loss = 0.574 Train Acc = 0.873 Val Acc = 0.778 Val loss = 0.687 Epoch Time = 76.964
+	 	 Epoch 68
+Train loss = 0.573 Train Acc = 0.874 Val Acc = 0.779 Val loss = 0.686 Epoch Time = 77.074
+	 	 Epoch 69
+Train loss = 0.572 Train Acc = 0.875 Val Acc = 0.781 Val loss = 0.686 Epoch Time = 77.095
+	 	 Epoch 70
+Train loss = 0.572 Train Acc = 0.875 Val Acc = 0.782 Val loss = 0.685 Epoch Time = 77.051
+	 	 Epoch 71
+Train loss = 0.571 Train Acc = 0.875 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 77.024
+	 	 Epoch 72
+Train loss = 0.570 Train Acc = 0.875 Val Acc = 0.782 Val loss = 0.684 Epoch Time = 77.029
+	 	 Epoch 73
+Train loss = 0.569 Train Acc = 0.876 Val Acc = 0.782 Val loss = 0.683 Epoch Time = 77.017
+	 	 Epoch 74
+Train loss = 0.569 Train Acc = 0.876 Val Acc = 0.783 Val loss = 0.682 Epoch Time = 77.141
+	 	 Epoch 75
+Train loss = 0.568 Train Acc = 0.877 Val Acc = 0.784 Val loss = 0.681 Epoch Time = 77.154
+	 	 Epoch 76
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.784 Val loss = 0.681 Epoch Time = 77.061
+	 	 Epoch 77
+Train loss = 0.567 Train Acc = 0.878 Val Acc = 0.785 Val loss = 0.680 Epoch Time = 77.095
+	 	 Epoch 78
+Train loss = 0.566 Train Acc = 0.878 Val Acc = 0.785 Val loss = 0.679 Epoch Time = 77.010
+	 	 Epoch 79
+Train loss = 0.565 Train Acc = 0.879 Val Acc = 0.785 Val loss = 0.679 Epoch Time = 77.015
+	 	 Epoch 80
+Train loss = 0.565 Train Acc = 0.879 Val Acc = 0.786 Val loss = 0.678 Epoch Time = 77.073
+	 	 Epoch 81
+Train loss = 0.564 Train Acc = 0.879 Val Acc = 0.786 Val loss = 0.677 Epoch Time = 76.952
+	 	 Epoch 82
+Train loss = 0.563 Train Acc = 0.880 Val Acc = 0.785 Val loss = 0.677 Epoch Time = 77.113
+	 	 Epoch 83
+Train loss = 0.563 Train Acc = 0.880 Val Acc = 0.783 Val loss = 0.676 Epoch Time = 77.069
+	 	 Epoch 84
+Train loss = 0.562 Train Acc = 0.881 Val Acc = 0.783 Val loss = 0.675 Epoch Time = 77.014
+	 	 Epoch 85
+Train loss = 0.562 Train Acc = 0.881 Val Acc = 0.786 Val loss = 0.675 Epoch Time = 77.012
+	 	 Epoch 86
+Train loss = 0.561 Train Acc = 0.881 Val Acc = 0.786 Val loss = 0.674 Epoch Time = 77.063
+	 	 Epoch 87
+Train loss = 0.560 Train Acc = 0.880 Val Acc = 0.786 Val loss = 0.674 Epoch Time = 77.194
+	 	 Epoch 88
+Train loss = 0.560 Train Acc = 0.880 Val Acc = 0.786 Val loss = 0.673 Epoch Time = 77.012
+	 	 Epoch 89
+Train loss = 0.559 Train Acc = 0.879 Val Acc = 0.787 Val loss = 0.673 Epoch Time = 77.027
+	 	 Epoch 90
+Train loss = 0.559 Train Acc = 0.880 Val Acc = 0.786 Val loss = 0.672 Epoch Time = 77.054
+	 	 Epoch 91
+Train loss = 0.558 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.672 Epoch Time = 77.769
+	 	 Epoch 92
+Train loss = 0.558 Train Acc = 0.881 Val Acc = 0.786 Val loss = 0.671 Epoch Time = 77.003
+	 	 Epoch 93
+Train loss = 0.557 Train Acc = 0.882 Val Acc = 0.786 Val loss = 0.671 Epoch Time = 76.989
+	 	 Epoch 94
+Train loss = 0.557 Train Acc = 0.882 Val Acc = 0.787 Val loss = 0.670 Epoch Time = 76.977
+	 	 Epoch 95
+Train loss = 0.556 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.670 Epoch Time = 77.038
+	 	 Epoch 96
+Train loss = 0.556 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.669 Epoch Time = 76.972
+	 	 Epoch 97
+Train loss = 0.555 Train Acc = 0.881 Val Acc = 0.787 Val loss = 0.669 Epoch Time = 77.007
+	 	 Epoch 98
+Train loss = 0.555 Train Acc = 0.882 Val Acc = 0.788 Val loss = 0.668 Epoch Time = 77.036
+	 	 Epoch 99
+Train loss = 0.554 Train Acc = 0.882 Val Acc = 0.788 Val loss = 0.668 Epoch Time = 77.026
+	 	 Epoch 100
+Train loss = 0.554 Train Acc = 0.882 Val Acc = 0.788 Val loss = 0.667 Epoch Time = 77.005
+	 	 Epoch 101
+Train loss = 0.553 Train Acc = 0.882 Val Acc = 0.785 Val loss = 0.667 Epoch Time = 76.950
+	 	 Epoch 102
+Train loss = 0.553 Train Acc = 0.882 Val Acc = 0.785 Val loss = 0.666 Epoch Time = 77.036
+	 	 Epoch 103
+Train loss = 0.552 Train Acc = 0.882 Val Acc = 0.786 Val loss = 0.666 Epoch Time = 76.984
+	 	 Epoch 104
+Train loss = 0.552 Train Acc = 0.882 Val Acc = 0.787 Val loss = 0.665 Epoch Time = 77.148
+	 	 Epoch 105
+Train loss = 0.551 Train Acc = 0.882 Val Acc = 0.788 Val loss = 0.665 Epoch Time = 79.270
+	 	 Epoch 106
+Train loss = 0.551 Train Acc = 0.883 Val Acc = 0.787 Val loss = 0.665 Epoch Time = 82.409
+	 	 Epoch 107
+Train loss = 0.551 Train Acc = 0.883 Val Acc = 0.788 Val loss = 0.664 Epoch Time = 80.464
+	 	 Epoch 108
+Train loss = 0.550 Train Acc = 0.884 Val Acc = 0.788 Val loss = 0.664 Epoch Time = 81.307
+	 	 Epoch 109
+Train loss = 0.550 Train Acc = 0.884 Val Acc = 0.788 Val loss = 0.663 Epoch Time = 81.843
+	 	 Epoch 110
+Train loss = 0.549 Train Acc = 0.884 Val Acc = 0.788 Val loss = 0.663 Epoch Time = 81.084
+	 	 Epoch 111
+Train loss = 0.549 Train Acc = 0.884 Val Acc = 0.787 Val loss = 0.662 Epoch Time = 80.789
+	 	 Epoch 112
+Train loss = 0.548 Train Acc = 0.884 Val Acc = 0.786 Val loss = 0.662 Epoch Time = 81.734
+	 	 Epoch 113
+Train loss = 0.548 Train Acc = 0.885 Val Acc = 0.785 Val loss = 0.662 Epoch Time = 82.134
+	 	 Epoch 114
+Train loss = 0.547 Train Acc = 0.886 Val Acc = 0.785 Val loss = 0.661 Epoch Time = 81.368
+	 	 Epoch 115
+Train loss = 0.547 Train Acc = 0.886 Val Acc = 0.786 Val loss = 0.661 Epoch Time = 77.797
+	 	 Epoch 116
+Train loss = 0.547 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.661 Epoch Time = 78.442
+	 	 Epoch 117
+Train loss = 0.546 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.660 Epoch Time = 77.093
+	 	 Epoch 118
+Train loss = 0.546 Train Acc = 0.886 Val Acc = 0.790 Val loss = 0.660 Epoch Time = 77.625
+	 	 Epoch 119
+Train loss = 0.545 Train Acc = 0.886 Val Acc = 0.788 Val loss = 0.660 Epoch Time = 76.947
+	 	 Epoch 120
+Train loss = 0.545 Train Acc = 0.887 Val Acc = 0.788 Val loss = 0.659 Epoch Time = 76.913
+	 	 Epoch 121
+Train loss = 0.545 Train Acc = 0.888 Val Acc = 0.788 Val loss = 0.659 Epoch Time = 77.227
+	 	 Epoch 122
+Train loss = 0.544 Train Acc = 0.888 Val Acc = 0.787 Val loss = 0.659 Epoch Time = 76.939
+	 	 Epoch 123
+Train loss = 0.544 Train Acc = 0.888 Val Acc = 0.790 Val loss = 0.658 Epoch Time = 76.940
+	 	 Epoch 124
+Train loss = 0.544 Train Acc = 0.889 Val Acc = 0.788 Val loss = 0.658 Epoch Time = 76.956
+	 	 Epoch 125
+Train loss = 0.543 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.658 Epoch Time = 76.936
+	 	 Epoch 126
+Train loss = 0.543 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.657 Epoch Time = 76.951
+	 	 Epoch 127
+Train loss = 0.543 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.657 Epoch Time = 76.910
+	 	 Epoch 128
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.657 Epoch Time = 77.243
+	 	 Epoch 129
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.656 Epoch Time = 77.396
+	 	 Epoch 130
+Train loss = 0.542 Train Acc = 0.889 Val Acc = 0.787 Val loss = 0.656 Epoch Time = 77.188
+	 	 Epoch 131
+Train loss = 0.541 Train Acc = 0.890 Val Acc = 0.787 Val loss = 0.656 Epoch Time = 77.023
+	 	 Epoch 132
+Train loss = 0.541 Train Acc = 0.890 Val Acc = 0.787 Val loss = 0.656 Epoch Time = 80.354
+	 	 Epoch 133
+Train loss = 0.541 Train Acc = 0.890 Val Acc = 0.791 Val loss = 0.655 Epoch Time = 78.271
+	 	 Epoch 134
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.791 Val loss = 0.655 Epoch Time = 76.926
+	 	 Epoch 135
+Train loss = 0.540 Train Acc = 0.889 Val Acc = 0.791 Val loss = 0.655 Epoch Time = 77.381
+	 	 Epoch 136
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.791 Val loss = 0.655 Epoch Time = 76.947
+	 	 Epoch 137
+Train loss = 0.540 Train Acc = 0.890 Val Acc = 0.793 Val loss = 0.654 Epoch Time = 77.119
+	 	 Epoch 138
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.793 Val loss = 0.654 Epoch Time = 77.020
+	 	 Epoch 139
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.793 Val loss = 0.654 Epoch Time = 77.434
+	 	 Epoch 140
+Train loss = 0.539 Train Acc = 0.890 Val Acc = 0.795 Val loss = 0.653 Epoch Time = 76.945
+	 	 Epoch 141
+Train loss = 0.538 Train Acc = 0.890 Val Acc = 0.794 Val loss = 0.653 Epoch Time = 76.893
+	 	 Epoch 142
+Train loss = 0.538 Train Acc = 0.890 Val Acc = 0.794 Val loss = 0.653 Epoch Time = 76.885
+	 	 Epoch 143
+Train loss = 0.538 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.653 Epoch Time = 76.940
+	 	 Epoch 144
+Train loss = 0.538 Train Acc = 0.892 Val Acc = 0.793 Val loss = 0.653 Epoch Time = 77.255
+	 	 Epoch 145
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.793 Val loss = 0.652 Epoch Time = 79.042
+	 	 Epoch 146
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.794 Val loss = 0.652 Epoch Time = 76.951
+	 	 Epoch 147
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.794 Val loss = 0.652 Epoch Time = 77.309
+	 	 Epoch 148
+Train loss = 0.537 Train Acc = 0.891 Val Acc = 0.794 Val loss = 0.652 Epoch Time = 77.009
+	 	 Epoch 149
+Train loss = 0.536 Train Acc = 0.892 Val Acc = 0.797 Val loss = 0.651 Epoch Time = 76.917
+	 	 Epoch 150
+Train loss = 0.536 Train Acc = 0.892 Val Acc = 0.798 Val loss = 0.651 Epoch Time = 76.933
+	 	 Epoch 151
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.798 Val loss = 0.651 Epoch Time = 76.918
+	 	 Epoch 152
+Train loss = 0.536 Train Acc = 0.891 Val Acc = 0.798 Val loss = 0.651 Epoch Time = 76.899
+	 	 Epoch 153
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.798 Val loss = 0.651 Epoch Time = 76.937
+	 	 Epoch 154
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.798 Val loss = 0.650 Epoch Time = 76.909
+	 	 Epoch 155
+Train loss = 0.535 Train Acc = 0.891 Val Acc = 0.798 Val loss = 0.650 Epoch Time = 76.940
+	 	 Epoch 156
+Train loss = 0.535 Train Acc = 0.892 Val Acc = 0.798 Val loss = 0.650 Epoch Time = 72.987
+	 	 Epoch 157
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.797 Val loss = 0.650 Epoch Time = 76.908
+	 	 Epoch 158
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.797 Val loss = 0.650 Epoch Time = 76.959
+	 	 Epoch 159
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.797 Val loss = 0.650 Epoch Time = 76.899
+	 	 Epoch 160
+Train loss = 0.534 Train Acc = 0.892 Val Acc = 0.797 Val loss = 0.649 Epoch Time = 76.908
+	 	 Epoch 161
+Train loss = 0.534 Train Acc = 0.891 Val Acc = 0.797 Val loss = 0.649 Epoch Time = 76.910
+	 	 Epoch 162
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.797 Val loss = 0.649 Epoch Time = 76.907
+	 	 Epoch 163
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.796 Val loss = 0.649 Epoch Time = 76.901
+	 	 Epoch 164
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.795 Val loss = 0.649 Epoch Time = 76.908
+	 	 Epoch 165
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 76.932
+	 	 Epoch 166
+Train loss = 0.533 Train Acc = 0.891 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 76.906
+	 	 Epoch 167
+Train loss = 0.532 Train Acc = 0.892 Val Acc = 0.794 Val loss = 0.648 Epoch Time = 76.900
+	 	 Epoch 168
+Train loss = 0.532 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 76.926
+	 	 Epoch 169
+Train loss = 0.532 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 76.909
+	 	 Epoch 170
+Train loss = 0.532 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.648 Epoch Time = 76.937
+	 	 Epoch 171
+Train loss = 0.532 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.925
+	 	 Epoch 172
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.919
+	 	 Epoch 173
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 77.063
+	 	 Epoch 174
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.908
+	 	 Epoch 175
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 76.923
+	 	 Epoch 176
+Train loss = 0.531 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 78.158
+	 	 Epoch 177
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.647 Epoch Time = 77.328
+	 	 Epoch 178
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 77.626
+	 	 Epoch 179
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 77.792
+	 	 Epoch 180
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.796 Val loss = 0.646 Epoch Time = 77.149
+	 	 Epoch 181
+Train loss = 0.530 Train Acc = 0.892 Val Acc = 0.796 Val loss = 0.646 Epoch Time = 77.246
+	 	 Epoch 182
+Train loss = 0.529 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 78.603
+	 	 Epoch 183
+Train loss = 0.529 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 78.349
+	 	 Epoch 184
+Train loss = 0.529 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.646 Epoch Time = 79.053
+	 	 Epoch 185
+Train loss = 0.529 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 77.201
+	 	 Epoch 186
+Train loss = 0.529 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 76.922
+	 	 Epoch 187
+Train loss = 0.529 Train Acc = 0.893 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 76.922
+	 	 Epoch 188
+Train loss = 0.528 Train Acc = 0.892 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 76.922
+	 	 Epoch 189
+Train loss = 0.528 Train Acc = 0.893 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 76.916
+	 	 Epoch 190
+Train loss = 0.528 Train Acc = 0.893 Val Acc = 0.795 Val loss = 0.645 Epoch Time = 76.905
+	 	 Epoch 191
+Train loss = 0.528 Train Acc = 0.893 Val Acc = 0.794 Val loss = 0.645 Epoch Time = 77.281
+	 	 Epoch 192
+Train loss = 0.528 Train Acc = 0.893 Val Acc = 0.794 Val loss = 0.645 Epoch Time = 79.919
+	 	 Epoch 193
+Train loss = 0.528 Train Acc = 0.892 Val Acc = 0.794 Val loss = 0.645 Epoch Time = 79.379
+	 	 Epoch 194
+Train loss = 0.527 Train Acc = 0.892 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 77.466
+	 	 Epoch 195
+Train loss = 0.527 Train Acc = 0.892 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 77.240
+	 	 Epoch 196
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 81.095
+	 	 Epoch 197
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 80.391
+	 	 Epoch 198
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 77.928
+	 	 Epoch 199
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 78.184
+	 	 Epoch 200
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 77.954
+	 	 Epoch 201
+Train loss = 0.527 Train Acc = 0.893 Val Acc = 0.793 Val loss = 0.644 Epoch Time = 77.334
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.892, 'cm': array([[844,  27,  29,  12],
+       [ 28, 827,  33,  24],
+       [ 36,  40, 799,  37],
+       [ 40,  53,  35, 784]]), 'loss': 0.5361180556447882}
+
+ Validation Results: 
+{'acc': 0.7979, 'cm': array([[199,  16,  15,  10],
+       [ 19, 191,  13,  17],
+       [ 14,  20, 190,  16],
+       [ 18,  18,  18, 186]]), 'loss': 0.6512753168741862}
+
+ Test Results: 
+{'acc': 0.7656, 'cm': array([[112,   7,  11,  14],
+       [  0, 115,   7,  22],
+       [ 19,  15,  78,  32],
+       [  0,   1,   7, 136]]), 'loss': 0.7392161157396104}
+Code will be running on device  mps
+Results will be saved in folder : /Users/user/MotorImagery/scldgn_official_run/SCLDGN/output/bci42a/2026-09-15--13-20-00B7/sub8
+	 	 Epoch 1
+Train loss = 1.196 Train Acc = 0.483 Val Acc = 0.450 Val loss = 1.230 Epoch Time = 77.644
+	 	 Epoch 2
+Train loss = 1.009 Train Acc = 0.723 Val Acc = 0.629 Val loss = 1.069 Epoch Time = 77.333
+	 	 Epoch 3
+Train loss = 0.894 Train Acc = 0.775 Val Acc = 0.672 Val loss = 0.968 Epoch Time = 76.951
+	 	 Epoch 4
+Train loss = 0.827 Train Acc = 0.792 Val Acc = 0.704 Val loss = 0.910 Epoch Time = 77.613
+	 	 Epoch 5
+Train loss = 0.784 Train Acc = 0.805 Val Acc = 0.709 Val loss = 0.873 Epoch Time = 77.111
+	 	 Epoch 6
+Train loss = 0.754 Train Acc = 0.812 Val Acc = 0.718 Val loss = 0.848 Epoch Time = 76.936
+	 	 Epoch 7
+Train loss = 0.732 Train Acc = 0.819 Val Acc = 0.718 Val loss = 0.829 Epoch Time = 77.568
+	 	 Epoch 8
+Train loss = 0.714 Train Acc = 0.824 Val Acc = 0.722 Val loss = 0.814 Epoch Time = 77.135
+	 	 Epoch 9
+Train loss = 0.701 Train Acc = 0.830 Val Acc = 0.719 Val loss = 0.803 Epoch Time = 77.634
+	 	 Epoch 10
+Train loss = 0.690 Train Acc = 0.831 Val Acc = 0.722 Val loss = 0.794 Epoch Time = 78.342
+	 	 Epoch 11
+Train loss = 0.681 Train Acc = 0.833 Val Acc = 0.724 Val loss = 0.786 Epoch Time = 76.945
+	 	 Epoch 12
+Train loss = 0.674 Train Acc = 0.835 Val Acc = 0.728 Val loss = 0.781 Epoch Time = 77.007
+	 	 Epoch 13
+Train loss = 0.667 Train Acc = 0.836 Val Acc = 0.727 Val loss = 0.776 Epoch Time = 76.948
+	 	 Epoch 14
+Train loss = 0.662 Train Acc = 0.837 Val Acc = 0.733 Val loss = 0.771 Epoch Time = 77.170
+	 	 Epoch 15
+Train loss = 0.657 Train Acc = 0.838 Val Acc = 0.734 Val loss = 0.768 Epoch Time = 76.958
+	 	 Epoch 16
+Train loss = 0.653 Train Acc = 0.839 Val Acc = 0.731 Val loss = 0.764 Epoch Time = 77.141
+	 	 Epoch 17
+Train loss = 0.650 Train Acc = 0.839 Val Acc = 0.729 Val loss = 0.761 Epoch Time = 76.913
+	 	 Epoch 18
+Train loss = 0.646 Train Acc = 0.840 Val Acc = 0.732 Val loss = 0.759 Epoch Time = 78.099
+	 	 Epoch 19
+Train loss = 0.643 Train Acc = 0.839 Val Acc = 0.733 Val loss = 0.757 Epoch Time = 77.137
+	 	 Epoch 20
+Train loss = 0.640 Train Acc = 0.841 Val Acc = 0.737 Val loss = 0.755 Epoch Time = 77.384
+	 	 Epoch 21
+Train loss = 0.638 Train Acc = 0.841 Val Acc = 0.738 Val loss = 0.753 Epoch Time = 78.329
+	 	 Epoch 22
+Train loss = 0.636 Train Acc = 0.842 Val Acc = 0.738 Val loss = 0.751 Epoch Time = 78.105
+	 	 Epoch 23
+Train loss = 0.634 Train Acc = 0.842 Val Acc = 0.738 Val loss = 0.750 Epoch Time = 76.973
+	 	 Epoch 24
+Train loss = 0.632 Train Acc = 0.843 Val Acc = 0.735 Val loss = 0.748 Epoch Time = 77.508
+	 	 Epoch 25
+Train loss = 0.629 Train Acc = 0.844 Val Acc = 0.737 Val loss = 0.746 Epoch Time = 79.005
+	 	 Epoch 26
+Train loss = 0.627 Train Acc = 0.843 Val Acc = 0.739 Val loss = 0.745 Epoch Time = 77.987
+	 	 Epoch 27
+Train loss = 0.626 Train Acc = 0.843 Val Acc = 0.739 Val loss = 0.744 Epoch Time = 77.596
+	 	 Epoch 28
+Train loss = 0.624 Train Acc = 0.845 Val Acc = 0.739 Val loss = 0.742 Epoch Time = 76.970
+	 	 Epoch 29
+Train loss = 0.623 Train Acc = 0.846 Val Acc = 0.740 Val loss = 0.741 Epoch Time = 77.838
+	 	 Epoch 30
+Train loss = 0.621 Train Acc = 0.847 Val Acc = 0.740 Val loss = 0.740 Epoch Time = 77.597
+	 	 Epoch 31
+Train loss = 0.620 Train Acc = 0.848 Val Acc = 0.737 Val loss = 0.739 Epoch Time = 77.335
+	 	 Epoch 32
+Train loss = 0.618 Train Acc = 0.849 Val Acc = 0.737 Val loss = 0.738 Epoch Time = 78.024
+	 	 Epoch 33
+Train loss = 0.617 Train Acc = 0.850 Val Acc = 0.739 Val loss = 0.737 Epoch Time = 79.500
+	 	 Epoch 34
+Train loss = 0.616 Train Acc = 0.850 Val Acc = 0.739 Val loss = 0.736 Epoch Time = 79.371
+	 	 Epoch 35
+Train loss = 0.615 Train Acc = 0.850 Val Acc = 0.738 Val loss = 0.735 Epoch Time = 78.139
+	 	 Epoch 36
+Train loss = 0.613 Train Acc = 0.851 Val Acc = 0.738 Val loss = 0.733 Epoch Time = 78.268
+	 	 Epoch 37
+Train loss = 0.612 Train Acc = 0.852 Val Acc = 0.737 Val loss = 0.732 Epoch Time = 77.685
+	 	 Epoch 38
+Train loss = 0.611 Train Acc = 0.852 Val Acc = 0.739 Val loss = 0.731 Epoch Time = 78.332
+	 	 Epoch 39
+Train loss = 0.610 Train Acc = 0.853 Val Acc = 0.740 Val loss = 0.731 Epoch Time = 77.757
+	 	 Epoch 40
+Train loss = 0.609 Train Acc = 0.854 Val Acc = 0.740 Val loss = 0.729 Epoch Time = 76.909
+	 	 Epoch 41
+Train loss = 0.608 Train Acc = 0.854 Val Acc = 0.740 Val loss = 0.728 Epoch Time = 76.889
+	 	 Epoch 42
+Train loss = 0.607 Train Acc = 0.854 Val Acc = 0.738 Val loss = 0.727 Epoch Time = 76.907
+	 	 Epoch 43
+Train loss = 0.605 Train Acc = 0.854 Val Acc = 0.740 Val loss = 0.726 Epoch Time = 78.981
+	 	 Epoch 44
+Train loss = 0.604 Train Acc = 0.856 Val Acc = 0.738 Val loss = 0.725 Epoch Time = 76.905
+	 	 Epoch 45
+Train loss = 0.603 Train Acc = 0.856 Val Acc = 0.737 Val loss = 0.724 Epoch Time = 76.898
+	 	 Epoch 46
+Train loss = 0.602 Train Acc = 0.856 Val Acc = 0.739 Val loss = 0.723 Epoch Time = 76.895
+	 	 Epoch 47
+Train loss = 0.601 Train Acc = 0.856 Val Acc = 0.743 Val loss = 0.722 Epoch Time = 76.885
+	 	 Epoch 48
+Train loss = 0.600 Train Acc = 0.858 Val Acc = 0.745 Val loss = 0.721 Epoch Time = 76.896
+	 	 Epoch 49
+Train loss = 0.599 Train Acc = 0.859 Val Acc = 0.747 Val loss = 0.720 Epoch Time = 76.909
+	 	 Epoch 50
+Train loss = 0.598 Train Acc = 0.859 Val Acc = 0.748 Val loss = 0.719 Epoch Time = 76.882
+	 	 Epoch 51
+Train loss = 0.597 Train Acc = 0.860 Val Acc = 0.749 Val loss = 0.718 Epoch Time = 76.980
+	 	 Epoch 52
+Train loss = 0.596 Train Acc = 0.861 Val Acc = 0.750 Val loss = 0.717 Epoch Time = 76.886
+	 	 Epoch 53
+Train loss = 0.595 Train Acc = 0.863 Val Acc = 0.751 Val loss = 0.716 Epoch Time = 76.897
+	 	 Epoch 54
+Train loss = 0.594 Train Acc = 0.862 Val Acc = 0.751 Val loss = 0.715 Epoch Time = 76.903
+	 	 Epoch 55
+Train loss = 0.593 Train Acc = 0.864 Val Acc = 0.750 Val loss = 0.714 Epoch Time = 76.918
+	 	 Epoch 56
+Train loss = 0.592 Train Acc = 0.866 Val Acc = 0.751 Val loss = 0.713 Epoch Time = 77.223
+	 	 Epoch 57
+Train loss = 0.591 Train Acc = 0.866 Val Acc = 0.752 Val loss = 0.712 Epoch Time = 76.961
+	 	 Epoch 58
+Train loss = 0.590 Train Acc = 0.867 Val Acc = 0.753 Val loss = 0.711 Epoch Time = 76.940
+	 	 Epoch 59
+Train loss = 0.589 Train Acc = 0.867 Val Acc = 0.755 Val loss = 0.710 Epoch Time = 76.937
+	 	 Epoch 60
+Train loss = 0.588 Train Acc = 0.868 Val Acc = 0.756 Val loss = 0.710 Epoch Time = 76.930
+	 	 Epoch 61
+Train loss = 0.588 Train Acc = 0.869 Val Acc = 0.756 Val loss = 0.709 Epoch Time = 76.926
+	 	 Epoch 62
+Train loss = 0.587 Train Acc = 0.870 Val Acc = 0.756 Val loss = 0.708 Epoch Time = 76.928
+	 	 Epoch 63
+Train loss = 0.586 Train Acc = 0.871 Val Acc = 0.757 Val loss = 0.707 Epoch Time = 76.929
+	 	 Epoch 64
+Train loss = 0.585 Train Acc = 0.873 Val Acc = 0.758 Val loss = 0.706 Epoch Time = 76.919
+	 	 Epoch 65
+Train loss = 0.584 Train Acc = 0.873 Val Acc = 0.760 Val loss = 0.705 Epoch Time = 77.111
+	 	 Epoch 66
+Train loss = 0.583 Train Acc = 0.874 Val Acc = 0.761 Val loss = 0.704 Epoch Time = 77.959
+	 	 Epoch 67
+Train loss = 0.582 Train Acc = 0.874 Val Acc = 0.763 Val loss = 0.703 Epoch Time = 76.935
+	 	 Epoch 68
+Train loss = 0.582 Train Acc = 0.875 Val Acc = 0.766 Val loss = 0.703 Epoch Time = 76.954
+	 	 Epoch 69
+Train loss = 0.581 Train Acc = 0.875 Val Acc = 0.769 Val loss = 0.702 Epoch Time = 76.967
+	 	 Epoch 70
+Train loss = 0.580 Train Acc = 0.875 Val Acc = 0.770 Val loss = 0.701 Epoch Time = 76.930
+	 	 Epoch 71
+Train loss = 0.580 Train Acc = 0.874 Val Acc = 0.770 Val loss = 0.700 Epoch Time = 80.158
+	 	 Epoch 72
+Train loss = 0.579 Train Acc = 0.875 Val Acc = 0.770 Val loss = 0.700 Epoch Time = 80.504
+	 	 Epoch 73
+Train loss = 0.578 Train Acc = 0.876 Val Acc = 0.770 Val loss = 0.699 Epoch Time = 79.162
+	 	 Epoch 74
+Train loss = 0.578 Train Acc = 0.877 Val Acc = 0.772 Val loss = 0.698 Epoch Time = 78.089
+	 	 Epoch 75
+Train loss = 0.577 Train Acc = 0.876 Val Acc = 0.773 Val loss = 0.698 Epoch Time = 77.683
+	 	 Epoch 76
+Train loss = 0.577 Train Acc = 0.876 Val Acc = 0.776 Val loss = 0.697 Epoch Time = 77.941
+	 	 Epoch 77
+Train loss = 0.576 Train Acc = 0.876 Val Acc = 0.776 Val loss = 0.696 Epoch Time = 78.405
+	 	 Epoch 78
+Train loss = 0.576 Train Acc = 0.876 Val Acc = 0.775 Val loss = 0.696 Epoch Time = 77.700
+	 	 Epoch 79
+Train loss = 0.575 Train Acc = 0.877 Val Acc = 0.775 Val loss = 0.695 Epoch Time = 77.899
+	 	 Epoch 80
+Train loss = 0.575 Train Acc = 0.877 Val Acc = 0.774 Val loss = 0.695 Epoch Time = 79.569
+	 	 Epoch 81
+Train loss = 0.574 Train Acc = 0.877 Val Acc = 0.774 Val loss = 0.694 Epoch Time = 79.475
+	 	 Epoch 82
+Train loss = 0.574 Train Acc = 0.877 Val Acc = 0.773 Val loss = 0.694 Epoch Time = 77.384
+	 	 Epoch 83
+Train loss = 0.573 Train Acc = 0.877 Val Acc = 0.772 Val loss = 0.693 Epoch Time = 78.742
+	 	 Epoch 84
+Train loss = 0.573 Train Acc = 0.877 Val Acc = 0.773 Val loss = 0.693 Epoch Time = 78.790
+	 	 Epoch 85
+Train loss = 0.573 Train Acc = 0.878 Val Acc = 0.773 Val loss = 0.692 Epoch Time = 78.726
+	 	 Epoch 86
+Train loss = 0.572 Train Acc = 0.878 Val Acc = 0.771 Val loss = 0.692 Epoch Time = 77.850
+	 	 Epoch 87
+Train loss = 0.572 Train Acc = 0.878 Val Acc = 0.771 Val loss = 0.691 Epoch Time = 77.442
+	 	 Epoch 88
+Train loss = 0.572 Train Acc = 0.877 Val Acc = 0.770 Val loss = 0.691 Epoch Time = 77.335
+	 	 Epoch 89
+Train loss = 0.571 Train Acc = 0.878 Val Acc = 0.770 Val loss = 0.691 Epoch Time = 77.884
+	 	 Epoch 90
+Train loss = 0.571 Train Acc = 0.878 Val Acc = 0.771 Val loss = 0.690 Epoch Time = 78.703
+	 	 Epoch 91
+Train loss = 0.571 Train Acc = 0.879 Val Acc = 0.772 Val loss = 0.690 Epoch Time = 79.909
+	 	 Epoch 92
+Train loss = 0.571 Train Acc = 0.879 Val Acc = 0.769 Val loss = 0.689 Epoch Time = 77.060
+	 	 Epoch 93
+Train loss = 0.570 Train Acc = 0.878 Val Acc = 0.769 Val loss = 0.689 Epoch Time = 77.211
+	 	 Epoch 94
+Train loss = 0.570 Train Acc = 0.878 Val Acc = 0.770 Val loss = 0.689 Epoch Time = 77.052
+	 	 Epoch 95
+Train loss = 0.570 Train Acc = 0.879 Val Acc = 0.772 Val loss = 0.688 Epoch Time = 78.672
+	 	 Epoch 96
+Train loss = 0.569 Train Acc = 0.879 Val Acc = 0.773 Val loss = 0.688 Epoch Time = 77.411
+	 	 Epoch 97
+Train loss = 0.569 Train Acc = 0.879 Val Acc = 0.774 Val loss = 0.688 Epoch Time = 77.685
+	 	 Epoch 98
+Train loss = 0.569 Train Acc = 0.879 Val Acc = 0.774 Val loss = 0.687 Epoch Time = 77.302
+	 	 Epoch 99
+Train loss = 0.569 Train Acc = 0.880 Val Acc = 0.774 Val loss = 0.687 Epoch Time = 77.578
+	 	 Epoch 100
+Train loss = 0.568 Train Acc = 0.880 Val Acc = 0.776 Val loss = 0.687 Epoch Time = 77.496
+	 	 Epoch 101
+Train loss = 0.568 Train Acc = 0.880 Val Acc = 0.775 Val loss = 0.687 Epoch Time = 77.645
+	 	 Epoch 102
+Train loss = 0.568 Train Acc = 0.880 Val Acc = 0.776 Val loss = 0.686 Epoch Time = 77.645
+	 	 Epoch 103
+Train loss = 0.568 Train Acc = 0.880 Val Acc = 0.776 Val loss = 0.686 Epoch Time = 78.321
+	 	 Epoch 104
+Train loss = 0.568 Train Acc = 0.880 Val Acc = 0.776 Val loss = 0.686 Epoch Time = 78.275
+	 	 Epoch 105
+Train loss = 0.568 Train Acc = 0.881 Val Acc = 0.775 Val loss = 0.686 Epoch Time = 78.478
+	 	 Epoch 106
+Train loss = 0.567 Train Acc = 0.880 Val Acc = 0.776 Val loss = 0.685 Epoch Time = 78.247
+	 	 Epoch 107
+Train loss = 0.567 Train Acc = 0.880 Val Acc = 0.777 Val loss = 0.685 Epoch Time = 78.174
+	 	 Epoch 108
+Train loss = 0.567 Train Acc = 0.880 Val Acc = 0.779 Val loss = 0.685 Epoch Time = 78.100
+	 	 Epoch 109
+Train loss = 0.567 Train Acc = 0.881 Val Acc = 0.779 Val loss = 0.685 Epoch Time = 78.118
+	 	 Epoch 110
+Train loss = 0.567 Train Acc = 0.881 Val Acc = 0.779 Val loss = 0.685 Epoch Time = 77.197
+	 	 Epoch 111
+Train loss = 0.567 Train Acc = 0.881 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 79.057
+	 	 Epoch 112
+Train loss = 0.567 Train Acc = 0.881 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 78.577
+	 	 Epoch 113
+Train loss = 0.567 Train Acc = 0.881 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 79.717
+	 	 Epoch 114
+Train loss = 0.567 Train Acc = 0.880 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 82.733
+	 	 Epoch 115
+Train loss = 0.567 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 82.302
+	 	 Epoch 116
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 82.714
+	 	 Epoch 117
+Train loss = 0.566 Train Acc = 0.880 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 81.929
+	 	 Epoch 118
+Train loss = 0.566 Train Acc = 0.880 Val Acc = 0.779 Val loss = 0.683 Epoch Time = 82.162
+	 	 Epoch 119
+Train loss = 0.566 Train Acc = 0.880 Val Acc = 0.779 Val loss = 0.683 Epoch Time = 81.746
+	 	 Epoch 120
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.779 Val loss = 0.683 Epoch Time = 83.201
+	 	 Epoch 121
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 81.189
+	 	 Epoch 122
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 81.624
+	 	 Epoch 123
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 82.780
+	 	 Epoch 124
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 82.161
+	 	 Epoch 125
+Train loss = 0.566 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.467
+	 	 Epoch 126
+Train loss = 0.567 Train Acc = 0.879 Val Acc = 0.782 Val loss = 0.683 Epoch Time = 80.517
+	 	 Epoch 127
+Train loss = 0.567 Train Acc = 0.879 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 79.297
+	 	 Epoch 128
+Train loss = 0.567 Train Acc = 0.879 Val Acc = 0.780 Val loss = 0.683 Epoch Time = 78.846
+	 	 Epoch 129
+Train loss = 0.567 Train Acc = 0.878 Val Acc = 0.780 Val loss = 0.683 Epoch Time = 78.798
+	 	 Epoch 130
+Train loss = 0.567 Train Acc = 0.877 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.411
+	 	 Epoch 131
+Train loss = 0.567 Train Acc = 0.877 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.688
+	 	 Epoch 132
+Train loss = 0.567 Train Acc = 0.877 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.627
+	 	 Epoch 133
+Train loss = 0.567 Train Acc = 0.877 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.895
+	 	 Epoch 134
+Train loss = 0.567 Train Acc = 0.878 Val Acc = 0.781 Val loss = 0.683 Epoch Time = 78.481
+	 	 Epoch 135
+Train loss = 0.567 Train Acc = 0.877 Val Acc = 0.782 Val loss = 0.683 Epoch Time = 78.924
+	 	 Epoch 136
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.782 Val loss = 0.683 Epoch Time = 78.075
+	 	 Epoch 137
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.783 Val loss = 0.683 Epoch Time = 79.525
+	 	 Epoch 138
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.782 Val loss = 0.683 Epoch Time = 79.704
+	 	 Epoch 139
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.783 Val loss = 0.683 Epoch Time = 77.142
+	 	 Epoch 140
+Train loss = 0.567 Train Acc = 0.876 Val Acc = 0.783 Val loss = 0.683 Epoch Time = 76.948
+	 	 Epoch 141
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.784 Val loss = 0.684 Epoch Time = 76.964
+	 	 Epoch 142
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.784 Val loss = 0.684 Epoch Time = 76.961
+	 	 Epoch 143
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.784 Val loss = 0.684 Epoch Time = 76.910
+	 	 Epoch 144
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.785 Val loss = 0.684 Epoch Time = 76.925
+	 	 Epoch 145
+Train loss = 0.567 Train Acc = 0.875 Val Acc = 0.784 Val loss = 0.684 Epoch Time = 76.904
+	 	 Epoch 146
+Train loss = 0.568 Train Acc = 0.875 Val Acc = 0.783 Val loss = 0.684 Epoch Time = 76.936
+	 	 Epoch 147
+Train loss = 0.568 Train Acc = 0.875 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 76.888
+	 	 Epoch 148
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 76.944
+	 	 Epoch 149
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 76.942
+	 	 Epoch 150
+Train loss = 0.568 Train Acc = 0.875 Val Acc = 0.781 Val loss = 0.684 Epoch Time = 78.248
+	 	 Epoch 151
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 78.284
+	 	 Epoch 152
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.324
+	 	 Epoch 153
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.173
+	 	 Epoch 154
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.780 Val loss = 0.684 Epoch Time = 77.160
+	 	 Epoch 155
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.779 Val loss = 0.684 Epoch Time = 78.822
+	 	 Epoch 156
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.778 Val loss = 0.684 Epoch Time = 78.433
+	 	 Epoch 157
+Train loss = 0.568 Train Acc = 0.874 Val Acc = 0.776 Val loss = 0.684 Epoch Time = 77.562
+	 	 Epoch 158
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.684 Epoch Time = 78.860
+	 	 Epoch 159
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.684 Epoch Time = 78.101
+	 	 Epoch 160
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.776 Val loss = 0.685 Epoch Time = 77.489
+	 	 Epoch 161
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.778 Val loss = 0.685 Epoch Time = 77.513
+	 	 Epoch 162
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.778 Val loss = 0.685 Epoch Time = 78.530
+	 	 Epoch 163
+Train loss = 0.568 Train Acc = 0.871 Val Acc = 0.777 Val loss = 0.685 Epoch Time = 77.162
+	 	 Epoch 164
+Train loss = 0.569 Train Acc = 0.871 Val Acc = 0.777 Val loss = 0.685 Epoch Time = 77.136
+	 	 Epoch 165
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.778 Val loss = 0.685 Epoch Time = 77.085
+	 	 Epoch 166
+Train loss = 0.569 Train Acc = 0.871 Val Acc = 0.778 Val loss = 0.685 Epoch Time = 77.082
+	 	 Epoch 167
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.777 Val loss = 0.685 Epoch Time = 77.017
+	 	 Epoch 168
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.776 Val loss = 0.685 Epoch Time = 77.032
+	 	 Epoch 169
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.776 Val loss = 0.685 Epoch Time = 77.035
+	 	 Epoch 170
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.775 Val loss = 0.685 Epoch Time = 77.031
+	 	 Epoch 171
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.775 Val loss = 0.685 Epoch Time = 77.003
+	 	 Epoch 172
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.774 Val loss = 0.685 Epoch Time = 77.016
+	 	 Epoch 173
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.772 Val loss = 0.685 Epoch Time = 77.023
+	 	 Epoch 174
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.771 Val loss = 0.685 Epoch Time = 77.017
+	 	 Epoch 175
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.771 Val loss = 0.685 Epoch Time = 77.008
+	 	 Epoch 176
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.771 Val loss = 0.685 Epoch Time = 76.998
+	 	 Epoch 177
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.772 Val loss = 0.685 Epoch Time = 77.000
+	 	 Epoch 178
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.772 Val loss = 0.686 Epoch Time = 77.010
+	 	 Epoch 179
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.772 Val loss = 0.686 Epoch Time = 77.010
+	 	 Epoch 180
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.771 Val loss = 0.686 Epoch Time = 77.008
+	 	 Epoch 181
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.771 Val loss = 0.686 Epoch Time = 76.990
+	 	 Epoch 182
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.770 Val loss = 0.686 Epoch Time = 77.001
+	 	 Epoch 183
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.769 Val loss = 0.686 Epoch Time = 77.022
+	 	 Epoch 184
+Train loss = 0.569 Train Acc = 0.870 Val Acc = 0.769 Val loss = 0.686 Epoch Time = 76.988
+	 	 Epoch 185
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.769 Val loss = 0.686 Epoch Time = 76.976
+	 	 Epoch 186
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.769 Val loss = 0.686 Epoch Time = 76.984
+	 	 Epoch 187
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.769 Val loss = 0.686 Epoch Time = 77.006
+	 	 Epoch 188
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.000
+	 	 Epoch 189
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 76.977
+	 	 Epoch 190
+Train loss = 0.569 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 76.985
+	 	 Epoch 191
+Train loss = 0.569 Train Acc = 0.868 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.037
+	 	 Epoch 192
+Train loss = 0.570 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.114
+	 	 Epoch 193
+Train loss = 0.570 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.014
+	 	 Epoch 194
+Train loss = 0.570 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.013
+	 	 Epoch 195
+Train loss = 0.570 Train Acc = 0.869 Val Acc = 0.768 Val loss = 0.686 Epoch Time = 77.020
+	 	 Epoch 196
+Train loss = 0.570 Train Acc = 0.869 Val Acc = 0.767 Val loss = 0.686 Epoch Time = 77.009
+	 	 Epoch 197
+Train loss = 0.570 Train Acc = 0.868 Val Acc = 0.767 Val loss = 0.686 Epoch Time = 77.012
+	 	 Epoch 198
+Train loss = 0.570 Train Acc = 0.868 Val Acc = 0.766 Val loss = 0.686 Epoch Time = 77.022
+	 	 Epoch 199
+Train loss = 0.570 Train Acc = 0.867 Val Acc = 0.766 Val loss = 0.687 Epoch Time = 77.062
+	 	 Epoch 200
+Train loss = 0.570 Train Acc = 0.867 Val Acc = 0.768 Val loss = 0.687 Epoch Time = 77.012
+	 	 Epoch 201
+Train loss = 0.570 Train Acc = 0.867 Val Acc = 0.768 Val loss = 0.687 Epoch Time = 77.030
+Exp No. : 1
+________________________________________________
+
+ Train Results: 
+{'acc': 0.8747, 'cm': array([[843,  39,  19,  11],
+       [ 22, 854,  16,  20],
+       [ 68,  57, 733,  54],
+       [ 53,  77,  21, 761]]), 'loss': 0.5674022206088953}
+
+ Validation Results: 
+{'acc': 0.7854, 'cm': array([[203,  14,  15,   8],
+       [ 17, 204,   6,  13],
+       [ 18,  32, 166,  24],
+       [ 19,  29,  11, 181]]), 'loss': 0.6836348215738932}
+
+ Test Results: 
+{'acc': 0.7257, 'cm': array([[105,  36,   2,   1],
+       [  5, 107,  13,  19],
+       [ 13,  29,  79,  23],
+       [  6,   5,   6, 127]]), 'loss': 0.7834750811258951}
+Results sequence is train, val , test
+[[0.8914, 0.8882, 0.9024, 0.8893, 0.8914, 0.8835, 0.892, 0.8747]]
+[[0.8312, 0.7906, 0.825, 0.8125, 0.8073, 0.7958, 0.7979, 0.7854]]
+[[0.5764, 0.8264, 0.5608, 0.625, 0.6285, 0.7622, 0.7656, 0.7257]]
+[array([[872,  25,  10,   5, 848,  25,  27,  12, 851,  28,  20,  13, 811,
+         45,  45,  11, 818,  28,  55,  11, 844,  39,  15,  14, 844,  27,
+         29,  12, 843,  39,  19,  11],
+       [ 29, 849,  20,  14,  32, 823,  28,  29,  21, 847,  23,  21,  21,
+        835,  34,  22,  20, 826,  40,  26,  28, 848,  17,  19,  28, 827,
+         33,  24,  22, 854,  16,  20],
+       [ 67,  61, 749,  35,  58,  48, 754,  52,  41,  46, 782,  43,  33,
+         49, 790,  40,  33,  30, 812,  37,  53,  69, 741,  49,  36,  40,
+        799,  37,  68,  57, 733,  54],
+       [ 48,  55,  27, 782,  39,  40,  18, 815,  34,  47,  19, 812,  22,
+         50,  32, 808,  34,  45,  37, 796,  45,  61,  16, 790,  40,  53,
+         35, 784,  53,  77,  21, 761]])]
+[array([[213,  16,   5,   6, 198,  17,  16,   9, 204,  17,  10,   9, 193,
+         19,  18,  10, 198,  13,  22,   7, 200,  18,  13,   9, 199,  16,
+         15,  10, 203,  14,  15,   8],
+       [ 15, 209,   7,   9,  23, 188,  10,  19,  15, 199,   9,  17,  10,
+        204,  11,  15,  18, 196,  15,  11,  19, 201,   7,  13,  19, 191,
+         13,  17,  17, 204,   6,  13],
+       [ 19,  23, 186,  12,  18,  21, 176,  25,  15,  14, 194,  17,  11,
+         20, 190,  19,  12,  17, 192,  19,  18,  26, 176,  20,  14,  20,
+        190,  16,  18,  32, 166,  24],
+       [ 14,  24,  12, 190,  13,  21,   9, 197,  12,  24,   9, 195,  10,
+         18,  19, 193,  15,  19,  17, 189,  19,  26,   8, 187,  18,  18,
+         18, 186,  19,  29,  11, 181]])]
+[array([[ 98,  14,  24,   8,  98,  11,  30,   5,  66,  10,  66,   2, 135,
+          9,   0,   0,  85,  12,  12,  35, 132,   7,   2,   3, 112,   7,
+         11,  14, 105,  36,   2,   1],
+       [ 12,  96,  25,  11,   5, 108,  26,   5,   9,  84,  48,   3,   9,
+        134,   1,   0,   7,  69,  22,  46,   8, 132,   1,   3,   0, 115,
+          7,  22,   5, 107,  13,  19],
+       [ 40,  12,  78,  14,   0,   1, 141,   2,  11,  26,  99,   8,  21,
+         42,  80,   1,  10,  13,  93,  28,  42,  25,  70,   7,  19,  15,
+         78,  32,  13,  29,  79,  23],
+       [ 38,  34,  12,  60,   2,   3,  10, 129,  11,  26,  33,  74,  41,
+         86,   6,  11,   9,  16,   4, 115,  10,  29,   0, 105,   0,   1,
+          7, 136,   6,   5,   6, 127]])]

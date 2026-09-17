@@ -1,0 +1,8 @@
+# Third-party code: SCLDGN is cloned by the setup steps, not vendored here.
+SCLDGN/
+
+# Datasets and derived data — far too large for git, and not ours to redistribute.
+data/
+*.gdf
+*.npz
+*.mat

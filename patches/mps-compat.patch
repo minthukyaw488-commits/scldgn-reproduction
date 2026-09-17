@@ -1,0 +1,145 @@
+diff --git a/baseModel/baseModel.py b/baseModel/baseModel.py
+index 10de9d4..80f2622 100644
+--- a/baseModel/baseModel.py
++++ b/baseModel/baseModel.py
+@@ -287,7 +287,7 @@ class baseModel:
+             with torch.enable_grad():
+                 optimizer.zero_grad()
+ 
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+                 logits, _, _ = self.net.update(x)
+ 
+@@ -311,7 +311,7 @@ class baseModel:
+ 
+                 optimizer.zero_grad()
+ 
+-                all_x = d[0].to(self.device).permute(0, 3, 1, 2)
++                all_x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 all_y = d[1].type(torch.LongTensor).to(self.device)
+                 all_d = d[2].type(torch.LongTensor).to(self.device)
+                 batch_size = all_y.size()[0]
+@@ -379,7 +379,7 @@ class baseModel:
+ 
+                 optimizer.zero_grad()
+ 
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 y = d[1].type(torch.LongTensor).to(self.device)
+                 batch_size = y.size()[0]
+ 
+@@ -463,7 +463,7 @@ class baseModel:
+ 
+                 optimizer.zero_grad()
+ 
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 y = d[1].type(torch.LongTensor).to(self.device)
+                 batch_size = y.size()[0]
+ 
+@@ -546,7 +546,7 @@ class baseModel:
+                 # zero the parameter gradients
+                 optimizer.zero_grad()
+ 
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+ 
+                 y_all, feats, _ = self.net.update(x)
+@@ -591,7 +591,7 @@ class baseModel:
+                 # zero the parameter gradients
+                 optimizer.zero_grad()
+ 
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+ 
+                 y_all, feats, _ = self.net.update(x)
+@@ -636,7 +636,7 @@ class baseModel:
+                 # zero the parameter gradients
+                 optimizer.zero_grad()
+ 
+-                data = d[0].to(self.device).permute(0, 3, 1, 2)
++                data = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+ 
+                 minibatches = [(x.to(self.device), y.to(self.device)) for x, y in
+@@ -673,7 +673,7 @@ class baseModel:
+                 # zero the parameter gradients
+                 optimizer.zero_grad()
+ 
+-                data = d[0].to(self.device).permute(0, 3, 1, 2)
++                data = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+ 
+                 y_all, feats, _ = self.net.update(data)
+@@ -705,7 +705,7 @@ class baseModel:
+             with torch.enable_grad():
+                 # zero the parameter gradients
+                 # optimizer.zero_grad()
+-                x = d[0].to(self.device).permute(0, 3, 1, 2)
++                x = d[0].to(self.device).permute(0, 3, 1, 2).contiguous()
+                 labels = d[1].type(torch.LongTensor).to(self.device)
+ 
+                 x_list = x.chunk(self.ndomain, dim=0)
+@@ -764,7 +764,7 @@ class baseModel:
+         with torch.no_grad():
+             # iterate over all the data
+             for d in dataLoader:
+-                preds, _, _ = self.net.predict(d[0].permute(0, 3, 1, 2).to(self.device))
++                preds, _, _ = self.net.predict(d[0].permute(0, 3, 1, 2).contiguous().to(self.device))
+                 loss += F.cross_entropy(preds, d[1].type(torch.LongTensor).to(self.device)).data
+ 
+                 # Convert the output of soft-max to class label
+@@ -787,7 +787,7 @@ class baseModel:
+         with torch.no_grad():
+             # iterate over all the data
+             for d in dataLoader:
+-                preds, _, _ = self.net.predict(d[0].permute(0, 3, 1, 2).to(self.device))
++                preds, _, _ = self.net.predict(d[0].permute(0, 3, 1, 2).contiguous().to(self.device))
+                 loss += F.cross_entropy(preds, d[1].type(torch.LongTensor).to(self.device)).data
+ 
+                 # Convert the output of soft-max to class label
+@@ -861,7 +861,12 @@ class baseModel:
+ 
+         if self.device is None:
+             if self.preferedDevice == 'gpu':
+-                self.device = torch.device("cuda:" + str(nGPU) if torch.cuda.is_available() else "cpu")
++                if torch.cuda.is_available():
++                    self.device = torch.device("cuda:" + str(nGPU))
++                elif torch.backends.mps.is_available():   # MPS PATCH: Apple GPU
++                    self.device = torch.device("mps")
++                else:
++                    self.device = torch.device("cpu")
+             else:
+                 self.device = torch.device('cpu')
+             print("Code will be running on device ", self.device)
+diff --git a/lossFunction/scl.py b/lossFunction/scl.py
+index 457e9c7..9393917 100644
+--- a/lossFunction/scl.py
++++ b/lossFunction/scl.py
+@@ -26,9 +26,7 @@ class SupConLoss(nn.Module):
+         Returns:
+             A loss scalar.
+         """
+-        device = (torch.device('cuda')
+-                  if features.is_cuda
+-                  else torch.device('cpu'))
++        device = features.device        # MPS PATCH: was hardcoded cuda-or-cpu
+ 
+         if len(features.shape) < 3:
+             raise ValueError('`features` needs to be [bsz, n_views, ...],'
+diff --git a/network/MixedConv2d.py b/network/MixedConv2d.py
+index d4f702e..cf6d7fb 100644
+--- a/network/MixedConv2d.py
++++ b/network/MixedConv2d.py
+@@ -152,6 +152,6 @@ class MixedConv2d(nn.ModuleDict):
+ 
+     def forward(self, x):
+         x_split = torch.split(x, self.splits, 1)
+-        x_out = [conv(x_split[i]) for i, conv in enumerate(self.values())]
++        x_out = [conv(x_split[i].contiguous()) for i, conv in enumerate(self.values())]  # MPS PATCH
+         x = torch.cat(x_out, 1)
+         return x
+\ No newline at end of file
