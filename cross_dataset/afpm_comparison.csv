@@ -1,0 +1,23 @@
+subject,n_trials,intersection_3ch,afpm_17ch,difference,p_vs_chance_afpm
+B01,400,58.25,56.50,-1.75,1.07e-02
+B02,400,59.50,58.75,-0.75,5.44e-04
+B03,400,63.50,59.50,-4.00,1.70e-04
+B04,420,62.86,76.90,+14.04,1.83e-29
+B05,420,60.00,63.33,+3.33,5.11e-08
+B06,400,63.00,65.25,+2.25,1.08e-09
+B07,400,69.25,61.50,-7.75,4.90e-06
+B08,440,67.27,68.86,+1.59,1.70e-15
+B09,400,58.25,61.00,+2.75,1.26e-05
+
+mean,,62.43,63.51,+1.08,
+std,,3.89,6.22,6.05,
+pooled_intersection,3680,62.47,"95% CI [60.89, 64.04]",,3.76e-52
+pooled_afpm,3680,63.64,"95% CI [62.06, 65.20]",,3.65e-62
+
+test,statistic,p_value,note
+paired t (9 subjects),0.535,0.607,afpm vs intersection
+wilcoxon signed-rank,,0.734,
+sign test,5/9 up,1.000,
+cohen's d (paired),0.178,,negligible
+pooled chi-square,1.029,0.310,pooled trials
+mean difference excluding B04,,-0.54,the entire gain comes from one subject

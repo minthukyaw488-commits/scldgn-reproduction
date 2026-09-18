@@ -7,7 +7,9 @@ An independent reproduction of
 > 72(1), 405–415, 2025. Code: <https://github.com/hongyizhi/SCLDGN>
 
 run from the raw competition recordings using the authors' own released code and
-preprocessing, plus a cross-dataset evaluation the paper does not report.
+preprocessing, plus two evaluations the paper does not report: a cross-dataset transfer
+to BCI IV 2b, and an attempt to improve that transfer with the channel-mapping stage of
+AFPM.
 
 > SCLDGN is **not vendored here** — it is cloned during setup. What this repository
 > holds is the reproduction: results, the patches needed to run the code off CUDA, the
@@ -68,7 +70,69 @@ same recipe reaches inside 2a — and the two are not directly comparable anyway
 the cross-dataset task is binary on three channels while the within-dataset task is
 four-class on twenty-two.
 
-Total compute: ~52 hours on an Apple M4 (MPS backend). The authors used an NVIDIA A100.
+### 3. Can a richer shared montage improve that transfer? — no
+
+The cross-dataset run above throws away 19 of 2a's 22 channels, because 2b has only
+three. The channel-mapping stage of AFPM offers a way to keep them:
+
+> Chen, Li & Wu, **"Alignment-Free Plug-and-Play Transfer Learning for
+> Cross-Dataset EEG-Based Brain-Computer Interfaces"** (arXiv:2507.11911)
+
+Both datasets are mapped onto a fixed 17-channel motor template
+(FC3…CP4), each dataset filling the slots it carries and zero-filling the rest. 2a
+fills all seventeen; 2b fills three. Everything else is held fixed — same network, same
+loss, same schedule, same model selection — so only the input montage changes.
+
+Mapping runs *after* Euclidean Alignment, not before: a zero-filled trial has a
+singular covariance, so EA has to see the real channels.
+
+| | intersection (3 ch) | **AFPM template (17 ch)** | difference |
+|---|---|---|---|
+| source validation | 81.48 % | **91.48 %** | **+10.00 pp** |
+| **target 2b** | 62.43 % | **63.51 %** | **+1.08 pp** |
+
+| subject | B01 | B02 | B03 | B04 | B05 | B06 | B07 | B08 | B09 |
+|---|---|---|---|---|---|---|---|---|---|
+| intersection | 58.25 | 59.50 | 63.50 | 62.86 | 60.00 | 63.00 | 69.25 | 67.27 | 58.25 |
+| AFPM | 56.50 | 58.75 | 59.50 | **76.90** | 63.33 | 65.25 | 61.50 | 68.86 | 61.00 |
+| difference | −1.75 | −0.75 | −4.00 | **+14.04** | +3.33 | +2.25 | −7.75 | +1.59 | +2.75 |
+
+**The target gain is not significant**: paired *t*(8) = 0.535, *p* = 0.607; Wilcoxon
+*p* = 0.734; sign test 5/9 up, *p* = 1.000; Cohen's *d* = 0.178. The two pooled
+confidence intervals overlap across most of their range ([62.06, 65.20] against
+[60.89, 64.04]). Excluding B04, the one subject that moved, the mean difference is
+**−0.54 pp**. Full tests: [`cross_dataset/afpm_comparison.csv`](cross_dataset/afpm_comparison.csv).
+
+Why the mapping does not pay: it fixes one distribution mismatch and introduces
+another. The model now trains on trials with 17 of 17 slots filled and is tested on
+trials with 3 of 17 filled, so its spatial filters and BatchNorm statistics are fitted
+to an input density the target never has.
+
+### What the two cross-dataset runs say together
+
+The interesting quantity is not the 1.08 pp. It is the ratio:
+
+```
+source validation   81.48 %  ->  91.48 %      +10.00 pp
+target 2b           62.43 %  ->  63.51 %       +1.08 pp
+```
+
+Fourteen extra channels of real signal bought a large improvement in fitting the source
+subjects and almost nothing in transferring to new ones. The same asymmetry shows up
+inside 2a: across the nine LOSO folds of §1, source-validation accuracy and target
+accuracy correlate at **r = −0.86** — the folds the model fits best are the ones it
+transfers to worst.
+
+That is a statement about *model selection*, not about capacity. The released recipe
+selects its checkpoint on source validation, which is the only labelled data a
+zero-calibration deployment has; these two runs suggest that criterion is close to
+uninformative about the quantity anyone actually cares about. An oracle measurement of
+how much it costs is the obvious next experiment, and is in progress.
+
+---
+
+Compute: ~52 h for §1 and §2, ~2.5 h for §3, on an Apple M4 (MPS backend). The authors
+used an NVIDIA A100.
 
 ---
 
@@ -103,7 +167,8 @@ Same network, same loss, same weights, same schedule. Two things necessarily dif
   subjects live in the other dataset. Batch size follows at 36 = 9 × 4, preserving the
   four trials per domain per batch that 32 = 8 × 4 gives in the official run.
 - **Channels and classes are the intersection of the two datasets** — C3/Cz/C4, and
-  left vs right hand.
+  left vs right hand. `--channels afpm` substitutes the 17-channel AFPM template for
+  the intersection; nothing else changes.
 
 Model selection still uses a held-out split of the source subjects. The target dataset
 is read exactly once, after training ends.
@@ -162,8 +227,16 @@ python cross_dataset/build_cross_2a_2b.py     # parse both datasets into one npz
 python cross_dataset/train_cross_2a_2b.py     # train on 2a, evaluate on 2b
 ```
 
-The build script exposes `--ea-scope`, `--source-2a` and `--filter` so individual
-preprocessing choices can be varied one at a time.
+With the AFPM channel mapping (§3):
+
+```bash
+python cross_dataset/build_cross_2a_2b.py --channels afpm --out cross_2a_2b_afpm.npz
+DATA_OVERRIDE=cross_2a_2b_afpm.npz python cross_dataset/train_cross_2a_2b.py \
+    --out afpm_RESULTS.csv
+```
+
+The build script exposes `--channels`, `--ea-scope`, `--source-2a` and `--filter` so
+individual preprocessing choices can be varied one at a time.
 
 ### Dependencies
 
